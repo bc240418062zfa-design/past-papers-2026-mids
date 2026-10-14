@@ -1,0 +1,190 @@
+📢 *SUBJECT: SE602*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Hoor ul Ain chaudhry
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "SE602 Final term"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs easy thy , slides sa hi thy ,
+📍 Long :
+✅ Briefly explain the two hats of Kent.
+✅ 5 characteristics of micro service architechture.
+✅ write down the name of re engineering approaches only  name?
+📍 short:
+✅ Three phases of reverse engineering.
+✅ What are the primary objectives behind breaking down an application into component modules or full-blown services, focusing on aspects such as quality, maintainability, and autonomy?
+✅ names of two hats of Kent.
+✅ is it mandatory to enterprise have an arcihitechture?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* A
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "1 two Kent hat 2.three category of bad smells 3.It is mandatory to enterprise have an architectur? 1.five name oapproaches of re engineering 2.four benefits of Enterprise 3.Refector ma database q problem krta ha https://youtu.be/ZLP_0IFlzsM?si=DpzrSL6GWpNeMoiD YouTube py Techlearn ki video ha ye"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sairy handouts sy aye thy so handouts achy sy read kr k jaye
+📍 Short question
+📍 4.two key objective of reengineering
+📍 Long quest
+📍 Mostly question is video sy aye thy bs 2 question is video sy ni aye baqi sairy question is video sy aye thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* A
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "1 two Kent hat 2.three category of bad smells 3.It is mandatory to enterprise have an architectur? 1.five name oapproaches of re engineering 2.four benefits of Enterprise 3.Refector ma database q problem krta ha https://youtu.be/ZLP_0IFlzsM?si=DpzrSL6GWpNeMoiD YouTube py Techlearn ki video ha ye"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sairy handouts sy aye thy so handouts achy sy read kr k jaye
+📍 Short question
+📍 4.two key objective of reengineering
+📍 Long quest
+📍 Mostly question is video sy aye thy bs 2 question is video sy ni aye baqi sairy question is video sy aye thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* A
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "1: What are the names of Kent Beck's Two Hats? 2: Write two examples of Re-documentation of artifacts. 3:Enlist two problems with Refactoring. 4: Enlist three member companies of TOGAF 1:  Coupler's five bad smell name. 2: Define Software Re-architecting with an example. 3: Difference between Refactoring and Performance Optimization."
+
+*KEY POINTS / TOPICS:*
+📍 Short Questions:
+📍 Long Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* A
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "1: What are the names of Kent Beck's Two Hats? 2: Write two examples of Re-documentation of artifacts. 3:Enlist two problems with Refactoring. 4: Enlist three member companies of TOGAF 1:  Coupler's five bad smell name. 2: Define Software Re-architecting with an example. 3: Difference between Refactoring and Performance Optimization."
+
+*KEY POINTS / TOPICS:*
+📍 Short Questions:
+📍 Long Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* M.Umar
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "Refactoring vs Performance optimisation 3 categories of code smells Why database affect in refactoring Technical debt"
+
+*KEY POINTS / TOPICS:*
+📍 All mcqs are conceptual
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* M.Umar
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "Refactoring vs Performance optimisation 3 categories of code smells Why database affect in refactoring Technical debt"
+
+*KEY POINTS / TOPICS:*
+📍 All mcqs are conceptual
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* ifra malik
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Names of two hats of Kent? Refactoring vs performance optimization? Key objectives of re engineering? Three planium member (companies) of TOGAF? Software re architecture with example? Monolithic design k related ek mcqs tha.....mcqs saray conceptual thyy ayee sb ppt slides se h thy but conceptual long or short qs repeated hen jo sbke same wahi a rahyy"
+
+*KEY POINTS / TOPICS:*
+📍 Technical debt wala mcqs tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* ifra malik
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Names of two hats of Kent? Refactoring vs performance optimization? Key objectives of re engineering? Three planium member (companies) of TOGAF? Software re architecture with example? Monolithic design k related ek mcqs tha.....mcqs saray conceptual thyy ayee sb ppt slides se h thy but conceptual long or short qs repeated hen jo sbke same wahi a rahyy"
+
+*KEY POINTS / TOPICS:*
+📍 Technical debt wala mcqs tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Nisa
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Re engineering strategies names Just Technical debt Refactoring ma database kue problem krta ha. Code smells k koi b 5 names. Monolithic design k 2 technical benefits Refactoring aur performance optimization Ka difference. Micro service Wala tha kuch 5 likhny thy."
+
+*KEY POINTS / TOPICS:*
+📍 mcqs bhot easy thy, pora paper hi easy tha
+📍 mcqs chatgpt sy bnwa lain idr sy cover ho jaty, lakin hr topic ma sy bnwany
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Nisa
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Re engineering strategies names Just Technical debt Refactoring ma database kue problem krta ha. Code smells k koi b 5 names. Monolithic design k 2 technical benefits Refactoring aur performance optimization Ka difference. Micro service Wala tha kuch 5 likhny thy."
+
+*KEY POINTS / TOPICS:*
+📍 mcqs bhot easy thy, pora paper hi easy tha
+📍 mcqs chatgpt sy bnwa lain idr sy cover ho jaty, lakin hr topic ma sy bnwany
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Mishi
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "MCQ paradox ki sote pr jo hein wo hi thi lkin thory change kr k puchy thy site pr koi or word miss tha but ppr me kuch or lkin mostly whi thy kuch week 7 se aaye thy"
+
+*KEY POINTS / TOPICS:*
+📍 1.Key objective of re-engineering
+✅ What is Technical debt?
+✅ Approaches of re engineering
+✅ Three planium members (companies) of TOGAF.
+✅ software re architecture with example
+✅ Kent two hats
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Mishi
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "MCQ paradox ki sote pr jo hein wo hi thi lkin thory change kr k puchy thy site pr koi or word miss tha but ppr me kuch or lkin mostly whi thy kuch week 7 se aaye thy"
+
+*KEY POINTS / TOPICS:*
+📍 1.Key objective of re-engineering
+✅ What is Technical debt?
+✅ Approaches of re engineering
+✅ Three planium members (companies) of TOGAF.
+✅ software re architecture with example
+✅ Kent two hats
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Is it mandatory to enterprise have an arcihitechture? What is technical debt? Three phases of reverse engineering. Three names of category of bad smell. Briefly explain 2 hats of kent. Refactoring vs performance optimization. 5 characteristics of micro service architechture."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Is it mandatory to enterprise have an arcihitechture? What is technical debt? Three phases of reverse engineering. Three names of category of bad smell. Briefly explain 2 hats of kent. Refactoring vs performance optimization. 5 characteristics of micro service architechture."

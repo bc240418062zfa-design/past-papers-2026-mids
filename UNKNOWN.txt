@@ -1,0 +1,3174 @@
+📢 *SUBJECT: UNKNOWN*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* ~Unknown
+📅 *Date:* 05-08-2026 | ⏰ 08:00 AM
+
+💬 "Paper bht easy __ is use to encrypt IPv4 traffic MAC address has --- bits DHCP provide ___ to client"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy the vu zone witn iqra+paradox file se the
+📍 Sare questions vu zone youtuve video mein se the exact same
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Seemab fatima
+📅 *Date:* 05-08-2026 | ⏰ 04:30 PM
+
+💬 "Short Qs was 1-program likhny wala Question 2-program was given of stack data structure push 1 push5 push 7 push 9 krny k bad remove kren to kons nmbr top pe hoga iska lifo ya fifo k according ans krna tha long was 1-output likhni thi 2-huffmann tree given tha or numbers diye hoye thy jin ko follow kar k characters find kar k word bnana tha free k 5 nmbr. good Luck"
+
+*KEY POINTS / TOPICS:*
+📍 Watch video of Education world of 1 hour in which They solve past paper most of your concept will clear.
+📍 MCQs was so easy main concepts some from that video and others are main concepts.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Syeda
+📅 *Date:* 05-08-2026 | ⏰ 08:00 AM
+
+💬 "Tio much easy tha Two outputs likhni thi aik matrix wala tha or aik buff wala Aik program likhna tha jis mein switch statement ko use kar k salary defuction karni thi or aik mein code complete karna tha getline use kar k"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs paradox se aye the majority
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Shayan
+📅 *Date:* 04-08-2026 | ⏰ 02:30 PM
+
+💬 "1.IP Adresses were given, tell which one is Private and which is Public? Ans: Starts with 10 → Private Starts with 172.16–31 → Private Starts with 192.168 → Private Anything else → Public Private: 10.0.0.0/8 is explicitly identified as a private network . Public (Global): 128.210.24.6 is used as an example of a global IP address . 2.In a packet tracer tool, when we perform a static IP configuration, then which types of information will be required? Ans: For Static IP Configuration in Packet Tracer, you need: ● IP Address ● Subnet Mask ● Default Gateway ● DNS Server (if required) 3.Suppose you are using Packet Tracer for simulating network design of a university campus that is comprised of various types of network devices such as switches and routers etc. You are required to write the commands that will be used in Packet Tracer to perform the following tasks/ configurations on a router: a. Changing the default name of Cisco Router as “CS610p-Router”. b. Setting password on the router as “CS610pp”. c. Checking the IP address of all interfaces on the router. Ans: a. Change router name enable configure terminal hostname CS610p-Router b. Set password enable configure terminal enable secret CS610pp c. Check IP addresses of all interfaces show ip interface brief 4.Suppose you are given a task to check the connectivity of some website/host then which in context of your proposed command: -What will be the default wait time in milliseconds? -Mention the symbol that will show in case of dropped packets. -What will be the maximum value of TTL? Ans: Connectivity Check: Command: The Ping command Default wait time:. 4000 ms (4 seconds) Dropped packet symbol:. . (dot) Maximum TTL: The maximum value is 255 Class A: Class B: Class C: Ans: Private IP Address Ranges: Class A: 10.0.0.0/8 1. Class B Class C: 6.Suppose XYZ manufacturing company has decided to make computer networks in its two floors. You are hired as a network administrator in this company and given a task to develop a Local Area Network (LAN) for each floor and then connect all LANs segments with each other. Company management has also planned to connect this office with its head office that is located in Karachi via public network. Ans: Manufacturing Company Scenario: Intelligent device (first floor): A Switch (such as an ATM switch or LAN switch) . Connecting LAN segments: A Router. Connecting to a public network: A Router 7.Consider the IP address 195.2.0.5/29 and provide the following information: a) Total number of subnets ___ b) Total number of usable hosts ___ IP Address 195.2.0.5/29: a) Total number of subnets: 32 (Calculated from Class C default 24 to 29.) b) Total number of usable hosts: 6 (Based on 3 host bits: 2^3 - 2 = 6.) 8.Write IP configuration command? Ans: ipconfig 9.Connections matching with cable time ()straight through or crossover? Ans : Different devices → Straight-through Same devices → Crossover 10.write first octet ranges and subnet mask of class A,B and C? Ans: Class Ranges and Subnet Masks: Class A: Range 0 through 127; Subnet mask 255.0.0.0 8, 11. Class B: Range 128 through 191; Subnet mask 255.255.0.0 8, 11. Class C: Range 192 through 223; Subnet mask 255.255.255.0 8, 11."
+
+*KEY POINTS / TOPICS:*
+📍 command you will use for this purpose? Also answer the following questions
+✅ Private IP address ranges
+📍 According to this scenario, you are required to answer the following questions:
+✅ Which type of intelligent device will be used to connect the local computers at the first floor?
+✅ Which device will be used to connect the segments of LANs of the first and the second floor?
+✅ Which device will be used to connect these LANs with the public network?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Shampa paper wala 😂
+📅 *Date:* 04-08-2026 | ⏰ 2 PM
+
+💬 "1 - Enlist biological databases sequence of DNA RNA and protein? 2 - what is main advantage of inter pro ? 1- You are given a sequence ( pata nai Ki Lamba Sa sequence Tha Jaise QRKWPZSNMKT ) identify number percentages of sequence and the value of GRAVY sequence is 1.2 its hydrophobic or hydrophilic?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from vu toolkit thankyou so much paradox bahi ( Allah ap ko bohat kamyab Kara or buhat kushiyan ata faramya Ameen)
+📍 Short :
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Vu African Bandar 😂
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "2- what is LAMDA max in spectrophotometery? 1- what is beer Lambert law in experiment and how concentration of E prime is determined from KMnO4 ? Also provide with beer Lambert law formula ?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all from manual
+📍 Short 1- what is term analyte sample matrix in analytical chemistry and how would you determine them in experiment?
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Sana Khan
+📅 *Date:* 04-08-2026 | ⏰ 04:30 PM
+
+💬 "MB503P_"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs conceptual  _ 9 Mcqs thy _Mix thy DNA ,extra action ,microscope un mein se thy mix thy overall ..
+📍 PCR Short mein tha _chemical ky names btane thy
+📍 1 Long tha PCR se related
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Shampa paper wala 😂
+📅 *Date:* 04-08-2026 | ⏰ 2 PM
+
+💬 "1 - Enlist biological databases sequence of DNA RNA and protein? 2 - what is main advantage of inter pro ? 1- You are given a sequence ( pata nai Ki Lamba Sa sequence Tha Jaise QRKWPZSNMKT ) identify number percentages of sequence and the value of GRAVY sequence is 1.2 its hydrophobic or hydrophilic?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from vu toolkit thankyou so much paradox bahi ( Allah ap ko bohat kamyab Kara or buhat kushiyan ata faramya Ameen)
+📍 Short :
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Vu African Bandar 😂
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "2- what is LAMDA max in spectrophotometery? 1- what is beer Lambert law in experiment and how concentration of E prime is determined from KMnO4 ? Also provide with beer Lambert law formula ?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all from manual
+📍 Short 1- what is term analyte sample matrix in analytical chemistry and how would you determine them in experiment?
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Sana Khan
+📅 *Date:* 04-08-2026 | ⏰ 04:30 PM
+
+💬 "MB503P_"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs conceptual  _ 9 Mcqs thy _Mix thy DNA ,extra action ,microscope un mein se thy mix thy overall ..
+📍 PCR Short mein tha _chemical ky names btane thy
+📍 1 Long tha PCR se related
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Vu ka fazool paper .😂
+📅 *Date:* 04-08-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs mostly blotting technique's wala topic se aya Tha zayada mcqs ka zayada portion blotting technique's wala Tha or thora se end wala topics se the 2- what is haplotype? 3- what is immunofluorescence microscopy? 4- what is SNP and effect of SNP on non-coding region ? 1- what are characteristics of radioactive and non radioactive probing? 2 - explain types of DNA fingerprinting? 3- explain types of DNA fingerprinting of genomic history to cure diseases?"
+
+*KEY POINTS / TOPICS:*
+📍 Short : 1- what is main advantage of non radioactive probing?
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* A.R
+📅 *Date:* 04-08-2026 | ⏰ 12:00 PM
+
+💬 "MCQs sary conceptual thy Paradox web quizzes mein se aik bhi nhi aya, Slides mein se sary important concept clear krna or paper mein MCQs ko dehan se smjhna asan hongy.. Q1: Give the two examples of good design class. Q2: What is GitLab. is it only have version control feature or has more features? (thora sa sawal change likha maine pr pucha yhi tha) Q3: Ik long statement di thi website software k kuch feature jo kuch log perform kr rhy hein jin mein se 1 insan kaafi complex feature control kr rha hai or baki k 2 se 3 log yeh kaam krny k liay konsy tools use krein gy (mujhe shi se smjh ni aya tha to bs abhi zhen me yhi jo likh dia) Q4: Ik bdi si statement di thi k us mein end mein pucha k is situation mein konsa Agile model's Selenium like konsa tool use hoga? (asa hi kuch likha tha)"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Fatima
+📅 *Date:* 04-08-2026 | ⏰ 02:30 PM
+
+💬 "Assalam o alikum Paper sahi tha mcqs thore conceptual thy mere ps to zyda tar output wale mcqs aye thy aik to buht bara prgrm tha mcqs ky hisaab se aur kch definition ayi thi."
+
+*KEY POINTS / TOPICS:*
+📍 Baki paper me short to sb output aur error ky do aye thy bs aik hi prgrm aya likhne ko ky do matrix ka subtract kare
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* AbdulRehman
+📅 *Date:* 04-08-2026 | ⏰ 12:00 PM
+
+💬 "MCQs sary conceptual thy Paradox web quizzes mein se aik bhi nhi aya, Slides mein se sary important concept clear krna or paper mein MCQs ko dehan se smjhna asan hongy.. Q1: Give the two examples of good design class. Q2: What is GitLab. is it only have version control feature or has more features? (ase hi kuch sawal tha) Q3: (Nhi yad aa rha) Q4: Ik bdi si statement di thi k us mein end mein pucha k is situation mein konsa Agile model's Selenium like konsa tool use hoga? (asa hi kuch likha tha)"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* azka sajid
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "meiny paradox ke hi current or past paper reviews dekh kr iqra aziz ki video prepare ki thi muje same to same wohi paper a gya baki MCQs b easy thy wo video quality achi nhi thi lakin phir b meiny prepare kr li thi"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* niazi
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "Alhumdulliah bht acha paper hogya hy MCQ sary vu gate walo ka channel hy r kst walo ki lab sy paper clear sara hogya hy  kst walo ki lab sy hi questions ahy thy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* RS
+📅 *Date:* 04-08-2026 | ⏰ 02:30 PM
+
+💬 "Practical bif601 Q: Genome Mutation/assembling Q:RNA seq DNA seq all about subsequence Q:lig plot"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* RS
+📅 *Date:* 04-08-2026 | ⏰ 02:30 PM
+
+💬 "Practical bif601 Q: Genome Mutation/assembling Q:RNA seq DNA seq all about subsequence Q:lig plot"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* Fiza
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "Assalam o Alaikum paper na easy tha mushkil tha conceptual mcqs thy output find kr ny waly thy or long main 1 program classes wala tha bki 3 output waly thy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Aiman Rafiq
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "paper was very difficult. only 4-5 mcqs were from world of education remaining was very difficult and all from last lectures. long was about writing programs. one os them was writing a program of cin.read() and cout.write() and use of cing.count()"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Areeba
+📅 *Date:* 04-08-2026 | ⏰ 8 AM
+
+💬 "CS310      4-8-2026        8AM"
+
+*KEY POINTS / TOPICS:*
+✅ Write PHP code to installed on system
+✅ 1. Write PHP code to installed on system
+✅ sanitize and validate url
+✅ PHP ma database connect karwana tha
+✅ WordPress and uses
+✅ New session banana tha or user name given tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Areeba
+📅 *Date:* 04-08-2026 | ⏰ 8 AM
+
+💬 "CS310      4-8-2026        8AM"
+
+*KEY POINTS / TOPICS:*
+✅ Write PHP code to installed on system
+✅ 1. Write PHP code to installed on system
+✅ sanitize and validate url
+✅ PHP ma database connect karwana tha
+✅ WordPress and uses
+✅ New session banana tha or user name given tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "1 table tha true false btana tha Statements Kuch aisy thi(arrangement vaisi ni h but statement aisi hi thi) const int n = ------- int burst time[4] = { -----}; int remaining= [4]; int waiting= ------ int quantum time= ----- a. Convert dirty(percentage) into decimal b. Print EAT (iska code likhna tha ta k eat print ho jaey) Row matrix tha uska code likhna tha ya column tha m dono likhy"
+
+*KEY POINTS / TOPICS:*
+✅ VirtualBox is used to run virtual machines
+✅ Ubuntu is Linux based
+✅ Virtual machines can use CPU, storage and memory of the host computer
+✅ If the PC has 8GB RAM then we should give 8gb RAM to virtual machine.(Ya Ubuntu)
+✅ VDI operator ya Opera is recommended to use in Virtual machines
+✅ burst time given tha 10, 8, 4, 2 and quantum time is 4 then write
+✅ Code given tha EAL ka
+✅ 1024 × 1024 B[i][j]
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* ..
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "mov 02,20 mov AX,BX 3.What are assembly lang instructions are used in Motorolla 68k processor for data movement and arithmetic operations ."
+
+*KEY POINTS / TOPICS:*
+📍 MCQs mostly final term ka syllabus ma sa the
+📍 Questions:
+✅ Store two values 5 and 10 in registers and then add these two and again store in memory . write assembly instructions for this ?
+✅ Solve the problem in given instructions:
+✅ AX= 1010 0010 1100 1000 and BX = 1100 1000 0011 0000  then what is the new value  of AX  , BX and carry flag after execute instruction SHR on AX  and SHL on BX .
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* A
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "Q2. 3-bit flip-flop ka synchronous counter use karke state diagram draw karna tha Q3. Ek circuit diya hua tha, usko EWB mein create karna tha aur logic converter use karke simplify karna tha 💡 Advice sabke liye: EWB allowed nahi tha! ab jiska Bhi cs302p ka paper he wo apna bandobast kr ke jaye ke us ne  gates and circuits wagera kis pe bnane he. Bhaut zyada rona aaya mujhe 😭💔 — ek to full barish 🌧️ mein paper dene gaye , upar se EWB bhi allowed nahi. 🤲 Sab dua karna ke main is paper mein pass ho jaun 🙏❤️"
+
+*KEY POINTS / TOPICS:*
+📍 🔹 Objective:
+📍 Mostly MCQs , gates ke topic se.
+📍 🔹 Subjective:
+📍 Q1. F = A'BC + C'D — is tarah ke 2 questions the jo EWB mein karne the
+📍 EWB allowed nahi tha jabke questions usi pe based the, is wajah se EWB wale questions attempt ni keye mne.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "1 table tha true false btana tha Statements Kuch aisy thi(arrangement vaisi ni h but statement aisi hi thi) const int n = ------- int burst time[4] = { -----}; int remaining= [4]; int waiting= ------ int quantum time= ----- a. Convert dirty(percentage) into decimal b. Print EAT (iska code likhna tha ta k eat print ho jaey) Row matrix tha uska code likhna tha ya column tha m dono likhy"
+
+*KEY POINTS / TOPICS:*
+✅ VirtualBox is used to run virtual machines
+✅ Ubuntu is Linux based
+✅ Virtual machines can use CPU, storage and memory of the host computer
+✅ If the PC has 8GB RAM then we should give 8gb RAM to virtual machine.(Ya Ubuntu)
+✅ VDI operator ya Opera is recommended to use in Virtual machines
+✅ burst time given tha 10, 8, 4, 2 and quantum time is 4 then write
+✅ Code given tha EAL ka
+✅ 1024 × 1024 B[i][j]
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* ..
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "mov 02,20 mov AX,BX 3.What are assembly lang instructions are used in Motorolla 68k processor for data movement and arithmetic operations ."
+
+*KEY POINTS / TOPICS:*
+📍 MCQs mostly final term ka syllabus ma sa the
+📍 Questions:
+✅ Store two values 5 and 10 in registers and then add these two and again store in memory . write assembly instructions for this ?
+✅ Solve the problem in given instructions:
+✅ AX= 1010 0010 1100 1000 and BX = 1100 1000 0011 0000  then what is the new value  of AX  , BX and carry flag after execute instruction SHR on AX  and SHL on BX .
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #28*
+👤 *Shared by:* A
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "Q2. 3-bit flip-flop ka synchronous counter use karke state diagram draw karna tha Q3. Ek circuit diya hua tha, usko EWB mein create karna tha aur logic converter use karke simplify karna tha 💡 Advice sabke liye: EWB allowed nahi tha! ab jiska Bhi cs302p ka paper he wo apna bandobast kr ke jaye ke us ne  gates and circuits wagera kis pe bnane he. Bhaut zyada rona aaya mujhe 😭💔 — ek to full barish 🌧️ mein paper dene gaye , upar se EWB bhi allowed nahi. 🤲 Sab dua karna ke main is paper mein pass ho jaun 🙏❤️"
+
+*KEY POINTS / TOPICS:*
+📍 🔹 Objective:
+📍 Mostly MCQs , gates ke topic se.
+📍 🔹 Subjective:
+📍 Q1. F = A'BC + C'D — is tarah ke 2 questions the jo EWB mein karne the
+📍 EWB allowed nahi tha jabke questions usi pe based the, is wajah se EWB wale questions attempt ni keye mne.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #29*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 03-08-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *03-08-2026 Monday (6:30 Pm)* *Final Term Spring 2026* *MB501T (Cell Biology - Theory)* *Time Duration: 90 minutes* *Housekeeping genes and autocrine signaling were not from Kainat and sir Mughal File and not from the current paper.* *I remembered the concept of autocrine signaling, so I wrote it.* *There are many questions that are the same in Sir Mughal’s and Kainat’s files. Please prepare the different questions as well; they are important, and also prepare the current paper questions.* *I had checked the reviews, and mostly they mentioned Kainat’s and Sir Mughal’s files. So, I first prepared the questions that were common in both files, then I did the remaining different questions,* **Regards, Sindhi Memon* 🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *Mostly MCQS form Sir Zaman file and Half from handouts (ppt).*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.What are autocrine signaling? (Short).*
+📍 *2.What are house keeping genes? (Short).*
+📍 *3.Difference between humoral and cellular immunity (Short).*
+📍 *4.Difference between Homotypic and hetero typic fusion (Short).*
+📍 *5.Features of Adaptive Immune System (Long).*
+📍 *6.Adult stem cells and its therapeutic uses and benefits (Long).*
+📍 *7.Describe E.coli signaling (Long).*
+📍 *I was confused about the housekeeping genes question, but I still attempted it.*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #30*
+👤 *Shared by:* Nina
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Course Code: CS401P Exam: Final Term (Spring 2026) Q1: Write the names of two different file types that can be generated by NASM. Also explain the usage of each file type. Q2: Write down the names of any five pins of the DB-9 Connector. Q3: Write an assembly program that terminates when the ESC key is pressed on the keyboard. Q4: Let assume that all the general purpose registers have the following values: AX = 13 BX = 25 CX = 53 DX = 4 Write an assembly program to move the contents of CX to Ax and BX =DX 📌Recommendation: Study all CS401P reviews available on the Paradox channel. Also watch the Study Track Preparation Videos and Practical Lab Videos. One MCQ came from the practical videos Paradox channel reviews is enough to cover almost the entire paper. Best of Luck everyone 🤞 Jazakallah khair🌸"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy tah hands out sa hi tah aur study track ki video sa tah
+📍 Short /long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #31*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 03-08-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *03-08-2026 Monday (6:30 Pm)* *Final Term Spring 2026* *MB501T (Cell Biology - Theory)* *Time Duration: 90 minutes* *Housekeeping genes and autocrine signaling were not from Kainat and sir Mughal File and not from the current paper.* *I remembered the concept of autocrine signaling, so I wrote it.* *There are many questions that are the same in Sir Mughal’s and Kainat’s files. Please prepare the different questions as well; they are important, and also prepare the current paper questions.* *I had checked the reviews, and mostly they mentioned Kainat’s and Sir Mughal’s files. So, I first prepared the questions that were common in both files, then I did the remaining different questions,* **Regards, Sindhi Memon* 🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *Mostly MCQS form Sir Zaman file and Half from handouts (ppt).*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.What are autocrine signaling? (Short).*
+📍 *2.What are house keeping genes? (Short).*
+📍 *3.Difference between humoral and cellular immunity (Short).*
+📍 *4.Difference between Homotypic and hetero typic fusion (Short).*
+📍 *5.Features of Adaptive Immune System (Long).*
+📍 *6.Adult stem cells and its therapeutic uses and benefits (Long).*
+📍 *7.Describe E.coli signaling (Long).*
+📍 *I was confused about the housekeeping genes question, but I still attempted it.*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #32*
+👤 *Shared by:* Nina
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Course Code: CS401P Exam: Final Term (Spring 2026) Q1: Write the names of two different file types that can be generated by NASM. Also explain the usage of each file type. Q2: Write down the names of any five pins of the DB-9 Connector. Q3: Write an assembly program that terminates when the ESC key is pressed on the keyboard. Q4: Let assume that all the general purpose registers have the following values: AX = 13 BX = 25 CX = 53 DX = 4 Write an assembly program to move the contents of CX to Ax and BX =DX 📌Recommendation: Study all CS401P reviews available on the Paradox channel. Also watch the Study Track Preparation Videos and Practical Lab Videos. One MCQ came from the practical videos Paradox channel reviews is enough to cover almost the entire paper. Best of Luck everyone 🤞 Jazakallah khair🌸"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy tah hands out sa hi tah aur study track ki video sa tah
+📍 Short /long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #33*
+👤 *Shared by:* NOOR
+📅 *Date:* 02-08-2026 | ⏰ 04:30 PM
+
+💬 "--- Q1. Differentiate between chgrp, chmod, and chown commands in Linux. (5 Marks) Command	Purpose	Example chgrp	Changes the group ownership of a file or directory.	chgrp staff file.txt chmod	Changes the permissions (read, write, execute) of a file or directory.	chmod 755 file.txt chown	Changes the owner (and optionally the group) of a file or directory.	chown ali file.txt Easy Trick chgrp → Change Group chmod → Change Mode (Permissions) chown → Change Owner --- Q2. Write 5 Postfix commands used in Linux. (5 Marks) systemctl status postfix systemctl start postfix systemctl stop postfix systemctl restart postfix postconf mail_version --- Q3. Explain the installation steps of a Kerberos Server on Ubuntu. (5 Marks) Step 1 Update Ubuntu packages. sudo apt update Step 2 Install the Kerberos server. sudo apt install krb5-kdc krb5-admin-server Step 3 Configure the Kerberos realm (e.g., VUSNA.COM). Step 4 Initialize the Kerberos database. sudo krb5_newrealm Step 5 Start the Kerberos services. sudo systemctl start krb5-kdc sudo systemctl start krb5-admin-server Step 6 Enable the services to start automatically. sudo systemctl enable krb5-kdc sudo systemctl enable krb5-admin-server Step 7 Create a principal. kadmin.local addprinc username Step 8 Verify the principal. listprincs --- Q4. Write the output/effect of the following command. (5 Marks) sudo install -m 077 -d /etc/apt/keyrings Explanation sudo → Runs the command with administrator (root) privileges. install → Creates files or directories. -m 077 → Sets the directory permission to 077 (Owner, Group, and Others all have read, write, and execute permissions according to the specified mode). -d → Creates a directory. /etc/apt/keyrings → The directory to be created. Output/Effect > Creates the /etc/apt/keyrings directory (if it does not already exist) and applies 077 permissions using administrator privileges. --- ⭐ Quick Revision chgrp → Change group chmod → Change permissions chown → Change owner 5 Postfix commands → status, start, stop, restart, postconf mail_version Kerberos installation → Update → Install → Configure realm → Create database → Start services → Create principal sudo install -m 077 -d /etc/apt/keyrings → Creates the directory with the specified permissions."
+
+*KEY POINTS / TOPICS:*
+📍 IT601P Final Term (02-03-2026) – Solved Subjective
+✅ Check Postfix Status
+✅ Start Postfix
+✅ Stop Postfix
+✅ Restart Postfix
+✅ Check Postfix Version
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #34*
+👤 *Shared by:* Zee✌🏻
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "*MCQs* : mostly from salman file, 2,3 situation based, hypersensitivity topic, one image of spore was given we have to identify whether its 1. Terminal endospore 2. Subterminal exospore 3. Central endospore 4. Subcentral exospore"
+
+*KEY POINTS / TOPICS:*
+📍 *Short Q*
+✅ Types of symbiosis
+✅ Drugs which inhibit Cell wall synthesis
+✅ What is PAMPs
+✅ Virus, virion, virioid
+📍 *Long Q*
+✅ Charactertics of fungi.
+✅ How do bacteria protect themselves from the host immune mechanisms
+✅ Disk diffusion method
+📍 *objective* : salman file+handouts
+📍 *subjective*: current papers
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #35*
+👤 *Shared by:* NOOR
+📅 *Date:* 02-08-2026 | ⏰ 04:30 PM
+
+💬 "--- Q1. Differentiate between chgrp, chmod, and chown commands in Linux. (5 Marks) Command	Purpose	Example chgrp	Changes the group ownership of a file or directory.	chgrp staff file.txt chmod	Changes the permissions (read, write, execute) of a file or directory.	chmod 755 file.txt chown	Changes the owner (and optionally the group) of a file or directory.	chown ali file.txt Easy Trick chgrp → Change Group chmod → Change Mode (Permissions) chown → Change Owner --- Q2. Write 5 Postfix commands used in Linux. (5 Marks) systemctl status postfix systemctl start postfix systemctl stop postfix systemctl restart postfix postconf mail_version --- Q3. Explain the installation steps of a Kerberos Server on Ubuntu. (5 Marks) Step 1 Update Ubuntu packages. sudo apt update Step 2 Install the Kerberos server. sudo apt install krb5-kdc krb5-admin-server Step 3 Configure the Kerberos realm (e.g., VUSNA.COM). Step 4 Initialize the Kerberos database. sudo krb5_newrealm Step 5 Start the Kerberos services. sudo systemctl start krb5-kdc sudo systemctl start krb5-admin-server Step 6 Enable the services to start automatically. sudo systemctl enable krb5-kdc sudo systemctl enable krb5-admin-server Step 7 Create a principal. kadmin.local addprinc username Step 8 Verify the principal. listprincs --- Q4. Write the output/effect of the following command. (5 Marks) sudo install -m 077 -d /etc/apt/keyrings Explanation sudo → Runs the command with administrator (root) privileges. install → Creates files or directories. -m 077 → Sets the directory permission to 077 (Owner, Group, and Others all have read, write, and execute permissions according to the specified mode). -d → Creates a directory. /etc/apt/keyrings → The directory to be created. Output/Effect > Creates the /etc/apt/keyrings directory (if it does not already exist) and applies 077 permissions using administrator privileges. --- ⭐ Quick Revision chgrp → Change group chmod → Change permissions chown → Change owner 5 Postfix commands → status, start, stop, restart, postconf mail_version Kerberos installation → Update → Install → Configure realm → Create database → Start services → Create principal sudo install -m 077 -d /etc/apt/keyrings → Creates the directory with the specified permissions."
+
+*KEY POINTS / TOPICS:*
+📍 IT601P Final Term (02-03-2026) – Solved Subjective
+✅ Check Postfix Status
+✅ Start Postfix
+✅ Stop Postfix
+✅ Restart Postfix
+✅ Check Postfix Version
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #36*
+👤 *Shared by:* Zee✌🏻
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "*MCQs* : mostly from salman file, 2,3 situation based, hypersensitivity topic, one image of spore was given we have to identify whether its 1. Terminal endospore 2. Subterminal exospore 3. Central endospore 4. Subcentral exospore"
+
+*KEY POINTS / TOPICS:*
+📍 *Short Q*
+✅ Types of symbiosis
+✅ Drugs which inhibit Cell wall synthesis
+✅ What is PAMPs
+✅ Virus, virion, virioid
+📍 *Long Q*
+✅ Charactertics of fungi.
+✅ How do bacteria protect themselves from the host immune mechanisms
+✅ Disk diffusion method
+📍 *objective* : salman file+handouts
+📍 *subjective*: current papers
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #37*
+👤 *Shared by:* User
+📅 *Date:* 02-08-2026 | ⏰ 12:00 PM
+
+💬 "Assalam o Alaikum everyone! CS403P ka ppr Alhamdulillah boht acha ho gya🤗 CS403P ki preparation ke lie VU gateway ak Youtube chennal unki preparation vedio hai 9 mint ki almost 80%ppr wohi se aya tha Almost sare MCQS wohi the or subjective mn bhi 2 ya 3 Question  wohi se aye the bs thori values change thi 😇 Ap sb bhi wo lazmi dekh kr jae In Sha Allah ppr best ho ga 🌸"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #38*
+👤 *Shared by:* Muhammad Asif
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper was too easy Q1.a table TeacherId Course TeacherAge 25 Islamiyat 30 25 Science 35 28 Computer 35 28 Maths 35 38 English 38 write this in 2nf Q2. FacultyId ProjectId ProjectName F100 P900 Geostationary write syntax for Table FacultyProject with data types first create table and then insert above data in table Q3. Draw symbols for Process , External Entity , Data Store , Data Flow , Collector Q4. Teacher ( TeacherID , Name , age , qualification) Class ( ClassID , TeacherID) write syntax for create index for Teacher class where TeacherID create index for Class has composite keys where ClassId and TeacherID"
+
+*KEY POINTS / TOPICS:*
+📍 These are long questions
+📍 Mcqs are very easy like syntax for create index , create unique index, create view , remove a view syntax etc
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #39*
+👤 *Shared by:* Abraaj
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "DFS Algorithm CLIPS Temperature input in  Celsius and a convert into Fahrenheit by using formula (C * 9 / 5 ) + 32 and show output Answer (printout t "Enter temperature in Celsius: ") (bind ?c (read)) ;; Calculate Fahrenheit using the formula (C * 9 / 5) + 32 (bind ?f (+ (* ?c (/ 9.0 5.0)) 32)) (printout t ?c " °C is equal to " ?f " °F" i. make a fact template of employee with the slots id name salary ii. assert facts with the values id "101" name "Sara" salary "50000" iii. display the result with the built in command of fact answer CLIPS> (deftemplate employee (slot id) (slot name) (slot salary)) CLIPS> (assert (employee (id "101") (name "Sara") (salary "50000"))) CLIPS> (facts) f-1     (employee (id "101") (name "Sara") (salary "50000")) For a total of 1 fact. MATLAB x = 0:0.1:2*pi; Sine wave in red and third may kuch plot karna tha"
+
+*KEY POINTS / TOPICS:*
+📍 Question:1
+✅ why stack is used in DFS
+✅ when nodes not available
+✅ explain the start of function
+✅ when we find the goal then which statement is display
+✅ how many loops are in the aloriyhm
+📍 Question 2
+📍 Question 3
+📍 Question 4
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #40*
+👤 *Shared by:* Areeba Arshad.
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "Mcqs sary easy thyy vu toolkit waly hi thy mostly aur subjective ma output waly thy aur ik half program likhna tha aur ik full aur in topics ma sy thy question output waly aur programs : static, inheritance , destructors, constructor, virtual"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #41*
+👤 *Shared by:* User
+📅 *Date:* 02-08-2026 | ⏰ 12:00 PM
+
+💬 "Assalam o Alaikum everyone! CS403P ka ppr Alhamdulillah boht acha ho gya🤗 CS403P ki preparation ke lie VU gateway ak Youtube chennal unki preparation vedio hai 9 mint ki almost 80%ppr wohi se aya tha Almost sare MCQS wohi the or subjective mn bhi 2 ya 3 Question  wohi se aye the bs thori values change thi 😇 Ap sb bhi wo lazmi dekh kr jae In Sha Allah ppr best ho ga 🌸"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #42*
+👤 *Shared by:* Muhammad Asif
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper was too easy Q1.a table TeacherId Course TeacherAge 25 Islamiyat 30 25 Science 35 28 Computer 35 28 Maths 35 38 English 38 write this in 2nf Q2. FacultyId ProjectId ProjectName F100 P900 Geostationary write syntax for Table FacultyProject with data types first create table and then insert above data in table Q3. Draw symbols for Process , External Entity , Data Store , Data Flow , Collector Q4. Teacher ( TeacherID , Name , age , qualification) Class ( ClassID , TeacherID) write syntax for create index for Teacher class where TeacherID create index for Class has composite keys where ClassId and TeacherID"
+
+*KEY POINTS / TOPICS:*
+📍 These are long questions
+📍 Mcqs are very easy like syntax for create index , create unique index, create view , remove a view syntax etc
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #43*
+👤 *Shared by:* Abraaj
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "DFS Algorithm CLIPS Temperature input in  Celsius and a convert into Fahrenheit by using formula (C * 9 / 5 ) + 32 and show output Answer (printout t "Enter temperature in Celsius: ") (bind ?c (read)) ;; Calculate Fahrenheit using the formula (C * 9 / 5) + 32 (bind ?f (+ (* ?c (/ 9.0 5.0)) 32)) (printout t ?c " °C is equal to " ?f " °F" i. make a fact template of employee with the slots id name salary ii. assert facts with the values id "101" name "Sara" salary "50000" iii. display the result with the built in command of fact answer CLIPS> (deftemplate employee (slot id) (slot name) (slot salary)) CLIPS> (assert (employee (id "101") (name "Sara") (salary "50000"))) CLIPS> (facts) f-1     (employee (id "101") (name "Sara") (salary "50000")) For a total of 1 fact. MATLAB x = 0:0.1:2*pi; Sine wave in red and third may kuch plot karna tha"
+
+*KEY POINTS / TOPICS:*
+📍 Question:1
+✅ why stack is used in DFS
+✅ when nodes not available
+✅ explain the start of function
+✅ when we find the goal then which statement is display
+✅ how many loops are in the aloriyhm
+📍 Question 2
+📍 Question 3
+📍 Question 4
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #44*
+👤 *Shared by:* Areeba Arshad.
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "Mcqs sary easy thyy vu toolkit waly hi thy mostly aur subjective ma output waly thy aur ik half program likhna tha aur ik full aur in topics ma sy thy question output waly aur programs : static, inheritance , destructors, constructor, virtual"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #45*
+👤 *Shared by:* .
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper na zada asan tha or na zada mushkil 1 question tha Jo overload operator ay tha us my kush symbol diy hoy thy or kha gya tha agr yes overload operator ha to yes likho otherwise not"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs normal thy
+📍 2 question my output find krni thi
+📍 1 question my tha agr program compile Hota ha to us ki output likho agr compile nhi Hota to reason do
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #46*
+👤 *Shared by:* Mala
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Over al conceptual tha... Ik mn nucleotide or nucleoside k difference tha Or ik mn buffer solution mn se aya tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handouts mn se ir sir Suleman k files se thy..
+📍 Short mn paf,enzymes related or nucleotides se ik short question tha..
+📍 Long mn apne chargaff rule state krna tha sath mn apk adenine k amount se guanine k find krni thi
+📍 Over all hard or conceptual tha..mids just mcqs portion mn tha.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #47*
+👤 *Shared by:* .
+📅 *Date:* 03-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper na zada asan tha or na zada mushkil 1 question tha Jo overload operator ay tha us my kush symbol diy hoy thy or kha gya tha agr yes overload operator ha to yes likho otherwise not"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs normal thy
+📍 2 question my output find krni thi
+📍 1 question my tha agr program compile Hota ha to us ki output likho agr compile nhi Hota to reason do
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #48*
+👤 *Shared by:* Mala
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Over al conceptual tha... Ik mn nucleotide or nucleoside k difference tha Or ik mn buffer solution mn se aya tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handouts mn se ir sir Suleman k files se thy..
+📍 Short mn paf,enzymes related or nucleotides se ik short question tha..
+📍 Long mn apne chargaff rule state krna tha sath mn apk adenine k amount se guanine k find krni thi
+📍 Over all hard or conceptual tha..mids just mcqs portion mn tha.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #49*
+👤 *Shared by:* Maala
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Easy tha. Paradox ki file parh lain. Iqra Azhar ki video dekh lain. 2 long to wahi thy same ivp6 , ivp4 Wala. Or match tha column. Us k elawa binary numbers diye thy jaisy 11100100 is k first octet sy Batana tha k Kon c ip class ha. Easy tha.. iqra ki video sy easily ho jaye ga. Inshahallah.. Wireshark or packet tracer allow nahe tha."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #50*
+👤 *Shared by:* Maala
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Easy tha. Paradox ki file parh lain. Iqra Azhar ki video dekh lain. 2 long to wahi thy same ivp6 , ivp4 Wala. Or match tha column. Us k elawa binary numbers diye thy jaisy 11100100 is k first octet sy Batana tha k Kon c ip class ha. Easy tha.. iqra ki video sy easily ho jaye ga. Inshahallah.. Wireshark or packet tracer allow nahe tha."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #51*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Exception handling with one example. Badclass ka code given tha identify krke code ko well define design m convert krna tha. What is GitLab.3 main features of it. Documentation tool ke name lkhne the."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #52*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Exception handling with one example. Badclass ka code given tha identify krke code ko well define design m convert krna tha. What is GitLab.3 main features of it. Documentation tool ke name lkhne the."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #53*
+👤 *Shared by:* Amna Islam Khan
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "Why labeo rohita ediable? Name three types of excretory system? Difference between protonephridia and metanephridia?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs was very easy from handouts
+📍 Short Question :
+📍 Long Question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #54*
+👤 *Shared by:* Amna Islam Khan
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "Why labeo rohita ediable? Name three types of excretory system? Difference between protonephridia and metanephridia?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs was very easy from handouts
+📍 Short Question :
+📍 Long Question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #55*
+👤 *Shared by:* Sara Noor
+📅 *Date:* 01-12-262 | ⏰ 02:30 PM
+
+💬 "Cs304 practical Today paper                                                                                                                                                                                                                                          #include <iostream> using namespace std; template <class T> T divide(T a, T b) { return a / b; } int main() { cout << divide(5, 2) << endl; cout << divide(5.0, 2.0); return 0; } Output 2 2.5~: #include <iostream> #include <string> using namespace std; class Temp { public: template <typename T> bool compare(T first, T second) { if (first == second) return true; else return false; } }; int main() { Temp t; bool r1, r2; int a = 10, b = 20; r1 = t.compare(a, b); if (r1 == true) cout << "Integers are equal" << endl; else cout << "Integers are not equal" << endl; char *str1 = "Programming"; char *str2 = "programming"; r2 = t.compare(str1, str2); if (r2 == true) cout << "Strings are equal" << endl; else cout << "Strings are NOT equal" << endl; } ~:output a = 10; b = 20; class String { private: ... public: void operator=(const String &rhs) { ... } }; int main() { String s1, s2, s3; s1 = s2 = s3;msq #include <iostream> #include <cstring> using namespace std; class String { private: char str[100]; public: // Constructor String(const char *s = "") { strcpy(str, s); } // Assignment operator overloading String& operator=(const String &rhs) { if (this != &rhs)       // avoid self-assignment { strcpy(str, rhs.str); } return *this; } // Display function void display() { cout << str << endl; } }; int main() { String s1("C++"); String s2("Programming"); String s3("Virtual University"); s1 = s2 = s3; cout << "s1 = "; s1.display(); cout << "s2 = "; s2.display(); cout << "s3 = "; s3.display(); return 0; } ~: msq 1Dequen behave like line add elements _. Both Left and right * Only Left Only right Only specify index 2Objects oriented modal extracting _problem solving Noun Verb Noun/verb* Adjective 3Generic code aloghtrim under lined data structure Specific * Independence Dependent 4Syntax is friend class Template <class T > then void fun Name(...);* Template <class T > classXYZ{...}; 5Student () { rollNo=0} Construct call Default constructure * Parametrized constructure Deep copy Shallow copy 6Function template parametrized operator different types __ Classes * Function Data Object 7Inheritance heriracy seller or buyer Seller * Buyer User Product 8Inherited oop A type of memory allocat * Compile code false 9A protected inheritance how public member Base class inherited Protected Private Not inherited * Public 10 Friend class Manager . <T>;* Friend class Manager; 11 If operator=ret void; St1=st2=st3; Does not complete * 12C++ exception handling Cath-friendly-raise Try -catch-throw* 13Expection but c++ not caught Crash program (abnormal terminal)* Warning Gracefull 14Generic program refer program  construct or operator Polymorphsim* Abstraction Inheritance Aggregation 15Not instantiated directly Abstract * Derived Concrete Child 16A class diagram c++code both class Properly implemented relationship between class Array of object const add Only once* 17 Keyword prevent automatic type conversation com stat Private * This Static Explicit 18Without __we need spread vector class Class* Template Function Abstract 19Room class chair object Room chair Linked aggregation * #include <set> using namespace std; int main() { set<int> myInsert; myInsert.insert(10); myInsert.insert(10); myInsert.insert(20); myInsert.insert(20); set<int>::iterator it; for (it = myInsert.begin(); it != myInsert.end(); it++) { cout << *it << " "; } return 0; }~: ++ |     Book       | ++ | bookID         | | bookName       | ++ | has-a          | ++ | | ▼ ++ |    Chapter     | ++ | chapterNo      | | chapterName    | #include <iostream> #include <vector> #include <string> using namespace std; class Chapter { public: int chapterNo; string chapterName; }; class Book { public: int bookID; string bookName; vector<Chapter> chapters; }; int main() { return 0; }"
+
+*KEY POINTS / TOPICS:*
+📍 Long Questions ~: #include <iostream>
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #56*
+👤 *Shared by:* Sara Noor
+📅 *Date:* 01-12-262 | ⏰ 02:30 PM
+
+💬 "Cs304 practical Today paper                                                                                                                                                                                                                                          #include <iostream> using namespace std; template <class T> T divide(T a, T b) { return a / b; } int main() { cout << divide(5, 2) << endl; cout << divide(5.0, 2.0); return 0; } Output 2 2.5~: #include <iostream> #include <string> using namespace std; class Temp { public: template <typename T> bool compare(T first, T second) { if (first == second) return true; else return false; } }; int main() { Temp t; bool r1, r2; int a = 10, b = 20; r1 = t.compare(a, b); if (r1 == true) cout << "Integers are equal" << endl; else cout << "Integers are not equal" << endl; char *str1 = "Programming"; char *str2 = "programming"; r2 = t.compare(str1, str2); if (r2 == true) cout << "Strings are equal" << endl; else cout << "Strings are NOT equal" << endl; } ~:output a = 10; b = 20; class String { private: ... public: void operator=(const String &rhs) { ... } }; int main() { String s1, s2, s3; s1 = s2 = s3;msq #include <iostream> #include <cstring> using namespace std; class String { private: char str[100]; public: // Constructor String(const char *s = "") { strcpy(str, s); } // Assignment operator overloading String& operator=(const String &rhs) { if (this != &rhs)       // avoid self-assignment { strcpy(str, rhs.str); } return *this; } // Display function void display() { cout << str << endl; } }; int main() { String s1("C++"); String s2("Programming"); String s3("Virtual University"); s1 = s2 = s3; cout << "s1 = "; s1.display(); cout << "s2 = "; s2.display(); cout << "s3 = "; s3.display(); return 0; } ~: msq 1Dequen behave like line add elements _. Both Left and right * Only Left Only right Only specify index 2Objects oriented modal extracting _problem solving Noun Verb Noun/verb* Adjective 3Generic code aloghtrim under lined data structure Specific * Independence Dependent 4Syntax is friend class Template <class T > then void fun Name(...);* Template <class T > classXYZ{...}; 5Student () { rollNo=0} Construct call Default constructure * Parametrized constructure Deep copy Shallow copy 6Function template parametrized operator different types __ Classes * Function Data Object 7Inheritance heriracy seller or buyer Seller * Buyer User Product 8Inherited oop A type of memory allocat * Compile code false 9A protected inheritance how public member Base class inherited Protected Private Not inherited * Public 10 Friend class Manager . <T>;* Friend class Manager; 11 If operator=ret void; St1=st2=st3; Does not complete * 12C++ exception handling Cath-friendly-raise Try -catch-throw* 13Expection but c++ not caught Crash program (abnormal terminal)* Warning Gracefull 14Generic program refer program  construct or operator Polymorphsim* Abstraction Inheritance Aggregation 15Not instantiated directly Abstract * Derived Concrete Child 16A class diagram c++code both class Properly implemented relationship between class Array of object const add Only once* 17 Keyword prevent automatic type conversation com stat Private * This Static Explicit 18Without __we need spread vector class Class* Template Function Abstract 19Room class chair object Room chair Linked aggregation * #include <set> using namespace std; int main() { set<int> myInsert; myInsert.insert(10); myInsert.insert(10); myInsert.insert(20); myInsert.insert(20); set<int>::iterator it; for (it = myInsert.begin(); it != myInsert.end(); it++) { cout << *it << " "; } return 0; }~: ++ |     Book       | ++ | bookID         | | bookName       | ++ | has-a          | ++ | | ▼ ++ |    Chapter     | ++ | chapterNo      | | chapterName    | #include <iostream> #include <vector> #include <string> using namespace std; class Chapter { public: int chapterNo; string chapterName; }; class Book { public: int bookID; string bookName; vector<Chapter> chapters; }; int main() { return 0; }"
+
+*KEY POINTS / TOPICS:*
+📍 Long Questions ~: #include <iostream>
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #57*
+👤 *Shared by:* Bayan
+📅 *Date:* 02-08-2026 | ⏰ 04:30 PM
+
+💬 "Objective part easy tha mostly question sentax wale the correct sentaxes btane the SQL quiries k like VIEW, INSERT INDEX, SELECT isi trah baki bhi the 2.X intersection Y = Y intersection X prove krna tha 3.Context level DFD diagram bnani thi Online shopping se related thi customer, cashier aor manager entities the Overall paper sai na zayada easy na tough"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mai bhi 1 question SQL query se related tha
+📍 4.is question mai statement di Hui thi isko 3NF mai convert krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #58*
+👤 *Shared by:* Bayan
+📅 *Date:* 02-08-2026 | ⏰ 04:30 PM
+
+💬 "Objective part easy tha mostly question sentax wale the correct sentaxes btane the SQL quiries k like VIEW, INSERT INDEX, SELECT isi trah baki bhi the 2.X intersection Y = Y intersection X prove krna tha 3.Context level DFD diagram bnani thi Online shopping se related thi customer, cashier aor manager entities the Overall paper sai na zayada easy na tough"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mai bhi 1 question SQL query se related tha
+📍 4.is question mai statement di Hui thi isko 3NF mai convert krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #59*
+👤 *Shared by:* Maryam
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper mostly last waly chapters mein sy tha ...mcqs to bhut conceptual thy aur handouts ki theory mein sy ziada mcqs thy .. Aik mein code dia tha us mein copy constructor bnana tha .."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein mostly errors aur output thy ..
+📍 Aik short tha k write the names of  STL components
+📍 Baqi overall subjective bhut easy thi aur Mcqs ziada theory aur last chapters mein sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #60*
+👤 *Shared by:* Maryam
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper mostly last waly chapters mein sy tha ...mcqs to bhut conceptual thy aur handouts ki theory mein sy ziada mcqs thy .. Aik mein code dia tha us mein copy constructor bnana tha .."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein mostly errors aur output thy ..
+📍 Aik short tha k write the names of  STL components
+📍 Baqi overall subjective bhut easy thi aur Mcqs ziada theory aur last chapters mein sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #61*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 01-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslamualaikum all.... Ppr bht tough tha M ny preparation videos b dekhe the pr ni aya kuch b us m sy 😭 apni tyari achi kr k jaiay ga Or mery liay dua zror kriay ga ps ho jaoun 😭 Ameeen summa ameeen 💔"
+
+*KEY POINTS / TOPICS:*
+📍 Sb pta ni kha sy dia tha 1 lfz b ni aya wha sy jha sy prha tha mcqs b kiay thy paradox waly 1 mcqs aya us m sy
+📍 Long or short m program likhny thy coding he nu ati kesy likhte 🥺
+📍 Mcqs tukky py kiay hain
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #62*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 01-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslamualaikum all.... Ppr bht tough tha M ny preparation videos b dekhe the pr ni aya kuch b us m sy 😭 apni tyari achi kr k jaiay ga Or mery liay dua zror kriay ga ps ho jaoun 😭 Ameeen summa ameeen 💔"
+
+*KEY POINTS / TOPICS:*
+📍 Sb pta ni kha sy dia tha 1 lfz b ni aya wha sy jha sy prha tha mcqs b kiay thy paradox waly 1 mcqs aya us m sy
+📍 Long or short m program likhny thy coding he nu ati kesy likhte 🥺
+📍 Mcqs tukky py kiay hain
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #63*
+👤 *Shared by:* Umaira
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "Mcqs theory Mai sy thy , mostly subnet , host , borrowed bits calculation ky thy. Subjective easy tha 2 questions vu zone with iqra ki video Sy thy. Aik question Mai Batana tha ky IPv4 aur IPv6 ky features. IP address bht important. IP configuration ki command likhni thi. Classes likhni thi IP ki air unki ranges."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #64*
+👤 *Shared by:* Umaira
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "Mcqs theory Mai sy thy , mostly subnet , host , borrowed bits calculation ky thy. Subjective easy tha 2 questions vu zone with iqra ki video Sy thy. Aik question Mai Batana tha ky IPv4 aur IPv6 ky features. IP address bht important. IP configuration ki command likhni thi. Classes likhni thi IP ki air unki ranges."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #65*
+👤 *Shared by:* Syeda Naqvi
+📅 *Date:* 02-08-2026 | ⏰ 12:00 PM
+
+💬 "Objectives Best of luck ❣️"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handouts sa tha mostly gland wala topic brain aur heart mein sa tha
+📍 ⭐ subjective
+📍 🌸 Short question
+✅ Systematic kinases
+✅ Write two chamber heart
+✅ How many type of lymphocytes
+✅ What is chemical nature of hormone
+📍 🌸Long question
+✅ Write characteristics of hormone
+✅ What is passive immunity
+✅ Write a brief note on pumping of human heat
+📍 Question sir Mughal and kainat file sa hein
+📍 Question no 3 long and question no 1 short handouts sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #66*
+👤 *Shared by:* Syeda Naqvi
+📅 *Date:* 02-08-2026 | ⏰ 12:00 PM
+
+💬 "Objectives Best of luck ❣️"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handouts sa tha mostly gland wala topic brain aur heart mein sa tha
+📍 ⭐ subjective
+📍 🌸 Short question
+✅ Systematic kinases
+✅ Write two chamber heart
+✅ How many type of lymphocytes
+✅ What is chemical nature of hormone
+📍 🌸Long question
+✅ Write characteristics of hormone
+✅ What is passive immunity
+✅ Write a brief note on pumping of human heat
+📍 Question sir Mughal and kainat file sa hein
+📍 Question no 3 long and question no 1 short handouts sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #67*
+👤 *Shared by:* sania
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs401p Today at 10 am Allah rabbulezzat SB ki maddad frmaen"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions:
+✅ Calculate physical address where segment and offset address were given
+✅ VESA VBE 2.0 ma registers Kon say hoty hain AUR UN Ka Kya function hota hai .
+✅ XOR BX,Of is Tarah ki statements given thin 4 ( baqii Bhool gaen) AUR btana tha ye Kya function Hoga in Sy
+📍 Mcqs handout Sy thy mostly agar handout achy Sy read Kiye Hun tou asani Rehti hai
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #68*
+👤 *Shared by:* rizwan
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Mera cs401 aur P dono ka paper ho gaya ha lekin paper tough tha kafi ...objective to easily ho gai lekin subjective tough thi boht ...achy sy concept clear karain aur bar bar revision karain ........Waqar sidhu , vu topper ki files aur vu concepts ki videos sy kafi objective aii thi"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #69*
+👤 *Shared by:* sania
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs401p Today at 10 am Allah rabbulezzat SB ki maddad frmaen"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions:
+✅ Calculate physical address where segment and offset address were given
+✅ VESA VBE 2.0 ma registers Kon say hoty hain AUR UN Ka Kya function hota hai .
+✅ XOR BX,Of is Tarah ki statements given thin 4 ( baqii Bhool gaen) AUR btana tha ye Kya function Hoga in Sy
+📍 Mcqs handout Sy thy mostly agar handout achy Sy read Kiye Hun tou asani Rehti hai
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #70*
+👤 *Shared by:* rizwan
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Mera cs401 aur P dono ka paper ho gaya ha lekin paper tough tha kafi ...objective to easily ho gai lekin subjective tough thi boht ...achy sy concept clear karain aur bar bar revision karain ........Waqar sidhu , vu topper ki files aur vu concepts ki videos sy kafi objective aii thi"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #71*
+👤 *Shared by:* Seemab
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "Mcqs Kuch vutoolkit se aye Thai or Kuch YouTube video VU ZONE with IQRA AZHAR se aye Thai or koi 4,5 mcqs Jo k nai aty Thai mujhe wo khi or se aye Huey Thai or program aik tha jis main two persons k account no or salary di hue or likha tha k is account no waly ki salary ko 12500 se 13000 krna hai . Or Baki k 3 ab exact yaad nai Lekin Thai pl/SQL se related hi ...."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #72*
+👤 *Shared by:* Seemab
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "Mcqs Kuch vutoolkit se aye Thai or Kuch YouTube video VU ZONE with IQRA AZHAR se aye Thai or koi 4,5 mcqs Jo k nai aty Thai mujhe wo khi or se aye Huey Thai or program aik tha jis main two persons k account no or salary di hue or likha tha k is account no waly ki salary ko 12500 se 13000 krna hai . Or Baki k 3 ab exact yaad nai Lekin Thai pl/SQL se related hi ...."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #73*
+👤 *Shared by:* Rameen
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "♦️code dia tha error find krna tha ♦️define model, view and controller ♦️scenario given tha Uml class diagram bnani thi ♦️ E-commerce application sy related scenario or diagram di thi btana tha knsa software architecture use hoga or reason btana tha"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️mcqs kuch past papers sy kuch handouts sy thy
+📍 *Subjective*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #74*
+👤 *Shared by:* Syeda kashuf
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Best of luck😇 may Allah help all ameen 😊"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were quite easy and from manual and short question ;
+✅ Difference between polar lipids and non polar lipids?
+✅ How does color production of amylose and amylopectin in iodine test acts as an indicator for starch?
+📍 Long question;
+✅ Difference between glycogen and starch?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #75*
+👤 *Shared by:* Paper
+📅 *Date:* 08-01-2026 | ⏰ 12:00 PM
+
+💬 "Short : 1- Based on your understanding you are given a bacterium which is under growing conditions in laboratory how will you determine nutrient PH optimum temperature and nutritional needs ? 2 - write name of two methods used in lactose in making youghrt? 1 - what is one major challenge faced by MEOR explain? And also state potential migration strategy?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all from manual
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #76*
+👤 *Shared by:* Rameen
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "♦️code dia tha error find krna tha ♦️define model, view and controller ♦️scenario given tha Uml class diagram bnani thi ♦️ E-commerce application sy related scenario or diagram di thi btana tha knsa software architecture use hoga or reason btana tha"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️mcqs kuch past papers sy kuch handouts sy thy
+📍 *Subjective*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #77*
+👤 *Shared by:* Syeda kashuf
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Best of luck😇 may Allah help all ameen 😊"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were quite easy and from manual and short question ;
+✅ Difference between polar lipids and non polar lipids?
+✅ How does color production of amylose and amylopectin in iodine test acts as an indicator for starch?
+📍 Long question;
+✅ Difference between glycogen and starch?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #78*
+👤 *Shared by:* Paper
+📅 *Date:* 08-01-2026 | ⏰ 12:00 PM
+
+💬 "Short : 1- Based on your understanding you are given a bacterium which is under growing conditions in laboratory how will you determine nutrient PH optimum temperature and nutritional needs ? 2 - write name of two methods used in lactose in making youghrt? 1 - what is one major challenge faced by MEOR explain? And also state potential migration strategy?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all from manual
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #79*
+👤 *Shared by:* Rameen
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "♦️code dia tha error find krna tha ♦️define model, view and controller ♦️scenario given tha Uml class diagram bnani thi ♦️ E-commerce application sy related scenario or diagram di thi btana tha knsa software architecture use hoga or reason btana tha"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️mcqs kuch past papers sy kuch handouts sy thy
+📍 *Subjective*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #80*
+👤 *Shared by:* Syeda kashuf
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Best of luck😇 may Allah help all ameen 😊"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were quite easy and from manual and short question ;
+✅ Difference between polar lipids and non polar lipids?
+✅ How does color production of amylose and amylopectin in iodine test acts as an indicator for starch?
+📍 Long question;
+✅ Difference between glycogen and starch?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #81*
+👤 *Shared by:* Paper
+📅 *Date:* 08-01-2026 | ⏰ 12:00 PM
+
+💬 "Short : 1- Based on your understanding you are given a bacterium which is under growing conditions in laboratory how will you determine nutrient PH optimum temperature and nutritional needs ? 2 - write name of two methods used in lactose in making youghrt? 1 - what is one major challenge faced by MEOR explain? And also state potential migration strategy?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all from manual
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #82*
+👤 *Shared by:* Paper
+📅 *Date:* 08-01-2026 | ⏰ 10:00 AM
+
+💬 "2- what are compost? 3- what is economic benefit of microbial biotechnology in Pakistan ? 4- write Advantage of biofertilizers? 1 - write not on polysaccharide microbes ? 3- what are possible side effect of probiotics?"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS mostly/ all from ppts handouts
+📍 Short: 1 - what are uses of 2and generation biofuels?
+📍 Long :
+📍 2- what is one main objective of transgenic plant explained?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #83*
+👤 *Shared by:* Easy
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Bt611 8.00 * attributes are obtained. *Process control* requirements for food quality characteristics are also established by customers and consumers. *Government* Baqi b easy thy handouts s thy."
+
+*KEY POINTS / TOPICS:*
+✅ 3 applications of edible vaccine
+✅ How lipase applied to white egg dried
+✅ Write functions of FT. MRI in fermentation of ethanol and lactic acid
+✅ What includes risks analysis in food safety?
+✅ Write a note on research future fermentation
+✅ Steps of cleaning and sanitation in food processing
+✅ Effects of degradation of pectin on fruit juices and fruit softening?
+📍 Mcqs.
+✅ ......may be defined as manipulation of process variables so that the desired product
+✅ Alkaline phosphatase ...... the pH *increase*
+✅ Additives used to prevent the oxidation of the food  *Antioxidants*
+✅ Example of food allergens?  *Peanut*
+✅ The estimated total population of 10^4 viable bacteria in the adult human GIT represents about .......time more than all body tissue cells. *10*
+✅ In addition to the quality requirements established by ....... regulations, numerous
+✅ Chemical preservatives are used at a concentration of ..... *0.1%*
+✅ Lipids can form emulsion with water.  *Emulsification*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #84*
+👤 *Shared by:* khan
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Bt611t food biotechnology Today's paper Name of some allerens Give some examples of microorganism Any three application of edible vaccine Oxidation of enzymes Five steps of marketing process Seven principles of HACCP Five points of criteria of food additives All from ppts  koe mb503p ,bt501 and cs312 ka bhe review share kr dy plzzzzzzzzzzzzzzzzz"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+📍 Long
+📍 Mcqs
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #85*
+👤 *Shared by:* sania
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "sara paper iqra azhar ki video sy aya tha or 4 5 MCQ's mobiz knowledge ki video sy ay thy or baqi MCQ's bi Iqra azhar ki video sy ay thy."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #86*
+👤 *Shared by:* Paper
+📅 *Date:* 08-01-2026 | ⏰ 10:00 AM
+
+💬 "2- what are compost? 3- what is economic benefit of microbial biotechnology in Pakistan ? 4- write Advantage of biofertilizers? 1 - write not on polysaccharide microbes ? 3- what are possible side effect of probiotics?"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS mostly/ all from ppts handouts
+📍 Short: 1 - what are uses of 2and generation biofuels?
+📍 Long :
+📍 2- what is one main objective of transgenic plant explained?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #87*
+👤 *Shared by:* Easy
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Bt611 8.00 * attributes are obtained. *Process control* requirements for food quality characteristics are also established by customers and consumers. *Government* Baqi b easy thy handouts s thy."
+
+*KEY POINTS / TOPICS:*
+✅ 3 applications of edible vaccine
+✅ How lipase applied to white egg dried
+✅ Write functions of FT. MRI in fermentation of ethanol and lactic acid
+✅ What includes risks analysis in food safety?
+✅ Write a note on research future fermentation
+✅ Steps of cleaning and sanitation in food processing
+✅ Effects of degradation of pectin on fruit juices and fruit softening?
+📍 Mcqs.
+✅ ......may be defined as manipulation of process variables so that the desired product
+✅ Alkaline phosphatase ...... the pH *increase*
+✅ Additives used to prevent the oxidation of the food  *Antioxidants*
+✅ Example of food allergens?  *Peanut*
+✅ The estimated total population of 10^4 viable bacteria in the adult human GIT represents about .......time more than all body tissue cells. *10*
+✅ In addition to the quality requirements established by ....... regulations, numerous
+✅ Chemical preservatives are used at a concentration of ..... *0.1%*
+✅ Lipids can form emulsion with water.  *Emulsification*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #88*
+👤 *Shared by:* khan
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Bt611t food biotechnology Today's paper Name of some allerens Give some examples of microorganism Any three application of edible vaccine Oxidation of enzymes Five steps of marketing process Seven principles of HACCP Five points of criteria of food additives All from ppts  koe mb503p ,bt501 and cs312 ka bhe review share kr dy plzzzzzzzzzzzzzzzzz"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+📍 Long
+📍 Mcqs
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #89*
+👤 *Shared by:* sania
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "sara paper iqra azhar ki video sy aya tha or 4 5 MCQ's mobiz knowledge ki video sy ay thy or baqi MCQ's bi Iqra azhar ki video sy ay thy."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #90*
+👤 *Shared by:* Pakistan
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Cs604p"
+
+*KEY POINTS / TOPICS:*
+📍 McQ for moiz knowledge videos
+📍 Long question
+✅ True false virtual box
+✅ Round Robin shoudling algorithm
+✅ C out program
+✅ C out program
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #91*
+👤 *Shared by:* rizwan
+📅 *Date:* 27-07-2026 | ⏰ 02:30 PM
+
+💬 "Cs401p time: 2:30 Write the name of the pin dB 9 connector. Write int 13 rest desk ah or Baki ki value and. 2 question past paper SA thy. Mcqs conceptual thy mostly or Kuch YouTube ki video SA aye thy https://youtu.be/WTvfm876sIQ?si=C8J1M11K36dVF15_"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #92*
+👤 *Shared by:* amina
+📅 *Date:* 31-07-2026 | ⏰ 02:00 PM
+
+💬 "This is the paper Cs401P paper (31 july 2026) Q1. PIT stands for: Q2. DMA stands for: Q3. Frequecy of PIT is Q4.what is the purpose of INT 13,AH=08h in BIOS Q5. Which string is used in 8088 processor Q6. SUN SPARC belongs to ———processor family Ans (RISC) Q7. Scan code of ESC key is Q8. Port 21 is ———- in PIC Q1. Write physical adress of the following; IDDD:0436 1234:7920 74F0:2123 FFFF:4336 Q2. How many ports PIC have? How to take input from port whose number doesn’t fit in a byte? Q3. Write the corresponding assembly code WHILE (AX!=0 ){ BX++ AX- - CX=CX+2 Q4. Write descriptive name of the following; 0x00000000,0x00000000 0x0000FFFF,0x00CF9200 0x0000FFFF,0x00CF9A00"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 Long Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #93*
+👤 *Shared by:* akram
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "This is paper"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #94*
+👤 *Shared by:* Pakistan
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Cs604p"
+
+*KEY POINTS / TOPICS:*
+📍 McQ for moiz knowledge videos
+📍 Long question
+✅ True false virtual box
+✅ Round Robin shoudling algorithm
+✅ C out program
+✅ C out program
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #95*
+👤 *Shared by:* rizwan
+📅 *Date:* 27-07-2026 | ⏰ 02:30 PM
+
+💬 "Cs401p time: 2:30 Write the name of the pin dB 9 connector. Write int 13 rest desk ah or Baki ki value and. 2 question past paper SA thy. Mcqs conceptual thy mostly or Kuch YouTube ki video SA aye thy https://youtu.be/WTvfm876sIQ?si=C8J1M11K36dVF15_"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #96*
+👤 *Shared by:* amina
+📅 *Date:* 31-07-2026 | ⏰ 02:00 PM
+
+💬 "This is the paper Cs401P paper (31 july 2026) Q1. PIT stands for: Q2. DMA stands for: Q3. Frequecy of PIT is Q4.what is the purpose of INT 13,AH=08h in BIOS Q5. Which string is used in 8088 processor Q6. SUN SPARC belongs to ———processor family Ans (RISC) Q7. Scan code of ESC key is Q8. Port 21 is ———- in PIC Q1. Write physical adress of the following; IDDD:0436 1234:7920 74F0:2123 FFFF:4336 Q2. How many ports PIC have? How to take input from port whose number doesn’t fit in a byte? Q3. Write the corresponding assembly code WHILE (AX!=0 ){ BX++ AX- - CX=CX+2 Q4. Write descriptive name of the following; 0x00000000,0x00000000 0x0000FFFF,0x00CF9200 0x0000FFFF,0x00CF9A00"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 Long Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #97*
+👤 *Shared by:* akram
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "This is paper"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #98*
+👤 *Shared by:* Amna
+📅 *Date:* 27-12-2026 | ⏰ 02:30 PM
+
+💬 "insertion ka code write krna tha avl tree (deletion) node delete kryky  phir rotation performs krni or new avl tree draw krna tha with steps min heap array form mai tha ( deletion )"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs were easy if ur concepts are clear mcqs were mostly from hash functions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #99*
+👤 *Shared by:* Amna
+📅 *Date:* 27-12-2026 | ⏰ 02:30 PM
+
+💬 "insertion ka code write krna tha avl tree (deletion) node delete kryky  phir rotation performs krni or new avl tree draw krna tha with steps min heap array form mai tha ( deletion )"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs were easy if ur concepts are clear mcqs were mostly from hash functions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #100*
+👤 *Shared by:* Anuu
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Display agenda watch rules and activation clear the screen a. meaning of printout b. meaning of "t" c. crlf stand for d. crlf used for e. output"
+
+*KEY POINTS / TOPICS:*
+✅ CLIPS command for
+✅ Ik graph tha usay bfs mein convert kr k us say related kuch question pochay hoay tha jesay uski time complexity us k vertices edges weghera .
+✅ Given CLIPS  code : (printout t " welcome to cs607" crlf)
+✅ Ik MATLAB related tha diagram given thy us say related question pochay hoay thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #101*
+👤 *Shared by:* Anuu
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Display agenda watch rules and activation clear the screen a. meaning of printout b. meaning of "t" c. crlf stand for d. crlf used for e. output"
+
+*KEY POINTS / TOPICS:*
+✅ CLIPS command for
+✅ Ik graph tha usay bfs mein convert kr k us say related kuch question pochay hoay tha jesay uski time complexity us k vertices edges weghera .
+✅ Given CLIPS  code : (printout t " welcome to cs607" crlf)
+✅ Ik MATLAB related tha diagram given thy us say related question pochay hoay thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #102*
+👤 *Shared by:* Ghulam Fatima
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Reviews se itna prepare kia per practical men nh aya, baki theory men kujh repeat huwey. **Practical subject men sab DFS BFS se tha mera to.** DFS tree tha aur phr us se related questions they jou btany they, like how many nodes hen ismen, edges, and then compute krna tha time and space complexity. Tables given thi, us men MATLAB ki tabs ka naam likhna tha k Home tab me hota hai ye feature ya Apps ya Plots men. So MATLAB karlrn men to bilkul nh kia tha. 4×4 ka chess board per queen thi, wo board half filled tha. Usmen easy sawal they k kitney queens hen abi aur nai kaha per rakhna safe hoga, aur row, diagonal and column conflict ka be sawal tha."
+
+*KEY POINTS / TOPICS:*
+📍 **Subjective Questions:**
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #103*
+👤 *Shared by:* Umar Mehmood
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were mostly from the files. Study Hina Shahzadi's files or watch the YouTube videos for better preparation.
+📍 The subjective part was exactly as shown in the images.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #104*
+👤 *Shared by:* Ghulam Fatima
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Reviews se itna prepare kia per practical men nh aya, baki theory men kujh repeat huwey. **Practical subject men sab DFS BFS se tha mera to.** DFS tree tha aur phr us se related questions they jou btany they, like how many nodes hen ismen, edges, and then compute krna tha time and space complexity. Tables given thi, us men MATLAB ki tabs ka naam likhna tha k Home tab me hota hai ye feature ya Apps ya Plots men. So MATLAB karlrn men to bilkul nh kia tha. 4×4 ka chess board per queen thi, wo board half filled tha. Usmen easy sawal they k kitney queens hen abi aur nai kaha per rakhna safe hoga, aur row, diagonal and column conflict ka be sawal tha."
+
+*KEY POINTS / TOPICS:*
+📍 **Subjective Questions:**
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #105*
+👤 *Shared by:* Umar Mehmood
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were mostly from the files. Study Hina Shahzadi's files or watch the YouTube videos for better preparation.
+📍 The subjective part was exactly as shown in the images.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #106*
+👤 *Shared by:* Ghulam Fatima
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Reviews se itna prepare kia per practical men nh aya, baki theory men kujh repeat huwey. **Practical subject men sab DFS BFS se tha mera to.** DFS tree tha aur phr us se related questions they jou btany they, like how many nodes hen ismen, edges, and then compute krna tha time and space complexity. Tables given thi, us men MATLAB ki tabs ka naam likhna tha k Home tab me hota hai ye feature ya Apps ya Plots men. So MATLAB karlrn men to bilkul nh kia tha. 4×4 ka chess board per queen thi, wo board half filled tha. Usmen easy sawal they k kitney queens hen abi aur nai kaha per rakhna safe hoga, aur row, diagonal and column conflict ka be sawal tha."
+
+*KEY POINTS / TOPICS:*
+📍 **Subjective Questions:**
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #107*
+👤 *Shared by:* Umar Mehmood
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were mostly from the files. Study Hina Shahzadi's files or watch the YouTube videos for better preparation.
+📍 The subjective part was exactly as shown in the images.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #108*
+👤 *Shared by:* Ayesha
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper concept base tha all mcqs is concept base 3 question output Wala tha or ek prototype Wala paper bs thek hi tha normal"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #109*
+👤 *Shared by:* Ayesha
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper concept base tha all mcqs is concept base 3 question output Wala tha or ek prototype Wala paper bs thek hi tha normal"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #110*
+👤 *Shared by:* Abdul
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 20 mcqs + 4 long ( 5 marks each) Total 40 marks
+📍 50% mcqs descriptive 50% coding related
+📍 All 4 long are coding based like output, remove error, complete code, write code for taxes.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #111*
+👤 *Shared by:* Fatima
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+💬 "LQ1 Matching of devices with functions LQ2 Mention ipv4 or ipv6 against given statements LQ3 Connections matching with cable time ()straight through or crossover) LQ4 write first octet ranges and subnet mask of class A,B and C."
+
+*KEY POINTS / TOPICS:*
+📍 50% MCQS were based on calculations eg subnets, hosts, subnet mask etc.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #112*
+👤 *Shared by:* Abdul
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 20 mcqs + 4 long ( 5 marks each) Total 40 marks
+📍 50% mcqs descriptive 50% coding related
+📍 All 4 long are coding based like output, remove error, complete code, write code for taxes.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #113*
+👤 *Shared by:* Fatima
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+💬 "LQ1 Matching of devices with functions LQ2 Mention ipv4 or ipv6 against given statements LQ3 Connections matching with cable time ()straight through or crossover) LQ4 write first octet ranges and subnet mask of class A,B and C."
+
+*KEY POINTS / TOPICS:*
+📍 50% MCQS were based on calculations eg subnets, hosts, subnet mask etc.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #114*
+👤 *Shared by:* Abdul
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 20 mcqs + 4 long ( 5 marks each) Total 40 marks
+📍 50% mcqs descriptive 50% coding related
+📍 All 4 long are coding based like output, remove error, complete code, write code for taxes.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #115*
+👤 *Shared by:* Fatima
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+💬 "LQ1 Matching of devices with functions LQ2 Mention ipv4 or ipv6 against given statements LQ3 Connections matching with cable time ()straight through or crossover) LQ4 write first octet ranges and subnet mask of class A,B and C."
+
+*KEY POINTS / TOPICS:*
+📍 50% MCQS were based on calculations eg subnets, hosts, subnet mask etc.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #116*
+👤 *Shared by:* Noor
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "Assalamoalikum today mb504p paper review: Which of the following is used for phase separation during DNA extraction? Which of the following statements about agarose gel electrophoresis is false? In which layer does RNA remain during phase separation using TRIzol reagent? During PCR amplification, the melting of the DNA template by disrupting the hydrogen bonds between complementary bases, producing single-stranded DNA molecules, is known as: (Denaturation) Who demonstrated that a non-virulent strain of Streptococcus could be transformed into a virulent strain by exposure to heat-killed virulent bacteria? How would you prepare a 10 M NaOH solution? Which phase is used for phase separation during DNA extraction? Which enzyme is commonly used in RFLP analysis to cut DNA at specific sequences? What is the primary advantage of SDS-PAGE? Write the safety measures while dealing with harmful chemicals. What is the function of CaCl₂ in the preparation of competent cells? Explain the steps involved in DNA extraction."
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 Short Question
+📍 long question:
+📍 All questions from current papers and mcqs from manual.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #117*
+👤 *Shared by:* German Intructor
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+💬 "*Paper Review!* City: Lahore Campus: Lhr59 Time:6:30 Exam: CS403P Name: German Language Instructor b. Create index on Teacher on attribute TeacherID, Teacher name. Part(a) X∩Y Part(b) Prove X∩Y = Y∩X Values (E101, Ali, CS, 24000, Master), (E102, Aisha, Mgt, 45000, Mphil), (E103, Aiza, Mgt, 45000, Master), (E103, Aiza, CS, 65000, Phd), *SQL Query:* Select empname, empdept, Min(empsalary) From Employee AS 'Minimum Salary' Group by empdept. Solve the SQL query."
+
+*KEY POINTS / TOPICS:*
+📍 Almost 16 Mcqs was from VU Gateway video and 2 Long questions was from that video too.
+📍 *Long Questions*
+✅ Make symbol of Process, Data Store, Data Flow, Collector, External Entity
+✅ a.Create index on Teacher on attribute TeacherID
+✅ Tables X and Y was given I had to perform
+✅ Employee (empID, empname, empdept, empsalary, empqual)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #118*
+👤 *Shared by:* ELARAA
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "Q1: An AVL tree was given  insert 2 values into it and balance the tree  sad loif me usko balance na kar pai muje bhool giya tha Q3: A code-writing question — write code to check/find whether an index/slot is empty something like that muje ata tu nhi tha khairrr Q4: A question related to building a Max Heap tree.                                                                                                                                                                                           Mcqs yad nhi goizzz anywaysss best of luck ya'll.."
+
+*KEY POINTS / TOPICS:*
+📍 Q2: A question related to linear probing...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #119*
+👤 *Shared by:* ELARAA
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "Q1: An AVL tree was given  insert 2 values into it and balance the tree  sad loif me usko balance na kar pai muje bhool giya tha Q3: A code-writing question — write code to check/find whether an index/slot is empty something like that muje ata tu nhi tha khairrr Q4: A question related to building a Max Heap tree.                                                                                                                                                                                           Mcqs yad nhi goizzz anywaysss best of luck ya'll.."
+
+*KEY POINTS / TOPICS:*
+📍 Q2: A question related to linear probing...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #120*
+👤 *Shared by:* Dream chaser
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Picture is shared"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #121*
+👤 *Shared by:* Beetu
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "You had to identify the Supertype and Subtypes and draw diagram."
+
+*KEY POINTS / TOPICS:*
+📍 📌 Almost all MCQs were from this video: https://youtu.be/ZYJxzBFf6EU?si=hlzyQHOAOVzOI-UN
+📍 🔷 QUESTIONS:
+✅ Convert the given table into 2NF (Second Normal Form).
+✅ Write an SQL query to create an index.
+✅ Write an SQL query to create a table.
+✅ Four entities were given:
+✅ Student
+✅ Person
+✅ Teacher
+✅ Doctor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #122*
+👤 *Shared by:* Dream chaser
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Picture is shared"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #123*
+👤 *Shared by:* Beetu
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "You had to identify the Supertype and Subtypes and draw diagram."
+
+*KEY POINTS / TOPICS:*
+📍 📌 Almost all MCQs were from this video: https://youtu.be/ZYJxzBFf6EU?si=hlzyQHOAOVzOI-UN
+📍 🔷 QUESTIONS:
+✅ Convert the given table into 2NF (Second Normal Form).
+✅ Write an SQL query to create an index.
+✅ Write an SQL query to create a table.
+✅ Four entities were given:
+✅ Student
+✅ Person
+✅ Teacher
+✅ Doctor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #124*
+👤 *Shared by:* xyz
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Overall paper was really easy and mostly mcqs and long questions came from VU Gateway preparation video. Also prepare from kst learning labs."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #125*
+👤 *Shared by:* xyz
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Overall paper was really easy and mostly mcqs and long questions came from VU Gateway preparation video. Also prepare from kst learning labs."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #126*
+👤 *Shared by:* NORA
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "BS AK MAY CODE likhna tha Boht acha hoya paper inshallah acha grade aya ga ess may Sb due keya kry dusro ka leya B"
+
+*KEY POINTS / TOPICS:*
+📍 McQ boht easy thy paper zayda handout ki important Lins jo highlight ki hoti hain wo MCQ utha kr deya hoya thy
+📍 LONG QUESTION
+📍 3 LONG QUESTION PAST PAPERS MAY SA AYA THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #127*
+👤 *Shared by:* NORA
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "BS AK MAY CODE likhna tha Boht acha hoya paper inshallah acha grade aya ga ess may Sb due keya kry dusro ka leya B"
+
+*KEY POINTS / TOPICS:*
+📍 McQ boht easy thy paper zayda handout ki important Lins jo highlight ki hoti hain wo MCQ utha kr deya hoya thy
+📍 LONG QUESTION
+📍 3 LONG QUESTION PAST PAPERS MAY SA AYA THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #128*
+👤 *Shared by:* NORA
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "BS AK MAY CODE likhna tha Boht acha hoya paper inshallah acha grade aya ga ess may Sb due keya kry dusro ka leya B"
+
+*KEY POINTS / TOPICS:*
+📍 McQ boht easy thy paper zayda handout ki important Lins jo highlight ki hoti hain wo MCQ utha kr deya hoya thy
+📍 LONG QUESTION
+📍 3 LONG QUESTION PAST PAPERS MAY SA AYA THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #129*
+👤 *Shared by:* NORA
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "BS AK MAY CODE likhna tha Boht acha hoya paper inshallah acha grade aya ga ess may Sb due keya kry dusro ka leya B"
+
+*KEY POINTS / TOPICS:*
+📍 McQ boht easy thy paper zayda handout ki important Lins jo highlight ki hoti hain wo MCQ utha kr deya hoya thy
+📍 LONG QUESTION
+📍 3 LONG QUESTION PAST PAPERS MAY SA AYA THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #130*
+👤 *Shared by:* Ash siddique
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Bs Vu zone by iqra Azhar ki video dekh lo Dito question Lagen ge us me se Kuch subjective b or objective b mere 2 subjective 5 num k us me se aie the ipv4 or ipv6 Batana tha and dosre me bridge lab switch repeater in kancoloumn fill krna tha or agr zada Achi prep krni he to Mobiz k dekh Len 50% hjae ga easily ak or video t Vu exam prep channel nam se us me se b aie hoe the"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #131*
+👤 *Shared by:* Ash siddique
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Bs Vu zone by iqra Azhar ki video dekh lo Dito question Lagen ge us me se Kuch subjective b or objective b mere 2 subjective 5 num k us me se aie the ipv4 or ipv6 Batana tha and dosre me bridge lab switch repeater in kancoloumn fill krna tha or agr zada Achi prep krni he to Mobiz k dekh Len 50% hjae ga easily ak or video t Vu exam prep channel nam se us me se b aie hoe the"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #132*
+👤 *Shared by:* unknown!!!!
+📅 *Date:* 30-12-2026 | ⏰ 12:00 PM
+
+💬 "paper was quite easy. only three or four mcq's were little tricky. one program was written and we have to find the errors in it like(int main(), there was no return 0, and semicolon were missing) one program to write table of a number the user enters and 2 programs k output likhna tha. Overall pastpapers kr lein mcq's easily cover ho jate hain aur arrays, pointer aur basic c++ concept clear hona chaiye. Thank You."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #133*
+👤 *Shared by:* Alish
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 ": --- #### *1. Data Structure - Memory* *Q: Linked list kis type ki memory allocation hai?* A. Static Memory Allocation B. *Dynamic Memory Allocation* ✅ C. Contiguous Memory Allocation D. None _Wajah: Linked list mein nodes runtime pe `malloc/new` se bante hain_ #### *2. String Functions* *Q: String ko compare karne ke liye konsa built-in function use hota hai?* A. compstr() B. *strcmp()* ✅ C. strcomp() D. compare() _Wajah: C/C++ mein `strcmp()` standard hai. `compstr()` naam ka koi func nahi_ #### *3. Hashing* *Q: In hashing the size of table is actually the size of ___ ?* A. External Memory B. *Internal Array/Bucket* ✅ C. Linked List D. None _Wajah: Hash table ka size = internal array jisme data store hota hai_ #### *4. Sorting Algorithm* *Q: In sorting algorithms, which is the most effective when almost everything is already sorted?* A. Selection Sort B. Merge Sort C. Bubble Sort D. *Insertion Sort* ✅ _Wajah: Insertion sort best hai for "nearly sorted" data. O(n) ho jata hai_ #### *5. Stack/Queue* *Q: `isempty()` kia check karta hai?* A. Head B. Tail C. *Whether stack/queue is empty or not* ✅ D. Size _Wajah: `isempty()` = true agar koi element nahi hai_ #### *6. Huffman Encoding* *Q: In Huffman encoding, 0 is assigned to?* A. *Left* ✅ B. Right C. Root D. Leaf _Note: Convention hai. Kuch books mein Right bhi use karte hain, but VU mein *Left = 0, Right = 1* parhaya jata hai_ #### *7. Heap - Percolate Down* *Q: Percolate down ka aim kia hai?* A. Insert element at top B. *Restore heap property after deletion* ✅ C. Increase height D. None _Wajah: Jab root delete ho to heap property wapis lane ke liye percolate down karte hain_ #### *8. Set - Union* *Q: New set name of union(6, 7) ?* A. 6 union 7 B. 6 and 7 C. *6* D. *7* E. *{6, 7}* ✅ _Option mein `{6, 7}` nahi hai to dono alag elements hain. Union = {6, 7}_ #### *9. Union by Height/Size* *Q: The union by height method, which tree is attached to root?* A. More leaf with Less leaf B. *Smaller height tree attached to larger height tree* ✅ C. Maximum height to attach to min height D. Random _Wajah: Height kam wale ko zyada wale ke neeche attach karte hain_ #### *10. AVL Tree Rotations* *Q: AVL Tree: Insert 90, 40, 60, 80, 50, 55, 68. Double Left-Right rotation kab occur hoti hai?* A. Jab Left subtree mein Right child heavy ho B. *Jab pehle Left phir Right insertion ho* ✅ C. Jab Right phir Left insertion ho D. None *Q: Double RL rotation kab occur hoti hai?* A. Jab Left phir Right insertion ho B. *Jab pehle Right phir Left insertion ho* ✅ C. Jab dono Left ho D. None --- ### *Quick Revision Sheet* **Linked List Memory**	Dynamic **String Compare**	`strcmp()` **Hash Table Size**	Internal Array **Best for Nearly Sorted**	Insertion Sort **isempty()**	Checks if empty **Huffman 0**	Left **Percolate Down**	Restore heap property **Union(6,7)**	{6, 7} **Union by Height**	Small height → Big height **LR Rotation**	Left then Right case **RL Rotation**	Right then Left case"
+
+*KEY POINTS / TOPICS:*
+📍 ### *MCQs with Correct Answers*
+📍 Topic	Answer
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #134*
+👤 *Shared by:* unknown!!!!
+📅 *Date:* 30-12-2026 | ⏰ 12:00 PM
+
+💬 "paper was quite easy. only three or four mcq's were little tricky. one program was written and we have to find the errors in it like(int main(), there was no return 0, and semicolon were missing) one program to write table of a number the user enters and 2 programs k output likhna tha. Overall pastpapers kr lein mcq's easily cover ho jate hain aur arrays, pointer aur basic c++ concept clear hona chaiye. Thank You."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #135*
+👤 *Shared by:* Alish
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 ": --- #### *1. Data Structure - Memory* *Q: Linked list kis type ki memory allocation hai?* A. Static Memory Allocation B. *Dynamic Memory Allocation* ✅ C. Contiguous Memory Allocation D. None _Wajah: Linked list mein nodes runtime pe `malloc/new` se bante hain_ #### *2. String Functions* *Q: String ko compare karne ke liye konsa built-in function use hota hai?* A. compstr() B. *strcmp()* ✅ C. strcomp() D. compare() _Wajah: C/C++ mein `strcmp()` standard hai. `compstr()` naam ka koi func nahi_ #### *3. Hashing* *Q: In hashing the size of table is actually the size of ___ ?* A. External Memory B. *Internal Array/Bucket* ✅ C. Linked List D. None _Wajah: Hash table ka size = internal array jisme data store hota hai_ #### *4. Sorting Algorithm* *Q: In sorting algorithms, which is the most effective when almost everything is already sorted?* A. Selection Sort B. Merge Sort C. Bubble Sort D. *Insertion Sort* ✅ _Wajah: Insertion sort best hai for "nearly sorted" data. O(n) ho jata hai_ #### *5. Stack/Queue* *Q: `isempty()` kia check karta hai?* A. Head B. Tail C. *Whether stack/queue is empty or not* ✅ D. Size _Wajah: `isempty()` = true agar koi element nahi hai_ #### *6. Huffman Encoding* *Q: In Huffman encoding, 0 is assigned to?* A. *Left* ✅ B. Right C. Root D. Leaf _Note: Convention hai. Kuch books mein Right bhi use karte hain, but VU mein *Left = 0, Right = 1* parhaya jata hai_ #### *7. Heap - Percolate Down* *Q: Percolate down ka aim kia hai?* A. Insert element at top B. *Restore heap property after deletion* ✅ C. Increase height D. None _Wajah: Jab root delete ho to heap property wapis lane ke liye percolate down karte hain_ #### *8. Set - Union* *Q: New set name of union(6, 7) ?* A. 6 union 7 B. 6 and 7 C. *6* D. *7* E. *{6, 7}* ✅ _Option mein `{6, 7}` nahi hai to dono alag elements hain. Union = {6, 7}_ #### *9. Union by Height/Size* *Q: The union by height method, which tree is attached to root?* A. More leaf with Less leaf B. *Smaller height tree attached to larger height tree* ✅ C. Maximum height to attach to min height D. Random _Wajah: Height kam wale ko zyada wale ke neeche attach karte hain_ #### *10. AVL Tree Rotations* *Q: AVL Tree: Insert 90, 40, 60, 80, 50, 55, 68. Double Left-Right rotation kab occur hoti hai?* A. Jab Left subtree mein Right child heavy ho B. *Jab pehle Left phir Right insertion ho* ✅ C. Jab Right phir Left insertion ho D. None *Q: Double RL rotation kab occur hoti hai?* A. Jab Left phir Right insertion ho B. *Jab pehle Right phir Left insertion ho* ✅ C. Jab dono Left ho D. None --- ### *Quick Revision Sheet* **Linked List Memory**	Dynamic **String Compare**	`strcmp()` **Hash Table Size**	Internal Array **Best for Nearly Sorted**	Insertion Sort **isempty()**	Checks if empty **Huffman 0**	Left **Percolate Down**	Restore heap property **Union(6,7)**	{6, 7} **Union by Height**	Small height → Big height **LR Rotation**	Left then Right case **RL Rotation**	Right then Left case"
+
+*KEY POINTS / TOPICS:*
+📍 ### *MCQs with Correct Answers*
+📍 Topic	Answer
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #136*
+👤 *Shared by:* Fia
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Sq: 1.Elongation of polymerase. 2.Name two proteins involved in lactose metabolism. 3.What do you mean by self splicing? 4.Why plasmids are not regarded as cell's genome? Lq: 1.Attachment of amino acid to tRNA 2.How gene expression is controlled by regulatory protein? 3.In order of initiation transcription, which three events must occur"
+
+*KEY POINTS / TOPICS:*
+📍 70% mcqs were from sulman file
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #137*
+👤 *Shared by:* Tarteel
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Kst learning ki labs or VU GATEWAYS KI AIK VIDEO H 9 MIN KI BS YE KRLO PORA PAPER DITTO AYA HOWA THA VU GATEWAYS WALAY MCQS SB BHT ACHA HOWA"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #138*
+👤 *Shared by:* Fia
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Sq: 1.Elongation of polymerase. 2.Name two proteins involved in lactose metabolism. 3.What do you mean by self splicing? 4.Why plasmids are not regarded as cell's genome? Lq: 1.Attachment of amino acid to tRNA 2.How gene expression is controlled by regulatory protein? 3.In order of initiation transcription, which three events must occur"
+
+*KEY POINTS / TOPICS:*
+📍 70% mcqs were from sulman file
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #139*
+👤 *Shared by:* Tarteel
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Kst learning ki labs or VU GATEWAYS KI AIK VIDEO H 9 MIN KI BS YE KRLO PORA PAPER DITTO AYA HOWA THA VU GATEWAYS WALAY MCQS SB BHT ACHA HOWA"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #140*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS604P_* Write C statements for the following: *i)* define no. of blocks to 100 *ii)* Declare and initialize an array to make all blocks contain 0 Write C statements for the following: *i)* declare an integer variable named bufsize to store size of buffer *ii)* initialize producer index in to 0 *iii)* initialize consumer index out to 0 *iv)* initialize variable counter to 0 to store empty buffer *v)* declare char variable named choice to store 'p' , 'c' , 'q'"
+
+*KEY POINTS / TOPICS:*
+📍 _All mcqs were from preparational videos (19 out of 20)
+📍 *Subjective*
+✅ Statements given thi related to VirtualBox, True/False batane the
+✅ C code was given (physical address related), just 2 missing lines likhni thi *segment and offset Ki input statements likhni thi in hex*
+✅ Note: use TOTAL_BLOCKS as constant name for no. of blocks and disk as array name.
+✅ Producer Consumer problem
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #141*
+👤 *Shared by:* Fatima
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Longq1. Write query to create view on instructor table named instructor-view for a given condition. Q2 draw super and subtype diagram of shape, circle, triangle and square, Q3 one table was given. Convert it to 2NF form. Q4 A table and SQL query was given for which result table was to be created in ans"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were easy. Most of the mcqs were from labs.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #142*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS604P_* Write C statements for the following: *i)* define no. of blocks to 100 *ii)* Declare and initialize an array to make all blocks contain 0 Write C statements for the following: *i)* declare an integer variable named bufsize to store size of buffer *ii)* initialize producer index in to 0 *iii)* initialize consumer index out to 0 *iv)* initialize variable counter to 0 to store empty buffer *v)* declare char variable named choice to store 'p' , 'c' , 'q'"
+
+*KEY POINTS / TOPICS:*
+📍 _All mcqs were from preparational videos (19 out of 20)
+📍 *Subjective*
+✅ Statements given thi related to VirtualBox, True/False batane the
+✅ C code was given (physical address related), just 2 missing lines likhni thi *segment and offset Ki input statements likhni thi in hex*
+✅ Note: use TOTAL_BLOCKS as constant name for no. of blocks and disk as array name.
+✅ Producer Consumer problem
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #143*
+👤 *Shared by:* Fatima
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Longq1. Write query to create view on instructor table named instructor-view for a given condition. Q2 draw super and subtype diagram of shape, circle, triangle and square, Q3 one table was given. Convert it to 2NF form. Q4 A table and SQL query was given for which result table was to be created in ans"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were easy. Most of the mcqs were from labs.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #144*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Mcqs ka Liya vugateway ki video kro 15 16 mcqs hojai ga same to same wasa he mcqs aii tha or kst learning ki labs ki video kar lo yaqeen kro 100 percent paper hoga labs b easy ha only 3 hours ki game ha Baki love you hogaya"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #145*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Mcqs ka Liya vugateway ki video kro 15 16 mcqs hojai ga same to same wasa he mcqs aii tha or kst learning ki labs ki video kar lo yaqeen kro 100 percent paper hoga labs b easy ha only 3 hours ki game ha Baki love you hogaya"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #146*
+👤 *Shared by:* xyz
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs603p Composition/aggregation Is ma neechy kagi sary dia hwe thy jasy car engine, liberary books, house room etc Or last sawal ma diagram tha ak wo nhi lika"
+
+*KEY POINTS / TOPICS:*
+✅ State 5 example of pipe and filter architectural
+✅ What reason are there to extend method at least 4
+✅ Identify the relation ship
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #147*
+👤 *Shared by:* xyz
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs603p Composition/aggregation Is ma neechy kagi sary dia hwe thy jasy car engine, liberary books, house room etc Or last sawal ma diagram tha ak wo nhi lika"
+
+*KEY POINTS / TOPICS:*
+✅ State 5 example of pipe and filter architectural
+✅ What reason are there to extend method at least 4
+✅ Identify the relation ship
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #148*
+👤 *Shared by:* Bilal Ahmad
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "1.AVL tree deya tha add two node and then balanced. VU TALK CHANNEL KI 2 preparation video hain must watch karo..90 percent paper isi sy aya tha ."
+
+*KEY POINTS / TOPICS:*
+📍 MCQS FROM Paradox plus conceptual thay overall easy tha paper.short lecture must watch kst learning ki .
+📍 subjective mai
+📍 2.AVL tree sy node delete krna tha and then balanced. easy tha dono question.
+✅ array wala code tha iska output lekhna tha.
+✅ unsorted list deya tha or check krna tha ky ye konsa sorted algorthim mean selection, inseration, bubble in mai sy aik choose krna tha.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #149*
+👤 *Shared by:* Bilal Ahmad
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "1.AVL tree deya tha add two node and then balanced. VU TALK CHANNEL KI 2 preparation video hain must watch karo..90 percent paper isi sy aya tha ."
+
+*KEY POINTS / TOPICS:*
+📍 MCQS FROM Paradox plus conceptual thay overall easy tha paper.short lecture must watch kst learning ki .
+📍 subjective mai
+📍 2.AVL tree sy node delete krna tha and then balanced. easy tha dono question.
+✅ array wala code tha iska output lekhna tha.
+✅ unsorted list deya tha or check krna tha ky ye konsa sorted algorthim mean selection, inseration, bubble in mai sy aik choose krna tha.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #150*
+👤 *Shared by:* zain ali
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Overall paper itna mushkil tha subjective part ma AVL tree ma node add karni thi or balance karna tha or sary steps jo tree bnaty huwy howy udar bnany thy ik qs hash function wala tha jis ma (2x+1)mod8 kar k values insert karni huti or is ky ilawa 2  coding waly QS thy Stack or is k ilawa ik or tha paper easy hy bas thori c mehnat ki zrorat hay All the best"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS jaty howy VUtoolkit k solve kar k gaya tha jis ma sy 12 mcqs ayy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #151*
+👤 *Shared by:* zain ali
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Overall paper itna mushkil tha subjective part ma AVL tree ma node add karni thi or balance karna tha or sary steps jo tree bnaty huwy howy udar bnany thy ik qs hash function wala tha jis ma (2x+1)mod8 kar k values insert karni huti or is ky ilawa 2  coding waly QS thy Stack or is k ilawa ik or tha paper easy hy bas thori c mehnat ki zrorat hay All the best"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS jaty howy VUtoolkit k solve kar k gaya tha jis ma sy 12 mcqs ayy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #152*
+👤 *Shared by:* zain ali
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Overall paper itna mushkil tha subjective part ma AVL tree ma node add karni thi or balance karna tha or sary steps jo tree bnaty huwy howy udar bnany thy ik qs hash function wala tha jis ma (2x+1)mod8 kar k values insert karni huti or is ky ilawa 2  coding waly QS thy Stack or is k ilawa ik or tha paper easy hy bas thori c mehnat ki zrorat hay All the best"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS jaty howy VUtoolkit k solve kar k gaya tha jis ma sy 12 mcqs ayy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #153*
+👤 *Shared by:* HUMA
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 17 MCQs were from VU Toolkit. Remaining were from handouts.. Questions were all about SQL. Also conditions name.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #154*
+👤 *Shared by:* HUMA
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 17 MCQs were from VU Toolkit. Remaining were from handouts.. Questions were all about SQL. Also conditions name.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #155*
+👤 *Shared by:* Wish
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Or outputs or error batani the"
+
+*KEY POINTS / TOPICS:*
+📍 Paper McQs easy tha paradox file or vu concepts sa tha
+📍 Composition or Aggrigation walo topic
+📍 Must understand Template mostly repeated topic ha
+📍 Long tough tha program likhny rha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #156*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *30-7-2026 Tuesday (6:30 Pm)* *Final Term Spring 2026* *ZOO518T (Applied entomology and pest management - Theory)* *Time Duration: 90 minutes* *One question was neither from the current paper nor from the files. The other questions were from both the current paper and from expert file.* *Regards, Sindhi Memon*🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *Some MCQS form file and Mostly from handouts.*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.Adavantages of legislative law. (Short).*
+📍 *2.Enlist the way to manage pest. (Short).*
+📍 *3.How adult stem look like top borer (Short).Not current Not file*
+📍 *4.Field scouting (Short).*
+📍 *5.Features of order Orthoptera with examples (Long).*
+📍 *6.Features of order Lepidoptera with examples (Long).*
+📍 *7.Five ways to manage rice ear head (Long).*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #157*
+👤 *Shared by:* Paper
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "2- write down three main steps of PCR reaction"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all total manual se the
+📍 Short : 1 - write down steps in CTAB synthesis
+📍 Long : 1 - individually explain the steps of cDNA synthesis?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #158*
+👤 *Shared by:* Paper
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs to pata Nahi Kha se the na manual se na files se ajeeb bongi wording ma bana HOA tha concept wahi Tha bas wording boht difficult or ajeeb thi AIK mcqs ko 3 4 bar parho tab smaj ata Tha "a ka Cheez a " 😂 2- write two names of 5'-3' modifications? 3 - write names of two proteins and their functions involve in lactose metabolism 4- what is cosmid ? 1 - what do you know about involvement of CTD -tail in transcription ? 2- write molecular processes of RNA editing? 3- explain function of galactose operon?"
+
+*KEY POINTS / TOPICS:*
+📍 Short: 1 - write difference between prokaryotic and eukaryotic machinery?
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #159*
+👤 *Shared by:* Laiba Noor
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was easy shukr ha Jany sy phly ma NY jaweria ka review daikh Lia tha thank you so muchhhh yaarrr mostly mcqs us video ma sy aye huye thy or 2 question true ,false or yes no k thy aik program likhna tha or last question ma   sai yaad ni bs us ma thori heading ya def keh lo thi or btana tha k ya kis ma hota ha logical  page table ,physical table tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #160*
+👤 *Shared by:* Wish
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Or outputs or error batani the"
+
+*KEY POINTS / TOPICS:*
+📍 Paper McQs easy tha paradox file or vu concepts sa tha
+📍 Composition or Aggrigation walo topic
+📍 Must understand Template mostly repeated topic ha
+📍 Long tough tha program likhny rha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #161*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *30-7-2026 Tuesday (6:30 Pm)* *Final Term Spring 2026* *ZOO518T (Applied entomology and pest management - Theory)* *Time Duration: 90 minutes* *One question was neither from the current paper nor from the files. The other questions were from both the current paper and from expert file.* *Regards, Sindhi Memon*🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *Some MCQS form file and Mostly from handouts.*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.Adavantages of legislative law. (Short).*
+📍 *2.Enlist the way to manage pest. (Short).*
+📍 *3.How adult stem look like top borer (Short).Not current Not file*
+📍 *4.Field scouting (Short).*
+📍 *5.Features of order Orthoptera with examples (Long).*
+📍 *6.Features of order Lepidoptera with examples (Long).*
+📍 *7.Five ways to manage rice ear head (Long).*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #162*
+👤 *Shared by:* Paper
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "2- write down three main steps of PCR reaction"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs all total manual se the
+📍 Short : 1 - write down steps in CTAB synthesis
+📍 Long : 1 - individually explain the steps of cDNA synthesis?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #163*
+👤 *Shared by:* Paper
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs to pata Nahi Kha se the na manual se na files se ajeeb bongi wording ma bana HOA tha concept wahi Tha bas wording boht difficult or ajeeb thi AIK mcqs ko 3 4 bar parho tab smaj ata Tha "a ka Cheez a " 😂 2- write two names of 5'-3' modifications? 3 - write names of two proteins and their functions involve in lactose metabolism 4- what is cosmid ? 1 - what do you know about involvement of CTD -tail in transcription ? 2- write molecular processes of RNA editing? 3- explain function of galactose operon?"
+
+*KEY POINTS / TOPICS:*
+📍 Short: 1 - write difference between prokaryotic and eukaryotic machinery?
+📍 Long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #164*
+👤 *Shared by:* Laiba Noor
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was easy shukr ha Jany sy phly ma NY jaweria ka review daikh Lia tha thank you so muchhhh yaarrr mostly mcqs us video ma sy aye huye thy or 2 question true ,false or yes no k thy aik program likhna tha or last question ma   sai yaad ni bs us ma thori heading ya def keh lo thi or btana tha k ya kis ma hota ha logical  page table ,physical table tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #165*
+👤 *Shared by:* Zainab Fatima
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Paper Sara kst channel ki labs sa aya tha aur mcqs sra vu toolkit sa aya tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #166*
+👤 *Shared by:* Zainab Fatima
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Paper Sara kst channel ki labs sa aya tha aur mcqs sra vu toolkit sa aya tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #167*
+👤 *Shared by:* Ayeshay gull
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Lond question tangible or non tangible batana tha Bank account customer card or saving ma sa.  do ki output likhni thi or aik ma code likhna tha"
+
+*KEY POINTS / TOPICS:*
+📍 MCQ conceptual tha or aggregation composition inheritance wala topic ma sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #168*
+👤 *Shared by:* Hamna
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "*Objective* easy tha sary mcqs fron AVL tree + Binary search tree and from arry sy thy or accending mei sort krna tha code ko . *Subjecticve* 1.enque and deque waly program ki output nikalni the. 2.Push() and pop() waly program ka output nikalna tha . Concept clear hony chaye about All AVL tree,BNS tree ,..... Wish u all the best🤌 3.Tree mei sy given node ko remove krna tha and agin tree balanced krna tha. 4.arry ko accending order mei sort krna tha with step by step"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #169*
+👤 *Shared by:* Reshail
+📅 *Date:* 30-07-2026 | ⏰ 11: AM
+
+💬 "Mb502t Q)Operon mod 5 points Q)Steps tRNA to amino acids Q) elongation polymerase Q) SR protein function Q) transcription iniation steps"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #170*
+👤 *Shared by:* Yashva Shahbaz
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Paper was easy as usual Mostly from Views Query syntaxes An ERD is given u need to identify Derived attribute For attribute identification there is a diagram in CS403 handouts must watch that diagram Write view query Relational Algebra Qs (The question which come in my exam is of intersection but u thoroughly look over all the Operations in Relational Algebra) A scenario is given where u need to identify Super and Sub type entities. An Relation is given u need to write appropriate SQL query That's all"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS:
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #171*
+👤 *Shared by:* Tasmiya Shehzadi
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "aik long question min heap ka tha array given thi uska tree draw karna tha phir min heap k according uski rotations karni thi 2 trees given thy un ka union ly kar aik node given thi uska weight find karna tha Mostly papar final term mein se hi tha overall paper boht easy tha"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs boht easy thy saary handouts mein se hi aye hue thy
+📍 aik long program likhna tha  leaf node ko find karny k baary mein tha
+📍 Aik long mein hm ne AVL diagram bnani thi
+📍 mid k syllabus mein se bass 6-7 mcqs hi thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #172*
+👤 *Shared by:* Reshail
+📅 *Date:* 30-07-2026 | ⏰ 11: AM
+
+💬 "Mb502t Q)Operon mod 5 points Q)Steps tRNA to amino acids Q) elongation polymerase Q) SR protein function Q) transcription iniation steps"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #173*
+👤 *Shared by:* Yashva Shahbaz
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Paper was easy as usual Mostly from Views Query syntaxes An ERD is given u need to identify Derived attribute For attribute identification there is a diagram in CS403 handouts must watch that diagram Write view query Relational Algebra Qs (The question which come in my exam is of intersection but u thoroughly look over all the Operations in Relational Algebra) A scenario is given where u need to identify Super and Sub type entities. An Relation is given u need to write appropriate SQL query That's all"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS:
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #174*
+👤 *Shared by:* Tasmiya Shehzadi
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "aik long question min heap ka tha array given thi uska tree draw karna tha phir min heap k according uski rotations karni thi 2 trees given thy un ka union ly kar aik node given thi uska weight find karna tha Mostly papar final term mein se hi tha overall paper boht easy tha"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs boht easy thy saary handouts mein se hi aye hue thy
+📍 aik long program likhna tha  leaf node ko find karny k baary mein tha
+📍 Aik long mein hm ne AVL diagram bnani thi
+📍 mid k syllabus mein se bass 6-7 mcqs hi thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #175*
+👤 *Shared by:* Zahra🫶🏻
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "99% bas 1 2 ki statement change thi Subjective: ak question main column ko 3nf main convert Karna tha do question query ka tha or ak main entity relation ka entities di vi thi us ki according super or subtypes ki diagram draw karni thi that it paper was very easy"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:  mcqs vu gate ki video main sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #176*
+👤 *Shared by:* VU student
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper:Bio504t Date: 30-07-2026 unusual base ky name likhny thy composition of triacylglycerol Lipid chemistry of monoenoic acid Cofactor Find H+ composition in 0.1M NAOH(numerical) Sugars(ribose or deoxyriobse) characteristics Medical importance of nucleotides and nucleic acids Amylose m kon c linkage hoti h Serine+ palmitate Enzyme ye protein in nature huta h Aromatic amino acid Konsa h tu uska phenylalanine tha Carbohydrates tha k ye 3 type k huty h Adenine binds with guanine Baqi good luck best wishes Paper ki tyari m NY study with fatima k channel sy ek video dekhi thi or inhi k notes sy prep ki thi inky notes or wo video buht helpful h AP b zror inky notes dekhye ga easy notes h or paper acha hugya *Alhamdulilha* ♥️ *Good luck* 👍"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mid m sy thy kuch or Kuch finals m thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #177*
+👤 *Shared by:* Misbah
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sab vutoolkit mn se thy Subjective MN trees e banany thy kuch ko balance krna tha nodes remove krky
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #178*
+👤 *Shared by:* VANIZA KIRAN HIDAYAT AL
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "20% mids SE 80% final SE Ek meiosis me SE tha 4-5 disease k names poochy SE from X linked recessive / dominant/ autosomal etc Ek point mutations SE jisme stop codon wala amino acid code hota....non sense mutation Baqi yad Nahi"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs 100% handouts SE thy
+📍 Mcqs Sahi SE yad Nahi
+📍 3 mcqs nomenclature SE thy
+📍 2 -3 mcqs DNA extraction SE thy
+📍 1 mcqs  C Banding SE tha ..
+📍 Or inheritance like parents to offspring disease waly 3 mcqs thy
+📍 PCR SE 6-7 mcqs aye thy ( conceptual / comparative type )
+📍 2 mcqs mutation waly thy
+📍 1 mcqs VNTR SE bhi Aya hy
+📍 Short question
+✅ what is difference between hot star PCR and suicide PCR
+✅ what is hot star PCR
+✅ How mutation alter gene function.Explain in terms of
+✅ no coding mutation
+✅ neomorph
+✅ gain of function
+✅ dominant negative mutation
+✅ yad nahi 🤧
+📍 Long question
+✅ describe RNA extraction reagents and also describe the use of reagents
+✅ Describe the polymorphism
+✅ Maternal inheritance of mitochondrial DNA ( question different tha but is topic SE relate tha )
+📍 100% subjective final SE tha mid SE ek question Nahi Aya
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #179*
+👤 *Shared by:* Jiya
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 The paper was so easy. Most of the MCQs came from the handouts..and important MCQs about  paradox  also came from LMS
+📍 Total 4 questions
+📍 In 3 questions a program was given and we had to write its output.
+📍 And in 1 question, a program was given and we had to find the error.
+📍 And those questions came from the @masters final term current papers video..
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #180*
+👤 *Shared by:* ~Unknown
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Q: Write the code for Q: write code for Q: write NASM two files. And usage of the files? Q: write any five name of db-09 connector pins?"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS okay okay the...
+📍 QUESTIONS
+✅ Normal termination
+✅ Termination with TSR
+✅ Copy dx into ax
+✅ declare 10 variable memory with label "STUDENT"
+✅ Increment cx
+✅ Terminate the program
+✅ disable interrupt
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #181*
+👤 *Shared by:* Not Yours
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "All paper high level conceptual tha pta ni MCQs b kahan se aye thy paradox waly mese aik b ni aya mujhe or 4 long thy 1 long me error find krna tha or 1 long me relationship btana tha column deye thy or btana tha ye konsa relation hai or 1 long program deya tha vector waly mese or 1 long me outputs btani thi total 4 long question thy."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #182*
+👤 *Shared by:* ..
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "cs607p  at 4:30pm Write a CLIPS program that: Defines a student template. Includes the slots name, age, and grade. Asserts a student fact with the values Khan, 16, and 2.5. Displays the asserted fact. --- Write a MATLAB program that: Defines a vector V = [4 7 6 3]. Finds the maximum value in the vector. Defines a function cube(n) that calculates the cube of a number. Passes the maximum value of V to the function. Displays the output returned by the function."
+
+*KEY POINTS / TOPICS:*
+📍 mcqs from youtube videos
+📍 Question 1: CLIPS
+📍 Question 2: MATLAB
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #183*
+👤 *Shared by:* Muskan
+📅 *Date:* 29-07-2026 | ⏰ 12:30 PM
+
+💬 "Allhamdilulliah paper acha howa easy tha paper m program likhna tha value print krni thi 78 with setfill(*) or setw() kay sth or ak program error find wla tha ak program m output find krna tha while loop(i<10) if (i%2==0) sum = sum + num ; num =num +1 cout<<sum; or ak or program output find krna tha objective bi easy thy vutookit sy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #184*
+👤 *Shared by:* xyz
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Draw the k map table representing the output of G3of the binary to gray code converter 3)Implement a-4 bit serial in-/parallel out logical circuit using D flip flop F= CA'+B(A'C'+D)+A'CB'"
+
+*KEY POINTS / TOPICS:*
+📍 Sai hi tha conceptual mcqs de morgan D flip flop waly thy or subjective ma
+✅ In a 4bit binary to gray code converter , the most significant but (G3) of the Gray code remains the same as the most significant bit (B3) of binary code .
+✅ aik circuit Wala tha ,circuit dia hua tha EWB ma create Karna tha or logical converter ko use kr k simplify Karna tha
+✅ Using EWB , implement the following function using AND,OR gate . You are required to show the AND OR gate based circuit diagram
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #185*
+👤 *Shared by:* Muskan
+📅 *Date:* 29-07-2026 | ⏰ 12:30 PM
+
+💬 "Allhamdilulliah paper acha howa easy tha paper m program likhna tha value print krni thi 78 with setfill(*) or setw() kay sth or ak program error find wla tha ak program m output find krna tha while loop(i<10) if (i%2==0) sum = sum + num ; num =num +1 cout<<sum; or ak or program output find krna tha objective bi easy thy vutookit sy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #186*
+👤 *Shared by:* xyz
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Draw the k map table representing the output of G3of the binary to gray code converter 3)Implement a-4 bit serial in-/parallel out logical circuit using D flip flop F= CA'+B(A'C'+D)+A'CB'"
+
+*KEY POINTS / TOPICS:*
+📍 Sai hi tha conceptual mcqs de morgan D flip flop waly thy or subjective ma
+✅ In a 4bit binary to gray code converter , the most significant but (G3) of the Gray code remains the same as the most significant bit (B3) of binary code .
+✅ aik circuit Wala tha ,circuit dia hua tha EWB ma create Karna tha or logical converter ko use kr k simplify Karna tha
+✅ Using EWB , implement the following function using AND,OR gate . You are required to show the AND OR gate based circuit diagram
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #187*
+👤 *Shared by:* Aitzaz Ahsan Ranjha
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Here"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #188*
+👤 *Shared by:* Gopi bahu from indian TV
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "NOTE: It is mandatory to do MCQs from Paradox and if possible, there are two videos called Mobiz that you must watch for practical paper. Reminder: Gopi bahu ko Dua mein Yad Rakhna ...."
+
+*KEY POINTS / TOPICS:*
+📍 👉🏻MCQs from Paradox MCQs bahut zyada easy the like past papers in 90% paper aaya tha MCQs mein
+📍 Long Question :
+✅ table given tha virtual box ke bare mein tha aur ismein true or false batane the.
+✅ is main bhi table given the us main  process or burst time Ye dono the ismein aapko sirf Average wait time batana tha dono ko calculate Karke just.
+✅ Ek code giving tha wahn Sara code likha hua tha Sirf Do line missing Thi Uske bare mein likhna tha aur wahan physical address ke baare mein do lines likhna tha.
+✅ 4th question jo hai wo yah wali picture hai is code ko acche se samajh Lena yah aaya tha...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #189*
+👤 *Shared by:* Ahmad
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "MCQS sare paradox wala aye tha aur aik program ma grocery wala program jo yaha diya howa ha woh aya tha aur in ma 1000 integer ka size store karna tha malloc and calloc aik ma loop ko copy karna tha aur akhri ma bi out put batani thi"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #190*
+👤 *Shared by:* Aitzaz Ahsan Ranjha
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Here"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #191*
+👤 *Shared by:* Gopi bahu from indian TV
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "NOTE: It is mandatory to do MCQs from Paradox and if possible, there are two videos called Mobiz that you must watch for practical paper. Reminder: Gopi bahu ko Dua mein Yad Rakhna ...."
+
+*KEY POINTS / TOPICS:*
+📍 👉🏻MCQs from Paradox MCQs bahut zyada easy the like past papers in 90% paper aaya tha MCQs mein
+📍 Long Question :
+✅ table given tha virtual box ke bare mein tha aur ismein true or false batane the.
+✅ is main bhi table given the us main  process or burst time Ye dono the ismein aapko sirf Average wait time batana tha dono ko calculate Karke just.
+✅ Ek code giving tha wahn Sara code likha hua tha Sirf Do line missing Thi Uske bare mein likhna tha aur wahan physical address ke baare mein do lines likhna tha.
+✅ 4th question jo hai wo yah wali picture hai is code ko acche se samajh Lena yah aaya tha...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #192*
+👤 *Shared by:* Ahmad
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "MCQS sare paradox wala aye tha aur aik program ma grocery wala program jo yaha diya howa ha woh aya tha aur in ma 1000 integer ka size store karna tha malloc and calloc aik ma loop ko copy karna tha aur akhri ma bi out put batani thi"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #193*
+👤 *Shared by:* Fajar Qureshi
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Grammar given thi S->if E then S1 you are required to construct SDT by considering: Attributes "true" and "false" for E and "next" and "code" for S Routine "new label" for creating temporary variables and "gen" for creating three-address code. Just write the missing parts 3)_____________ 6)_____________ 8)_____________ Shift-Reduce Parsing Algorithm push $ onto stack sym ← nextToken() repeat until (sym == $ and the stack contains exactly Goal on top of $) if a handle for A → β on top of stack pop |β| symbols off the stack push A onto the stack else if (sym ≠ $ ) push sym onto stack sym ← nextToken() else /* no handle, no input */ report error and halt yh code likha aya tha is ky just missing parts likhny thy 4th short ki tarhan is ky kch parts nhi likhy thy un ko likhna tha  is ko achy se yaad kr ly like samjh ly code ko fill in the blanks ki tahn bana kr diya hua tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs:
+📍 Easy thy handouts se thy concepts clear ho gy toh mcqs ho jy gy
+📍 Short questions:
+✅ How are handles identified in the upper frontier of a shift-reduce parser?
+✅ Identify the original grammar from the canonical collection LR(1) items and write the production rules of the asked grammar as shown below:
+✅ Given is a grammar rule for if statement;
+✅ Complete the missing code from the following code snippet used by a typical Basic Code Generator for translating the three-address IR code into corresponding two-address assembly code;
+✅ ; a :=b+c
+✅ LOAD b, R1
+✅ ADD_________, R1
+✅ ; t1=a*a
+✅ MOV R1, R2
+✅ MUL R2, _____________
+✅ ; b : =t1 +a
+✅ ADD R2, _______________
+📍 LONG QUESTIONS:
+📍 2 or long codes likhy thy missing parts likhna thy
+📍 must prepare chapter 27 page 85, 86 long me ay atha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #194*
+👤 *Shared by:* Jaweria
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "mera A-Z saaaaarrrrrra paper is video say aaya https://youtu.be/bvsI0OcMI6E?si=MdR1MLVbmKpZEWBM"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #195*
+👤 *Shared by:* Fajar Qureshi
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Grammar given thi S->if E then S1 you are required to construct SDT by considering: Attributes "true" and "false" for E and "next" and "code" for S Routine "new label" for creating temporary variables and "gen" for creating three-address code. Just write the missing parts 3)_____________ 6)_____________ 8)_____________ Shift-Reduce Parsing Algorithm push $ onto stack sym ← nextToken() repeat until (sym == $ and the stack contains exactly Goal on top of $) if a handle for A → β on top of stack pop |β| symbols off the stack push A onto the stack else if (sym ≠ $ ) push sym onto stack sym ← nextToken() else /* no handle, no input */ report error and halt yh code likha aya tha is ky just missing parts likhny thy 4th short ki tarhan is ky kch parts nhi likhy thy un ko likhna tha  is ko achy se yaad kr ly like samjh ly code ko fill in the blanks ki tahn bana kr diya hua tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs:
+📍 Easy thy handouts se thy concepts clear ho gy toh mcqs ho jy gy
+📍 Short questions:
+✅ How are handles identified in the upper frontier of a shift-reduce parser?
+✅ Identify the original grammar from the canonical collection LR(1) items and write the production rules of the asked grammar as shown below:
+✅ Given is a grammar rule for if statement;
+✅ Complete the missing code from the following code snippet used by a typical Basic Code Generator for translating the three-address IR code into corresponding two-address assembly code;
+✅ ; a :=b+c
+✅ LOAD b, R1
+✅ ADD_________, R1
+✅ ; t1=a*a
+✅ MOV R1, R2
+✅ MUL R2, _____________
+✅ ; b : =t1 +a
+✅ ADD R2, _______________
+📍 LONG QUESTIONS:
+📍 2 or long codes likhy thy missing parts likhna thy
+📍 must prepare chapter 27 page 85, 86 long me ay atha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #196*
+👤 *Shared by:* Jaweria
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "mera A-Z saaaaarrrrrra paper is video say aaya https://youtu.be/bvsI0OcMI6E?si=MdR1MLVbmKpZEWBM"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #197*
+👤 *Shared by:* Umaira
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Vu zone with iqra ki videos sy mcqs thy. Grant privilege , sql/PL la basic structure poucha tha. ER diagram thi aur AIK long lab week 6 sy Aya Pura. Jo photo Mai hai yeh Sara."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #198*
+👤 *Shared by:* sania
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "agr ap KST learning sy labs kr lety to paper bhut acha ho ga"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS bhut easy thy
+✅ ERD diagram bnani thi
+✅ table ko 2NF ma krna tha
+✅ relation dia tha us ko 3NF Ma krna tha
+✅ view create krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #199*
+👤 *Shared by:* Umaira
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Vu zone with iqra ki videos sy mcqs thy. Grant privilege , sql/PL la basic structure poucha tha. ER diagram thi aur AIK long lab week 6 sy Aya Pura. Jo photo Mai hai yeh Sara."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #200*
+👤 *Shared by:* sania
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "agr ap KST learning sy labs kr lety to paper bhut acha ho ga"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS bhut easy thy
+✅ ERD diagram bnani thi
+✅ table ko 2NF ma krna tha
+✅ relation dia tha us ko 3NF Ma krna tha
+✅ view create krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #201*
+👤 *Shared by:* Umaira
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Vu zone with iqra ki videos sy mcqs thy. Grant privilege , sql/PL la basic structure poucha tha. ER diagram thi aur AIK long lab week 6 sy Aya Pura. Jo photo Mai hai yeh Sara."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #202*
+👤 *Shared by:* sania
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "agr ap KST learning sy labs kr lety to paper bhut acha ho ga"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS bhut easy thy
+✅ ERD diagram bnani thi
+✅ table ko 2NF ma krna tha
+✅ relation dia tha us ko 3NF Ma krna tha
+✅ view create krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #203*
+👤 *Shared by:* Ayesha
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "1-3NF from lab 2-super-type sub-type relationship 3- Inner join 4- Transform ERD into Relational data model overall paper from LAB"
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's from sql query
+📍 Question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #204*
+👤 *Shared by:* Ayesha
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "1-3NF from lab 2-super-type sub-type relationship 3- Inner join 4- Transform ERD into Relational data model overall paper from LAB"
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's from sql query
+📍 Question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #205*
+👤 *Shared by:* Ayesha
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "1-3NF from lab 2-super-type sub-type relationship 3- Inner join 4- Transform ERD into Relational data model overall paper from LAB"
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's from sql query
+📍 Question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #206*
+👤 *Shared by:* Ahtisham
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "https://www.youtube.com/watch?v=0MiFRLUYJ2c 30% from handouts 1)jo column match krny wala hy (gateway,hub,repeater,bridge wala) 2)	TTL 	Default wait time = 	Symbol for packet loss 3)Q7. Private IP address ranges 	Class A: 	Class B: 	Class C: 1) 2) 3)"
+
+*KEY POINTS / TOPICS:*
+📍 objective:  70% from video:
+📍 subjective : from this video: https://www.youtube.com/watch?v=0MiFRLUYJ2c
+✅ us m 3 scenerio diay thy btana tha konsi command  use ho rhin hyn
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #207*
+👤 *Shared by:* Ahtisham
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+💬 "https://www.youtube.com/watch?v=0MiFRLUYJ2c 30% from handouts 1)jo column match krny wala hy (gateway,hub,repeater,bridge wala) 2)	TTL 	Default wait time = 	Symbol for packet loss 3)Q7. Private IP address ranges 	Class A: 	Class B: 	Class C: 1) 2) 3)"
+
+*KEY POINTS / TOPICS:*
+📍 objective:  70% from video:
+📍 subjective : from this video: https://www.youtube.com/watch?v=0MiFRLUYJ2c
+✅ us m 3 scenerio diay thy btana tha konsi command  use ho rhin hyn
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #208*
+👤 *Shared by:* Roohaniii
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Alhumdulilah Paper bht bht bht zada easy the mene srf 3 video dekhi thi youtube se koi lab kuch bhi ni bs unhi 3 videos me se paper aya hua tha or past papers paradox ki website se ja kr dekhe the ik question un me se aya hua tha youtube videos do mobiz knwolege waalo ki thi ik mcqs ki ik subjective mene wo subjective bhi complete ni ki thi srf 14 questions kiye the ydd... Or ik video iqra azhar ki bs ye kr lein paper 100 percent ho jai ga INSHAALLAH best of luck for your exams.... 2 question tha ik table dia hua tha us me device name or aage functionality likhi hui thi unhe match krna tha k kon si functionality kis device ki h,, 3 question In packet tracer tool, when we perform a static IP configuration, then which types of information will be required? 4 question ye past paper me se tha k ik router h us me router ka name h cisco router hm ne use change kr k likhna cs610p router..or cs610pp is ka pasword kese lgai ge.."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective Part:
+📍 1 question tha IP Adresses diye hue the or un ka btana tha kon sa address private h kon sa public,,
+📍 baaqi mcqs were mostly iqra azhar and mobiz knwoledge videos....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #209*
+👤 *Shared by:* Roohaniii
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Alhumdulilah Paper bht bht bht zada easy the mene srf 3 video dekhi thi youtube se koi lab kuch bhi ni bs unhi 3 videos me se paper aya hua tha or past papers paradox ki website se ja kr dekhe the ik question un me se aya hua tha youtube videos do mobiz knwolege waalo ki thi ik mcqs ki ik subjective mene wo subjective bhi complete ni ki thi srf 14 questions kiye the ydd... Or ik video iqra azhar ki bs ye kr lein paper 100 percent ho jai ga INSHAALLAH best of luck for your exams.... 2 question tha ik table dia hua tha us me device name or aage functionality likhi hui thi unhe match krna tha k kon si functionality kis device ki h,, 3 question In packet tracer tool, when we perform a static IP configuration, then which types of information will be required? 4 question ye past paper me se tha k ik router h us me router ka name h cisco router hm ne use change kr k likhna cs610p router..or cs610pp is ka pasword kese lgai ge.."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective Part:
+📍 1 question tha IP Adresses diye hue the or un ka btana tha kon sa address private h kon sa public,,
+📍 baaqi mcqs were mostly iqra azhar and mobiz knwoledge videos....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #210*
+👤 *Shared by:* Hoor
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs201p"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs in concept based
+📍 Shorts questions coding thi output btana tha
+📍 Long type me full code bnnana tha ...related user output individual same out ana chaiye
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #211*
+👤 *Shared by:* ~R~
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Totally paper Sara conceptual tha ziada constructor or destructor overload Sy Aya hua tha....subjective MN 1 output 2 wroor or ek code likhna tha wo b conceptual..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #212*
+👤 *Shared by:* Hoor
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs201p"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs in concept based
+📍 Shorts questions coding thi output btana tha
+📍 Long type me full code bnnana tha ...related user output individual same out ana chaiye
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #213*
+👤 *Shared by:* ~R~
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Totally paper Sara conceptual tha ziada constructor or destructor overload Sy Aya hua tha....subjective MN 1 output 2 wroor or ek code likhna tha wo b conceptual..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #214*
+👤 *Shared by:* Hoor
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs201p"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs in concept based
+📍 Shorts questions coding thi output btana tha
+📍 Long type me full code bnnana tha ...related user output individual same out ana chaiye
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #215*
+👤 *Shared by:* ~R~
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Totally paper Sara conceptual tha ziada constructor or destructor overload Sy Aya hua tha....subjective MN 1 output 2 wroor or ek code likhna tha wo b conceptual..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #216*
+👤 *Shared by:* Noor
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "a). Write formula for Need values. b). Find Need values for given data...... 1024 × 1024 matrix int B[1024][1024]; Write nested 'for loop' for row and column."
+
+*KEY POINTS / TOPICS:*
+📍 All Mcqs Paradox k Mcqs bank sy or masters ki final term preparation video sy aye the
+📍 Long Q:
+✅ Directories
+✅ C code Producer Consumer Problem
+✅ Bankers Algorithm:
+✅ C Program
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #217*
+👤 *Shared by:* Noor
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "a). Write formula for Need values. b). Find Need values for given data...... 1024 × 1024 matrix int B[1024][1024]; Write nested 'for loop' for row and column."
+
+*KEY POINTS / TOPICS:*
+📍 All Mcqs Paradox k Mcqs bank sy or masters ki final term preparation video sy aye the
+📍 Long Q:
+✅ Directories
+✅ C code Producer Consumer Problem
+✅ Bankers Algorithm:
+✅ C Program
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #218*
+👤 *Shared by:* Faizan
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Overall Paper Vu toolkit ki mcqs se repeated tha bas just statements change thei thori bohat takay thora confuse ho jaien student's. AVL Diagram banani thei"
+
+*KEY POINTS / TOPICS:*
+📍 Long Question mad code likhna tha
+📍 AVL Diagram se kafi Mcqs thay Diagram bani howi thie us ku answer diya howay mcqs mae
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #219*
+👤 *Shared by:* NORA
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "Bs code likhna aina chaheya apko Best of luck"
+
+*KEY POINTS / TOPICS:*
+📍 MCq so so mushkil zayda mcq paradox file sa thy
+📍 Or subjective thora easy tha or thora mushkil
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #220*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *28-7-2026 Tuesday (6:30 Pm)* *Final Term Spring 2026* *ZOO603T Principles Of Fish Biology - Theory)* *Time Duration: 90 minutes* *All the subjective questions are covered in Sir Mughal's, Kainat Alvi's, and Expert's files. These questions are also from the current Paper.* *Regards, Sindhi Memon*🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *27 MCQs were from Ayesha Butt's file, and the remaining 6 MCQs were also very easy.*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.Lobsters (Short).*
+📍 *2.Three Shrimp Names (Short).*
+📍 *3.Three Function Of Ecosystem (Short).*
+📍 *4.Brackish water aqua culture (Short).*
+📍 *5.Biological Rhythms (Long).*
+📍 *6.Composite fish farming (Long).*
+📍 *7.Characters of Chimaera (Long).*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #221*
+👤 *Shared by:* Faizan
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Overall Paper Vu toolkit ki mcqs se repeated tha bas just statements change thei thori bohat takay thora confuse ho jaien student's. AVL Diagram banani thei"
+
+*KEY POINTS / TOPICS:*
+📍 Long Question mad code likhna tha
+📍 AVL Diagram se kafi Mcqs thay Diagram bani howi thie us ku answer diya howay mcqs mae
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #222*
+👤 *Shared by:* NORA
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "Bs code likhna aina chaheya apko Best of luck"
+
+*KEY POINTS / TOPICS:*
+📍 MCq so so mushkil zayda mcq paradox file sa thy
+📍 Or subjective thora easy tha or thora mushkil
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #223*
+👤 *Shared by:* Sindhi Memon
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "*Assalamoalaikum* *28-7-2026 Tuesday (6:30 Pm)* *Final Term Spring 2026* *ZOO603T Principles Of Fish Biology - Theory)* *Time Duration: 90 minutes* *All the subjective questions are covered in Sir Mughal's, Kainat Alvi's, and Expert's files. These questions are also from the current Paper.* *Regards, Sindhi Memon*🥰 *Best of Luck! 🤲🍀✨*"
+
+*KEY POINTS / TOPICS:*
+📍 *Total Marks: 60 (33 Marks for Objective and 27 Marks For Subjective)*
+📍 *Objective: (33 MCQS no choice)*
+📍 *27 MCQs were from Ayesha Butt's file, and the remaining 6 MCQs were also very easy.*
+📍 *Subjective: 4 short questions (1short question: 3 marks) & 3 long questions (1 long Question: 5 marks)*
+📍 *1.Lobsters (Short).*
+📍 *2.Three Shrimp Names (Short).*
+📍 *3.Three Function Of Ecosystem (Short).*
+📍 *4.Brackish water aqua culture (Short).*
+📍 *5.Biological Rhythms (Long).*
+📍 *6.Composite fish farming (Long).*
+📍 *7.Characters of Chimaera (Long).*
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #224*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "Cs505p Mcqus easy thay likin conceptual thay no from files. .what is virtual machine? . different between exsi and vsphere? . explain guest os in hardware access in para and full virtualization? Give justification and reasons of each one? Past paper question tha .Diagram given thi sddc components  write names of components. Paper bht easy tha mcqus toray hard thay mcqus."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #225*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "Cs505p Mcqus easy thay likin conceptual thay no from files. .what is virtual machine? . different between exsi and vsphere? . explain guest os in hardware access in para and full virtualization? Give justification and reasons of each one? Past paper question tha .Diagram given thi sddc components  write names of components. Paper bht easy tha mcqus toray hard thay mcqus."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #226*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "Cs505p Mcqus easy thay likin conceptual thay no from files. .what is virtual machine? . different between exsi and vsphere? . explain guest os in hardware access in para and full virtualization? Give justification and reasons of each one? Past paper question tha .Diagram given thi sddc components  write names of components. Paper bht easy tha mcqus toray hard thay mcqus."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #227*
+👤 *Shared by:* Areeba
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "S/Q Name the components of respiratory path of lungs. Absorption of water takes place in which part of loop of Henle. Name three processes used in intestinal absorption. L/Q P- wave and P-R interval in electrocardiogram. Effects of change in PH. D/W peristalsis and reverse peristalsis."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 Har topic ma se mcqs thy sari ppts important hen.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #228*
+👤 *Shared by:* Areeba
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "S/Q Name the components of respiratory path of lungs. Absorption of water takes place in which part of loop of Henle. Name three processes used in intestinal absorption. L/Q P- wave and P-R interval in electrocardiogram. Effects of change in PH. D/W peristalsis and reverse peristalsis."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 Har topic ma se mcqs thy sari ppts important hen.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #229*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "aik chz or th k file k content given th 5 4 3 2 1 seekg or tellg use krty hue file read kri th or iska output predict krna th jo ios::end sy shru th or -j yani end sy read krta hua upr a rh th loop m line by line read krty hue"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #230*
+👤 *Shared by:* Areeba
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "S/Q functional groups present in nucleotide bases. Effect of VLDL L/Q Effect of hexokinase in determining significance of km. Primary structure of nucleotides."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #231*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "aik chz or th k file k content given th 5 4 3 2 1 seekg or tellg use krty hue file read kri th or iska output predict krna th jo ios::end sy shru th or -j yani end sy read krta hua upr a rh th loop m line by line read krty hue"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #232*
+👤 *Shared by:* Areeba
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "S/Q functional groups present in nucleotide bases. Effect of VLDL L/Q Effect of hexokinase in determining significance of km. Primary structure of nucleotides."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #233*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "aik chz or th k file k content given th 5 4 3 2 1 seekg or tellg use krty hue file read kri th or iska output predict krna th jo ios::end sy shru th or -j yani end sy read krta hua upr a rh th loop m line by line read krty hue"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #234*
+👤 *Shared by:* Areeba
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "S/Q functional groups present in nucleotide bases. Effect of VLDL L/Q Effect of hexokinase in determining significance of km. Primary structure of nucleotides."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #235*
+👤 *Shared by:* B4Z00KA
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper boht easy tha https://www.youtube.com/watch?v=0MiFRLUYJ2c"
+
+*KEY POINTS / TOPICS:*
+📍 Y video dekhein lein or paradox ky MCQs kr lein i think 100 ya 110 MCQs hn paper sara almost issi my sy aya v tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #236*
+👤 *Shared by:* B4Z00KA
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper boht easy tha https://www.youtube.com/watch?v=0MiFRLUYJ2c"
+
+*KEY POINTS / TOPICS:*
+📍 Y video dekhein lein or paradox ky MCQs kr lein i think 100 ya 110 MCQs hn paper sara almost issi my sy aya v tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #237*
+👤 *Shared by:* Fia
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "1.Types of lipoprotein 2.Svedberg units 3.pKa value of lactic acid(numerical) 4.Composition of nucleotides 1.Order of reaction with respect to substrate concentration 2.Hydrogenation process with respect to fats 3.State and describes types of RNA"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+📍 Long
+📍 Mostly Mcqs were from mid term syllabus must read handouts once
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #238*
+👤 *Shared by:* Fia
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "1.Types of lipoprotein 2.Svedberg units 3.pKa value of lactic acid(numerical) 4.Composition of nucleotides 1.Order of reaction with respect to substrate concentration 2.Hydrogenation process with respect to fats 3.State and describes types of RNA"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+📍 Long
+📍 Mostly Mcqs were from mid term syllabus must read handouts once
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #239*
+👤 *Shared by:* Sherry
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Paper was too easy Print welcome cs607p ki command thi batana tha output Kiya ay gi Aik mamdani wali diagram thi explan Karni thi Clips ka concept achy say clear Kary lay"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from files
+📍 Aik or clip ka question tha fact or defrule Wala animal characteristics likhni thi clips ma
+📍 Question tha input or output btani thi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #240*
+👤 *Shared by:* Tayyaba Bakhsh
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "handouts me se tha Sara paper ... shape or circle se related question tha code likhna tha us k liye or  bank savings card etc given tha or us me se tangible or non tangible btana tha ... thnx ... best of luck for Ur exams ...🎀"
+
+*KEY POINTS / TOPICS:*
+📍 inheritance k liye kon sa symbol use hota mcq tha, or template se related zyda mcqs the ..
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #241*
+👤 *Shared by:* Horain
+📅 *Date:* 07-07-2026 | ⏰ 08:00 AM
+
+💬 "📖 *Course Code* CS403 and cs403p 📚 *Exam :* Finalterm (Spring 2026) 📅 *Date:* 27-07-2026 🕐 *Time:* 8:00 AM 👤 *Shared by:* horain *Paper Content:* Select Create DDL DML And kst channel https://youtu.be/tkPdTPveagI?si=xCHX7R5aEEOXJ_B5 Yha se boht help ful rahy ga or Hashing Memory cache View Index Ye channel best world of education https://youtu.be/RFfZnVRsW7c?si=SjIrGWHH4nTl1E0- Baqi paper over all easy ta"
+
+*KEY POINTS / TOPICS:*
+📍 LEC 25 TO 31 ZYADA SHORT and long ke liay important he
+📍 entity realitiomal. Diagram long me
+📍 Mcq ke liay
+📍 Transaction ke bary me 3 se 4 mcq te
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #242*
+👤 *Shared by:* Horain
+📅 *Date:* 07-07-2026 | ⏰ 08:00 AM
+
+💬 "📖 *Course Code* CS403 and cs403p 📚 *Exam :* Finalterm (Spring 2026) 📅 *Date:* 27-07-2026 🕐 *Time:* 8:00 AM 👤 *Shared by:* horain *Paper Content:* Select Create DDL DML And kst channel https://youtu.be/tkPdTPveagI?si=xCHX7R5aEEOXJ_B5 Yha se boht help ful rahy ga or Hashing Memory cache View Index Ye channel best world of education https://youtu.be/RFfZnVRsW7c?si=SjIrGWHH4nTl1E0- Baqi paper over all easy ta"
+
+*KEY POINTS / TOPICS:*
+📍 LEC 25 TO 31 ZYADA SHORT and long ke liay important he
+📍 entity realitiomal. Diagram long me
+📍 Mcq ke liay
+📍 Transaction ke bary me 3 se 4 mcq te
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #243*
+👤 *Shared by:* Horain
+📅 *Date:* 07-07-2026 | ⏰ 08:00 AM
+
+💬 "📖 *Course Code* CS403 and cs403p 📚 *Exam :* Finalterm (Spring 2026) 📅 *Date:* 27-07-2026 🕐 *Time:* 8:00 AM 👤 *Shared by:* horain *Paper Content:* Select Create DDL DML And kst channel https://youtu.be/tkPdTPveagI?si=xCHX7R5aEEOXJ_B5 Yha se boht help ful rahy ga or Hashing Memory cache View Index Ye channel best world of education https://youtu.be/RFfZnVRsW7c?si=SjIrGWHH4nTl1E0- Baqi paper over all easy ta"
+
+*KEY POINTS / TOPICS:*
+📍 LEC 25 TO 31 ZYADA SHORT and long ke liay important he
+📍 entity realitiomal. Diagram long me
+📍 Mcq ke liay
+📍 Transaction ke bary me 3 se 4 mcq te
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #244*
+👤 *Shared by:* Farhan Ali
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper normal tha na zyada mushkil na asaan Pi ki value hai 3.1415926 agr point KY Baad Waly 2 decimal chaiye ho output me to Kya kren gy 1.Matrix wala program tha os ki output btani thi original matrix or transposed matrix ki. while (num<10) { if (num%2==0) sum+=num; num++; } cout << sum;"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 3 sy 4 mcqs output Waly thy or overloaded operator KY bary me thy 1 , 2
+📍 Question
+📍 2 question output Waly thy or 2 code waly thy
+✅ int num=1, sum=0;
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #245*
+👤 *Shared by:* Malik Ahmad
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper normal tha na zyada mushkil na asaan Pi ki value hai 3.1415926 agr point KY Baad Waly 2 decimal chaiye ho output me to Kya kren gy 1.Matrix wala program tha os ki output btani thi original matrix or transposed matrix ki. while (num<10) { if (num%2==0) sum+=num; num++; } cout << sum;"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 3 sy 4 mcqs output Waly thy or overloaded operator KY bary me thy 1 , 2
+📍 Question
+📍 2 question output Waly thy or 2 code waly thy
+✅ int num=1, sum=0;
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #246*
+👤 *Shared by:* Farhan Ali
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper normal tha na zyada mushkil na asaan Pi ki value hai 3.1415926 agr point KY Baad Waly 2 decimal chaiye ho output me to Kya kren gy 1.Matrix wala program tha os ki output btani thi original matrix or transposed matrix ki. while (num<10) { if (num%2==0) sum+=num; num++; } cout << sum;"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 3 sy 4 mcqs output Waly thy or overloaded operator KY bary me thy 1 , 2
+📍 Question
+📍 2 question output Waly thy or 2 code waly thy
+✅ int num=1, sum=0;
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #247*
+👤 *Shared by:* Malik Ahmad
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper normal tha na zyada mushkil na asaan Pi ki value hai 3.1415926 agr point KY Baad Waly 2 decimal chaiye ho output me to Kya kren gy 1.Matrix wala program tha os ki output btani thi original matrix or transposed matrix ki. while (num<10) { if (num%2==0) sum+=num; num++; } cout << sum;"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs
+📍 3 sy 4 mcqs output Waly thy or overloaded operator KY bary me thy 1 , 2
+📍 Question
+📍 2 question output Waly thy or 2 code waly thy
+✅ int num=1, sum=0;
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #248*
+👤 *Shared by:* Mudassra
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Date 27 ppr cs301p Aik tree diya hua tha uska  inorder traversal niklna tha 1,2,3,4,5,6,7,8 jiska ye answer tha Aik AVL tree diya hua tha do node add krni thi phir Jo last par tree bnta usko drw krna tha bs Aik queue ka program tha Aik output wala"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs thk hi thy mtlb agr apky concept clear to kr lein gy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #249*
+👤 *Shared by:* Ayeshay gull
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+*KEY POINTS / TOPICS:*
+📍 MCQS conceptual tha 2 kmap sa tha or aik electronic work bench sa
+📍 4 long question tha 3 electronic work bench sa or aik Kmap sa tha kmap diya tha us ka SOP expression batana tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #250*
+👤 *Shared by:* ALiiiii
+📅 *Date:* 27-06-2026 | ⏰ 06:30 PM
+
+💬 "ASSLAM O ALAIKUM YouTube pr 2 videos recommend krta hun sara paper us mein sy aya YouTube channel VU ZONE WITH IQRA AZHAR CS409P final term video hai 14:23 mint ki wo kryn."
+
+*KEY POINTS / TOPICS:*
+📍 Paper  Totally past papers mein sy repeat huwa tha
+📍 Same MCQS Or same Subjective wohi thy
+📍 Second : YouTube channel Life Star Academy 10:46 mint ki video inki video mein sy subjective aya tha mcqs bhi .
+📍 PARADOX Waly MCQS Bhi kr k jana un mein sy bhi aye thy .
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #251*
+👤 *Shared by:* Mudassra
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Date 27 ppr cs301p Aik tree diya hua tha uska  inorder traversal niklna tha 1,2,3,4,5,6,7,8 jiska ye answer tha Aik AVL tree diya hua tha do node add krni thi phir Jo last par tree bnta usko drw krna tha bs Aik queue ka program tha Aik output wala"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs thk hi thy mtlb agr apky concept clear to kr lein gy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #252*
+👤 *Shared by:* Ayeshay gull
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+*KEY POINTS / TOPICS:*
+📍 MCQS conceptual tha 2 kmap sa tha or aik electronic work bench sa
+📍 4 long question tha 3 electronic work bench sa or aik Kmap sa tha kmap diya tha us ka SOP expression batana tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #253*
+👤 *Shared by:* ALiiiii
+📅 *Date:* 27-06-2026 | ⏰ 06:30 PM
+
+💬 "ASSLAM O ALAIKUM YouTube pr 2 videos recommend krta hun sara paper us mein sy aya YouTube channel VU ZONE WITH IQRA AZHAR CS409P final term video hai 14:23 mint ki wo kryn."
+
+*KEY POINTS / TOPICS:*
+📍 Paper  Totally past papers mein sy repeat huwa tha
+📍 Same MCQS Or same Subjective wohi thy
+📍 Second : YouTube channel Life Star Academy 10:46 mint ki video inki video mein sy subjective aya tha mcqs bhi .
+📍 PARADOX Waly MCQS Bhi kr k jana un mein sy bhi aye thy .
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #254*
+👤 *Shared by:* khatana
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was quite easy if your concepts were clear. The MCQs were conceptual. The subjective section included two output-based questions, one error-finding and correction question, and one short programming question."
+
+*KEY POINTS / TOPICS:*
+📍 Paradox's Imp MCQs are helpful for clearing concepts. Highly recommended!
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #255*
+👤 *Shared by:* Bint e Asif
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 All mcqs were from vu toolkit
+📍 Subjective
+📍 Short
+✅ Code was given and we have to find and correct them.
+✅ We have to write output of the given code
+✅ Same there was a code given and we have to write output
+✅ Again code was given and we have to write the output
+📍 Long
+✅ We have to write code
+✅ Code was given and we have to write output
+✅ Again we have to write code
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #256*
+👤 *Shared by:* Bint e Asif
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 All mcqs were from vu toolkit
+📍 Subjective
+📍 Short
+✅ Code was given and we have to find and correct them.
+✅ We have to write output of the given code
+✅ Same there was a code given and we have to write output
+✅ Again code was given and we have to write the output
+📍 Long
+✅ We have to write code
+✅ Code was given and we have to write output
+✅ Again we have to write code

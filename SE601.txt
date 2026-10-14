@@ -1,0 +1,148 @@
+📢 *SUBJECT: SE601*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Mrs Mubeen Raza
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Q1-Info hiding with exa Q2- Write the three design issues as given sample general code review checklist. Q3-A government organization is developing a payroll system with well-defined, fixed requirements approved in advance. The development team prefers to complete one phase before moving to the next and wants clear documentation at every stage. Which SDLC model best fits this project, and why? Q4-You are working on a group project using Git. Your teammate added new code and committed it. You want to update your local repository to include those changes. Q5-Which Git command would you use, and how does it help in team collaboration? Q1-Write the types of tests as discussed in your lecture. Q2: int cal(int a,int b){ int c=a+b; return c; } Identify the coding standard errors in this function and name the type of error(s) based on standard practices. Q3-A university portal allows students to log in using their registered email. The system compares the entered email with the stored email string. A student types "Ali.Khan@Uni.edu" but the stored email is "ali.khan@uni.edu". Identify whether the strings are equal or unequal. Justify your answer."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sary hi https://youtu.be/aXs1B-f6L8U?si=XSIbmfhRywszLYG3 is channel sy thi baqi koi 2 ya 3 different hngy bs
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Mrs Mubeen Raza
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Q1-Info hiding with exa Q2- Write the three design issues as given sample general code review checklist. Q3-A government organization is developing a payroll system with well-defined, fixed requirements approved in advance. The development team prefers to complete one phase before moving to the next and wants clear documentation at every stage. Which SDLC model best fits this project, and why? Q4-You are working on a group project using Git. Your teammate added new code and committed it. You want to update your local repository to include those changes. Q5-Which Git command would you use, and how does it help in team collaboration? Q1-Write the types of tests as discussed in your lecture. Q2: int cal(int a,int b){ int c=a+b; return c; } Identify the coding standard errors in this function and name the type of error(s) based on standard practices. Q3-A university portal allows students to log in using their registered email. The system compares the entered email with the stored email string. A student types "Ali.Khan@Uni.edu" but the stored email is "ali.khan@uni.edu". Identify whether the strings are equal or unequal. Justify your answer."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sary hi https://youtu.be/aXs1B-f6L8U?si=XSIbmfhRywszLYG3 is channel sy thi baqi koi 2 ya 3 different hngy bs
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Ifra
+📅 *Date:* 02-08-2026 | ⏰ 06:30 PM
+
+💬 "Give a cyclomatic complexity formula or use? Senerio tha us me kn sa model use hoga mobile walaa tha seniors Write a sample review checklist for c plus plus coding standards. Test cases kn kn se parhay hen ap ne wo thy.... Ek code tha jis me se errors find krne thy.. DevOps ka dis advantages thy.."
+
+*KEY POINTS / TOPICS:*
+📍 Saree mcqs then learn YouTube channel se ayee thy bs 3,4 change thy.
+📍 Long short bhi sb repeated thyy r mcqs bhi saray usi file se ayee thy..best of luck
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Ifra
+📅 *Date:* 02-08-2026 | ⏰ 06:30 PM
+
+💬 "Give a cyclomatic complexity formula or use? Senerio tha us me kn sa model use hoga mobile walaa tha seniors Write a sample review checklist for c plus plus coding standards. Test cases kn kn se parhay hen ap ne wo thy.... Ek code tha jis me se errors find krne thy.. DevOps ka dis advantages thy.."
+
+*KEY POINTS / TOPICS:*
+📍 Saree mcqs then learn YouTube channel se ayee thy bs 3,4 change thy.
+📍 Long short bhi sb repeated thyy r mcqs bhi saray usi file se ayee thy..best of luck
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Xyz
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "SE601 2 Aug 26 10:00 Am https://youtu.be/aXs1B-f6L8U?si=WE170JRqzXizMdQZ Is videos sy thy sary bs 2 ya 3 alag sy ay thy"
+
+*KEY POINTS / TOPICS:*
+📍 *MCQ*
+📍 Short
+✅ What is inline comment give one example
+✅ Write formula or cyclomatic complexity why we use
+✅ Give name Test case design techniques
+✅ Library management ka scenario tha jis m sy noun find krny thy 3 for OOP class k kiye
+📍 Long
+✅ How many test we study in our syllabus (test typs btani thi sari)
+✅ Shopping website scenario tha jis m user product ko add, remove, delete place order trak order cancel order. Admin update information and accounts (5 operation and function find krny thy
+✅ 1 software company startup ny app bnai jis m client bar bar charges ka bol rha hy to kon sa model use krengy or q
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Xyz
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "SE601 2 Aug 26 10:00 Am https://youtu.be/aXs1B-f6L8U?si=WE170JRqzXizMdQZ Is videos sy thy sary bs 2 ya 3 alag sy ay thy"
+
+*KEY POINTS / TOPICS:*
+📍 *MCQ*
+📍 Short
+✅ What is inline comment give one example
+✅ Write formula or cyclomatic complexity why we use
+✅ Give name Test case design techniques
+✅ Library management ka scenario tha jis m sy noun find krny thy 3 for OOP class k kiye
+📍 Long
+✅ How many test we study in our syllabus (test typs btani thi sari)
+✅ Shopping website scenario tha jis m user product ko add, remove, delete place order trak order cancel order. Admin update information and accounts (5 operation and function find krny thy
+✅ 1 software company startup ny app bnai jis m client bar bar charges ka bol rha hy to kon sa model use krengy or q
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Eman
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "is file  file sy kafi mcq aye the TechLearn youtube channel aik stodoc ki file thi current paper woh meiny google sy nikali thi sara paper and question all most us file sy aya tha mcq sary us mn sy thy 2 question baki easy tha paper   and subjective mujy yad ni hn aik test unit technique thi 2 meiny white box and black box answer mn likha and baki aik question tha write a c++ data type for review is trah ka kuch tha and aik long mn shopping ka scenerio tha us mn operation find kr k un k name likhny thy like place order cancel order and baki short mn what is information hiding bas yahi yad hn"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Eman
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "is file  file sy kafi mcq aye the TechLearn youtube channel aik stodoc ki file thi current paper woh meiny google sy nikali thi sara paper and question all most us file sy aya tha mcq sary us mn sy thy 2 question baki easy tha paper   and subjective mujy yad ni hn aik test unit technique thi 2 meiny white box and black box answer mn likha and baki aik question tha write a c++ data type for review is trah ka kuch tha and aik long mn shopping ka scenerio tha us mn operation find kr k un k name likhny thy like place order cancel order and baki short mn what is information hiding bas yahi yad hn"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Information hiding with example. Formula of cyclomatic complexity and why it is used? Names of two test case technique. 3 principle of software code and ethics. Write 5 heuristic with 1 line of description each. Names of all component of review plan. Sxenario given that client frequently changes requirement after every demo.which sdlc model team adopt for qyickly work."
+
+*KEY POINTS / TOPICS:*
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Allah di bandi
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Information hiding with example. Formula of cyclomatic complexity and why it is used? Names of two test case technique. 3 principle of software code and ethics. Write 5 heuristic with 1 line of description each. Names of all component of review plan. Sxenario given that client frequently changes requirement after every demo.which sdlc model team adopt for qyickly work."
+
+*KEY POINTS / TOPICS:*
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Armeen
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 mcqs from paradox extention  bad design characteristic,git command,version control system,solid principle
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Armeen
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 mcqs from paradox extention  bad design characteristic,git command,version control system,solid principle
