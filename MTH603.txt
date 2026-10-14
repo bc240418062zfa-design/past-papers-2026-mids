@@ -1,0 +1,179 @@
+📢 *SUBJECT: MTH603*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Fatima
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Richardson exploration Milne predictor Euler method Two dimensional interpolation 3/8 Simpson rule Trapezoial rule Network Farward"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs From past
+📍 Short question
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Fatima
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Richardson exploration Milne predictor Euler method Two dimensional interpolation 3/8 Simpson rule Trapezoial rule Network Farward"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs From past
+📍 Short question
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Iqra Rasheed
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "2 Euler method apply kr k value find krni thi 3 Sympsons 1/3 rule apply krna tha Newton forward difference table 2 sympson 1/3 rule."
+
+*KEY POINTS / TOPICS:*
+📍 Allah Mcq's were from files paradox file and waqar sidhu files.
+📍 Short questions include a function was given and we have to put value of x and y values were given.
+📍 Long
+📍 3Sympson 3/8 rule all questions were from handouts from lecture 37 to 45
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Iqra Rasheed
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "2 Euler method apply kr k value find krni thi 3 Sympsons 1/3 rule apply krna tha Newton forward difference table 2 sympson 1/3 rule."
+
+*KEY POINTS / TOPICS:*
+📍 Allah Mcq's were from files paradox file and waqar sidhu files.
+📍 Short questions include a function was given and we have to put value of x and y values were given.
+📍 Long
+📍 3Sympson 3/8 rule all questions were from handouts from lecture 37 to 45
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* zainab
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+*KEY POINTS / TOPICS:*
+📍 mcqs from a file vedio i saw on vu tool kit almost 80%
+📍 3-4 mcq euler method 3-4 runge-kutta method 3-4 about lagranges formulaha
+📍 divided diffrences and 1 mcq from last 40-45 lec ma sa tha linear eq ka
+📍 short q simpsons 1/3 theory trapezodial and 1 dicivded diff table
+📍 long 1/3 simpson rule , backward diff formula nikalna tha using tabke , simpsons 3/8 rule
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* zainab
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+*KEY POINTS / TOPICS:*
+📍 mcqs from a file vedio i saw on vu tool kit almost 80%
+📍 3-4 mcq euler method 3-4 runge-kutta method 3-4 about lagranges formulaha
+📍 divided diffrences and 1 mcq from last 40-45 lec ma sa tha linear eq ka
+📍 short q simpsons 1/3 theory trapezodial and 1 dicivded diff table
+📍 long 1/3 simpson rule , backward diff formula nikalna tha using tabke , simpsons 3/8 rule
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+💬 "vutoolkit mein mcqs solved nahi hain, aur online videos mein kafi ghlt marked hain, is liye mene ap students k liye video bna di hai with correct answers and explanation, paper sy pehly ye video lazmi dekh lena, aur koi bhi lecture leny ki zroort nahi pry gi, sath mein 5.5 hours ki aik aur video upload kr k us mein timestamps lga diye hain koi topic agr apko confusing lgy to timestamp select kr k wo dekh len. aur aik aur baat subjective k liye hazaron files krny ki zroort nahi hai, formula ki aik file bna di hai wo sb formula yaad kr len, agr formulae apko aaty hain to subjective halwa hai. file isi video ki description mein add kr di hai. mth603 current paper with solution: https://youtu.be/50Wod48wrdo apki duaon ka talib, hamza"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+✅ vutoolkit aur aik aur file sy thy aur 3 mcqs midterm k thy
+📍 Short & long:
+✅ function with IVP given tha Euler method sy next value nikalni thi
+✅ isi trah aik aur euler method ka question tha but h ki value choti thi jis ki waja sy Euler method 2 baar lgaya
+✅ forward difference table given tha, x ki pehli value pr derivative find krna tha
+✅ x aur y ka table given tha divided difference table bnana tha
+✅ x aur y ka table given tha Milne's predictor method lgana kr y4 calculate krna tha
+✅ x aur y ka table given tha Lagrange interpolation sy f(3) ki value calculate krni thi
+✅ x aur y ka table given tha trapeziodal rule sy integration krni thi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+💬 "vutoolkit mein mcqs solved nahi hain, aur online videos mein kafi ghlt marked hain, is liye mene ap students k liye video bna di hai with correct answers and explanation, paper sy pehly ye video lazmi dekh lena, aur koi bhi lecture leny ki zroort nahi pry gi, sath mein 5.5 hours ki aik aur video upload kr k us mein timestamps lga diye hain koi topic agr apko confusing lgy to timestamp select kr k wo dekh len. aur aik aur baat subjective k liye hazaron files krny ki zroort nahi hai, formula ki aik file bna di hai wo sb formula yaad kr len, agr formulae apko aaty hain to subjective halwa hai. file isi video ki description mein add kr di hai. mth603 current paper with solution: https://youtu.be/50Wod48wrdo apki duaon ka talib, hamza"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+✅ vutoolkit aur aik aur file sy thy aur 3 mcqs midterm k thy
+📍 Short & long:
+✅ function with IVP given tha Euler method sy next value nikalni thi
+✅ isi trah aik aur euler method ka question tha but h ki value choti thi jis ki waja sy Euler method 2 baar lgaya
+✅ forward difference table given tha, x ki pehli value pr derivative find krna tha
+✅ x aur y ka table given tha divided difference table bnana tha
+✅ x aur y ka table given tha Milne's predictor method lgana kr y4 calculate krna tha
+✅ x aur y ka table given tha Lagrange interpolation sy f(3) ki value calculate krni thi
+✅ x aur y ka table given tha trapeziodal rule sy integration krni thi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Amna
+📅 *Date:* 07-12-2026 | ⏰ 10:00 AM
+
+💬 "simpson 3/8 newton divided difference table Langrage method\ Euler method formulae"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sare paradox extention myn se thy
+📍 Simpson 1/3 rule sh and long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Amna
+📅 *Date:* 07-12-2026 | ⏰ 10:00 AM
+
+💬 "simpson 3/8 newton divided difference table Langrage method\ Euler method formulae"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs sare paradox extention myn se thy
+📍 Simpson 1/3 rule sh and long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Seniorita
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "> Trapezoidal > Simpson's 1/3 rule > Simpson's 3/8 rule > Divided difference > derivative using two point equation"
+
+*KEY POINTS / TOPICS:*
+📍 Prepare these topics properly:
+📍 Just study these topics, and you'll be able to pass your exam.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Seniorita
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "> Trapezoidal > Simpson's 1/3 rule > Simpson's 3/8 rule > Divided difference > derivative using two point equation"
+
+*KEY POINTS / TOPICS:*
+📍 Prepare these topics properly:
+📍 Just study these topics, and you'll be able to pass your exam.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Zimal
+📅 *Date:* 27-08-2026 | ⏰ 02:30 PM
+
+💬 "Paper was easy: Zyda question tables aaye the forward, divided difference table, mcqs bhi yhin the zyadaa saath simptson1/3, 3/8 mcqs bhi aaye the is se bht zydaa  aache se yh tolics tyar kr lijiye ga"
+
+*KEY POINTS / TOPICS:*
+📍 yiutube se file zaroor kare objective and subjective ho jaye ga concept clear ho bs
