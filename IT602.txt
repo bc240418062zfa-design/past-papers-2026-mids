@@ -1,0 +1,125 @@
+📢 *SUBJECT: IT602*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Noor
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "1 SDN protocol 2 define DevOps and write any two members of it 3 write stages of IT infrastructure also write it's purpose 4 statements were give write whether it's backup storage storage technology 5 Any five method to increase performance of CPU Bas mujhy TU yahi yaad hai All the best 🙂"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from highlighted handouts some
+📍 Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Noor
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "1 SDN protocol 2 define DevOps and write any two members of it 3 write stages of IT infrastructure also write it's purpose 4 statements were give write whether it's backup storage storage technology 5 Any five method to increase performance of CPU Bas mujhy TU yahi yaad hai All the best 🙂"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from highlighted handouts some
+📍 Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "IT602 1-8-26 10:00"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from Mahjabeen video & also ppt slides
+📍 Short
+✅ NV features Yes or No
+✅ Computer groups
+✅ Windows file systems
+✅ Ethical decision making
+📍 Long
+✅ Shells & types
+✅ SDDC tools
+✅ SAN, NAS, backup types blanks
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "IT602 1-8-26 10:00"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from Mahjabeen video & also ppt slides
+📍 Short
+✅ NV features Yes or No
+✅ Computer groups
+✅ Windows file systems
+✅ Ethical decision making
+📍 Long
+✅ Shells & types
+✅ SDDC tools
+✅ SAN, NAS, backup types blanks
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* N/A
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "100 110 11 parity 1 . 1110 00 parity 0.. Inky status batanay thy. Correct,  correct or Error. 4)any 3 decision-making key considerations 1)IDS IS INDIVIDUAL 2)serves Ids is network traffic"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+✅ define 2 sharing protocol
+✅ parity status batana tha 3 diay hoy thy like 110011 parity 0.
+✅ NV ko dai tarah yd krna ..option thy Yes Or No.
+📍 Long Questions
+✅ define Cyber  security in It infrastructure  and 4 key considerations.
+✅ Cpu increasing performance  any 5 points.
+✅ protocol,  topology or compenents diay hoy thy statement di hoi thy batana tha kn c protocol ya topology ya compenent h..
+✅ SDN  is separated from hardwar.
+✅ prioritize netwok traffic
+✅ protocol of  loop
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* N/A
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "100 110 11 parity 1 . 1110 00 parity 0.. Inky status batanay thy. Correct,  correct or Error. 4)any 3 decision-making key considerations 1)IDS IS INDIVIDUAL 2)serves Ids is network traffic"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+✅ define 2 sharing protocol
+✅ parity status batana tha 3 diay hoy thy like 110011 parity 0.
+✅ NV ko dai tarah yd krna ..option thy Yes Or No.
+📍 Long Questions
+✅ define Cyber  security in It infrastructure  and 4 key considerations.
+✅ Cpu increasing performance  any 5 points.
+✅ protocol,  topology or compenents diay hoy thy statement di hoi thy batana tha kn c protocol ya topology ya compenent h..
+✅ SDN  is separated from hardwar.
+✅ prioritize netwok traffic
+✅ protocol of  loop
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Areeba
+📅 *Date:* 30-07-2026 | ⏰ 8 AM
+
+💬 "Mcqs b easy thy zyda tar highlighted mcqs final term wali files say ay thy sirf 10 to 12 mcqs wo ay thy jo is file may highlight nahi hay"
+
+*KEY POINTS / TOPICS:*
+📍 Short questions
+✅ Any three raid level
+✅ Any three sddc platforms
+✅ parity status batana tha correct or error given numbers thy like 0110011 parity =1 Tu iska status batana tha
+✅ Any 3 ethical decisions-making
+📍 Long questions
+✅ What is dtap and 4 real world environments
+✅ 5  techniques used for increase the cpu performance
+✅ Statements given thi batana tha konsi statement storage architecture, backup method or storage topology hay
