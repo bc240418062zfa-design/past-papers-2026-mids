@@ -1,0 +1,596 @@
+📢 *SUBJECT: CS606*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Fatima
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "Is me binary lganaa Tha mw ne uniary lgaya Ye mera gkt ho gya isi liey yaad hau 😂 Q1. List three compiler name that AST uses? Q2. Tabke give tha us me F(O) nikalna tha Statement thi A .....>€ B......> C T T b C ..... Ye wali yaad nhi Aik diagram tha us me values ko dekh kr I nikalna tha Me pics lga rhi is me dekhy ye walay hee aey ghy Code misisng tha beech me se goto wali statement ka Likhna tha Or aik diagram aey thi jis me btana tha k yahan kis statement me kiya ho rha reduce ,shift , error, accept Is me se btana tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mujhy mcqs nhi yaad sae se
+📍 Aik mcqs tha jis me btana tha k y op z me op kon sa operator hai
+📍 Short me pucha tha question
+📍 Long question handouts me se hee aey thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "*"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly MCQs from parsing, backpatch, handles
+📍 Short Question
+✅ Aik table tha accept, reduce or error likhna tha
+✅ goto(s, y) ko three address main likhna tha
+✅ three function to manipulate goto.
+📍 Long Question
+✅ Aik table tha No of accepts, shifts, errors likhna thy
+✅ Backpatch ka code likhna tha logical operator OR k liye (E --> E1 OR E2)
+✅ Aik or if else statement thi jis ka three address code likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "*"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly MCQs from parsing, backpatch, handles
+📍 Short Question
+✅ Aik table tha accept, reduce or error likhna tha
+✅ goto(s, y) ko three address main likhna tha
+✅ three function to manipulate goto.
+📍 Long Question
+✅ Aik table tha No of accepts, shifts, errors likhna thy
+✅ Backpatch ka code likhna tha logical operator OR k liye (E --> E1 OR E2)
+✅ Aik or if else statement thi jis ka three address code likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Baloshii
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "Shift-Reduce Se Related Thy LR(0) Aur LR(1) Bottom-up Parsing Se Related Thy If a<b is True Then a<b goto 106 If a<b is false  Then a<b goto 106 Is Tarah Ka Kuch Tha Pora Yaad Nahii YYPARSE() Iska Kuch Pocha Tha > Note Diya Tha Ke Apko Pora Code Likhne Kii Zarorat Nahii Just Define Karein S → T → a b T → a T T b Table Mein State ( 1 se 7 Tha Number Likhe Thy) Action (c d $  Tha )  Goto (a b  tha ) Ka Colum Bana Howa Tha Row 7 Thii Statement Thii a= 5 c = a * 6 b = a + c a = b *  c a = c - b Aese Tha Mera Phir Table Given Tha Jis Statement Aur Cost Me Colum Bane Howe Thy ADD R1 R2 SUB R1 R2 ST R2 M2 Is Tarah Ka Likha Howa Tha Table Mein Bara Lamba Table Tha ===End===="
+
+*KEY POINTS / TOPICS:*
+📍 Masters Ke Short Lectures Aur Preparation Videos Dekh Lein Paper Acha Ho Jayega
+📍 *MCQs*
+📍 CFG Se Related 1 2 MCQs Thy
+📍 But Shift Se Related Bohat MCQs Thy
+📍 YACC Se 2 3 MCQs Thy
+📍 *Short Question*
+✅ Mein 3 Type Ke Compiler Name Poche Thy  Jis Mein ASTs Bhi Used Ho
+✅ YACC Ki  specialization file Pochtii Thii
+✅ Table Given Tha LR(0) Calculate Karna Tha
+✅ Pseudo Code Likhna Tha
+📍 *Long Questions*
+✅ Table Diya Howa Tha Jis Mein Shift Reduce Accept Error Bantna Tha
+✅ Table Tha LR(0) Se Related Tha Resulting Values Likhnii Thii
+✅ Table Tha Instructions Dii Thii Calculation Karnii Thii
+✅ The Cost Of register to register Operation Is 1
+✅ The Cost Of Register to memory Operation Is 2
+✅ The Cost Of Memory to register Operation Is 3
+✅ The Cost Of Memory to memory Operation Is 4
+✅ Load (LD)  Store (ST) Is Instructions 1
+✅ Addition (ADD) Substraction (SUB ) Is Instructions 2
+✅ Multiply (MUL) Divide (DIV) Is Instructions 3
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Baloshii
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "Shift-Reduce Se Related Thy LR(0) Aur LR(1) Bottom-up Parsing Se Related Thy If a<b is True Then a<b goto 106 If a<b is false  Then a<b goto 106 Is Tarah Ka Kuch Tha Pora Yaad Nahii YYPARSE() Iska Kuch Pocha Tha > Note Diya Tha Ke Apko Pora Code Likhne Kii Zarorat Nahii Just Define Karein S → T → a b T → a T T b Table Mein State ( 1 se 7 Tha Number Likhe Thy) Action (c d $  Tha )  Goto (a b  tha ) Ka Colum Bana Howa Tha Row 7 Thii Statement Thii a= 5 c = a * 6 b = a + c a = b *  c a = c - b Aese Tha Mera Phir Table Given Tha Jis Statement Aur Cost Me Colum Bane Howe Thy ADD R1 R2 SUB R1 R2 ST R2 M2 Is Tarah Ka Likha Howa Tha Table Mein Bara Lamba Table Tha ===End===="
+
+*KEY POINTS / TOPICS:*
+📍 Masters Ke Short Lectures Aur Preparation Videos Dekh Lein Paper Acha Ho Jayega
+📍 *MCQs*
+📍 CFG Se Related 1 2 MCQs Thy
+📍 But Shift Se Related Bohat MCQs Thy
+📍 YACC Se 2 3 MCQs Thy
+📍 *Short Question*
+✅ Mein 3 Type Ke Compiler Name Poche Thy  Jis Mein ASTs Bhi Used Ho
+✅ YACC Ki  specialization file Pochtii Thii
+✅ Table Given Tha LR(0) Calculate Karna Tha
+✅ Pseudo Code Likhna Tha
+📍 *Long Questions*
+✅ Table Diya Howa Tha Jis Mein Shift Reduce Accept Error Bantna Tha
+✅ Table Tha LR(0) Se Related Tha Resulting Values Likhnii Thii
+✅ Table Tha Instructions Dii Thii Calculation Karnii Thii
+✅ The Cost Of register to register Operation Is 1
+✅ The Cost Of Register to memory Operation Is 2
+✅ The Cost Of Memory to register Operation Is 3
+✅ The Cost Of Memory to memory Operation Is 4
+✅ Load (LD)  Store (ST) Is Instructions 1
+✅ Addition (ADD) Substraction (SUB ) Is Instructions 2
+✅ Multiply (MUL) Divide (DIV) Is Instructions 3
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* JCS
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "About YACC error  (yyerror) About  left most parsing About identifying lookahead About finding first About register allocation benefits coloring nodes Baki yd nhi bcz Khushi hi bht h ppr acha hone ki🤭 All were practical like String given a+b S--- T+T A---- a|b Ques 2 if else three address code Writing if else labels and go-to Like three address code if c<d then x=y+z from last 5 lectures A canonical diagram was given and have to find it's original grammer 1- Construction of Ll1 table so easy a Grammer was given 2- Fill in the blanks A diagram as given and ans was 11 E. Val ,,, (pic shared) most repeated question in almost 60%  students 3- Fill in the blanks for writing address like 104 102 103 also from last 5 lec Last 5 lectures are so imp must prepare them Or VU is always unpredictable so prepare everything as sometime they went out of context😁 Best of luck 🤞all student......"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from handouts and also from videos but they were so easy
+📍 Short questions
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* JCS
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "About YACC error  (yyerror) About  left most parsing About identifying lookahead About finding first About register allocation benefits coloring nodes Baki yd nhi bcz Khushi hi bht h ppr acha hone ki🤭 All were practical like String given a+b S--- T+T A---- a|b Ques 2 if else three address code Writing if else labels and go-to Like three address code if c<d then x=y+z from last 5 lectures A canonical diagram was given and have to find it's original grammer 1- Construction of Ll1 table so easy a Grammer was given 2- Fill in the blanks A diagram as given and ans was 11 E. Val ,,, (pic shared) most repeated question in almost 60%  students 3- Fill in the blanks for writing address like 104 102 103 also from last 5 lec Last 5 lectures are so imp must prepare them Or VU is always unpredictable so prepare everything as sometime they went out of context😁 Best of luck 🤞all student......"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from handouts and also from videos but they were so easy
+📍 Short questions
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* XYZ
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "CS606 paper review 1:find identical handles table given tha us ma 6 statement ki right hand side same thi mean 2 2 2 kar kay 2:list any thre conflict occur in LR 3:list any three compiler in which Ast are used 4:missing code of three address code 1:Yacc diagram page (97) label kr thi 2:We have to find total cost of the given instructions set values given thi Register to Register=1 Register to Memory=2 Memory to Register=3 Memory to memory=4 LOAD (LD) STORE (ST)= 1 ADD AND SUB= 2 MUL AND DIV= 3 INSTRUCT SET.                    COST 1:ADD R1 R2 2: SUB  R1 R2 ST M1 R1 3:write LR table Algorithm"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs 60-70% past files
+📍 SHORT:
+📍 LONG:
+📍 like this  question is attached but blur hai picture
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* XYZ
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "CS606 paper review 1:find identical handles table given tha us ma 6 statement ki right hand side same thi mean 2 2 2 kar kay 2:list any thre conflict occur in LR 3:list any three compiler in which Ast are used 4:missing code of three address code 1:Yacc diagram page (97) label kr thi 2:We have to find total cost of the given instructions set values given thi Register to Register=1 Register to Memory=2 Memory to Register=3 Memory to memory=4 LOAD (LD) STORE (ST)= 1 ADD AND SUB= 2 MUL AND DIV= 3 INSTRUCT SET.                    COST 1:ADD R1 R2 2: SUB  R1 R2 ST M1 R1 3:write LR table Algorithm"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs 60-70% past files
+📍 SHORT:
+📍 LONG:
+📍 like this  question is attached but blur hai picture
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* XYZ
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "CS606 paper review 1:find identical handles table given tha us ma 6 statement ki right hand side same thi mean 2 2 2 kar kay 2:list any thre conflict occur in LR 3:list any three compiler in which Ast are used 4:missing code of three address code 1:Yacc diagram page (97) label kr thi 2:We have to find total cost of the given instructions set values given thi Register to Register=1 Register to Memory=2 Memory to Register=3 Memory to memory=4 LOAD (LD) STORE (ST)= 1 ADD AND SUB= 2 MUL AND DIV= 3 INSTRUCT SET.                    COST 1:ADD R1 R2 2: SUB  R1 R2 ST M1 R1 3:write LR table Algorithm"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs 60-70% past files
+📍 SHORT:
+📍 LONG:
+📍 like this  question is attached but blur hai picture
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "CS606 review by Hatim Majeed Dotani, Date:31 july 2026 10:00am https://youtu.be/os92gikfzW4?si=1RTk8ejyfTa2owhl For Subjective: menay Educational Tips ka Saarey Questions yaad kiyay,un ma sa sirf mera Question 37 short ma aya Thaa and LR parser ka 3 conflicts short ma aya , Baqi sara Subjective Unseen Thaa , But Luckily Mujhay saara Atha Thaa In Sha Allah A grade confirm hai mera , Allah kee mada sa In Sha Allah. > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q *(Note: This question refers to an included tree diagram showing a hierarchy of E.val nodes evaluating an arithmetic expression with additions and multiplications)* > VU Toolkit Share Your Paper Review Here https://vutoolkit.app/sharepaper > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs meray Educational tips ka Ess video sa kaafi zyada aya
+📍 Vutoolkit ka Mcqs must prepare karein Udhar Sa bhee Tight ayay,
+📍 Ya 15 mcqs ma Note down ker kay Aya Hun Jo meray Paper ma aya Thay and Luckily I knew the answers too
+📍 Question 39 ka Diagram Menay Note down Bhee kiya hai Oska Image ma share kertha Ap Bhaiyo or Behno ka sath
+📍 ### Multiple Choice Questions (MCQs)
+✅ **MCQ 16:** In YACC, where are the attributes values stored?
+✅ (a) Parse stack
+✅ (b) Symbol table
+✅ (c) Syntax tree
+✅ (d) Attribute table
+✅ **Correct Answer:** (a) Parse stack
+✅ **MCQ 17:** An assembly language program is a form of ______ code.
+✅ (a) Linear
+✅ (b) Scripting
+✅ (c) Functional
+✅ (d) Object oriented
+✅ **Correct Answer:** (a) Linear
+✅ **MCQ 22:** According to the semantic action call "backpatch ({102}, 104)", the backpatch will fill in:
+✅ (a) 102 as the target of the goto in quad 102
+✅ (b) 104 as the target of the goto in quad 104
+✅ (c) 104 as the target of the goto in quad 102
+✅ (d) 102 as the target of the goto in quad 104
+✅ **Correct Answer:** (c) 104 as the target of the goto in quad 102
+✅ **MCQ 28:** WOF is not a component of a CFG (i.e., Control Flow Graph)?
+✅ (a) Nodes
+✅ (b) Edges
+✅ (c) Functions
+✅ (d) Entry node
+✅ **Correct Answer:** (c) Functions
+✅ **MCQ 30:** The concept of ______ variables is essential for various compiler optimizations like dead code elimination and register allocation.
+✅ (a) Live
+✅ (b) Dead
+✅ (c) Global
+✅ (d) Constant.
+✅ **Correct Answer:** (a) Live
+✅ **MCQ 31:** What information does an address descriptor typically contain?
+✅ (a) The variable's initial value
+✅ (b) The variable's data type (e.g., int, float)
+✅ (c) The memory location or base address of the variable
+✅ (d) The variable's scope within the program.
+✅ **Correct Answer:** (c) The memory location or base address of the variable
+✅ **MCQ 33:** In compiler construction, why is graph coloring applied to the intermediate representation?
+✅ (a) To detect & remove dead code
+✅ (b) To determine the control flow of the program
+✅ (c) To optimize the order of nested loops.
+✅ (d) To allocate CPU registers efficiently for variables
+✅ **Correct Answer:** (d) To allocate CPU registers efficiently for variables
+✅ **MCQ 3:** In a shift-Reduce parser, the ______ action pops zero or more symbols from the stack and pushes a non-terminal on the stack.
+✅ (a) Goto
+✅ (b) Shift
+✅ (c) Reduce
+✅ (d) Continue
+✅ **Correct Answer:** (c) Reduce
+✅ **MCQ 5:** The maximum number of reduce moves that can be taken by a bottom-up parser for a grammar with no \epsilon (i.e., epsilon) and Unit-production to parse a string with n tokens is:
+✅ (a) n/2
+✅ (b) n-1
+✅ (c) 2n-1
+✅ (d) n/2-1
+✅ **Correct Answer:** (b) n-1
+✅ **MCQ 9:** LR table construction is commonly used in which type of parsing?
+✅ (a) Top-down parsing
+✅ (b) Recursive descent parsing
+✅ (c) Bottom-up parsing
+✅ (d) LL(1) parsing
+✅ **Correct Answer:** (c) Bottom-up parsing
+✅ **MCQ 10:** The preference for shifting the "else" token in shift-reduce parsing ensures that it matches with the:
+✅ (a) Most recent "if" statement encountered
+✅ (b) First "if" statement encountered
+✅ (c) Longest "if" statement encountered
+✅ (d) Last "if" statement encountered
+✅ **Correct Answer:** (a) Most recent "if" statement encountered
+✅ **MCQ 11:** WOF parsing techniques has the largest parsing table size?
+✅ (a) LL(1)
+✅ (b) SLR(1)
+✅ (c) LR(1)
+✅ (d) LALR(1)
+✅ **Correct Answer:** (c) LR(1)
+✅ **MCQ 12:** What does the yyparse() function do in a YACC specification file?
+✅ (a) Execute the parsing process
+✅ (b) Print the recognized grammar rules
+✅ (c) Invoke the lexer
+✅ (d) Declare the start symbol
+✅ **Correct Answer:** (a) Execute the parsing process
+✅ **MCQ 13:** What is an attribute dependency graph in the context of attribute grammars?
+✅ (a) A graph that represents the relationships between attributes in a parse tree.
+✅ (b) A graph that represents the dependencies between grammar symbols.
+✅ (c) A graph that represents the order of parsing operations.
+✅ (d) A graph that represents the ambiguity of a grammar.
+✅ **Correct Answer:** (a) A graph that represents the relationships between attributes in a parse tree.
+✅ **MCQ 14:** What happens if there are circular dependencies between attributes in the rule based methodology of attribute grammar evaluation?
+✅ (a) The compiler fails to generate the dependency graph.
+✅ (b) The attribute evaluation enters an infinite loop.
+✅ (c) The order of attribute evaluation is determined dynamically.
+✅ (d) The compiler reanalyzes the attribute rules to resolve the circular dependencies.
+✅ **Correct Answer:** (b) The attribute evaluation enters an infinite loop.
+📍 ### Subjective Questions
+✅ **Q40:** In the context of basic block partitioning algorithm, identify at least five (5) leaders within the following three-address code snippet;
+✅ 1) x = 10
+✅ 2) y = 20
+✅ 3) If x < y goto 6
+✅ 4) t1 = x - y
+✅ 5) goto 8
+✅ 6) t2 = y - x
+✅ 7) t3 = t2 * t2
+✅ 8) t4 = x + t3
+✅ 9) z = t4 * y
+✅ 10) goto 3
+✅ Note: No need to write whole code again. Rather just write the correct line number as shown below;
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ **Q34:** Perform left factoring on the following CFG (i.e., Context Free Grammar);
+✅ **Q36:** List down at least three ways which are used to evaluate the attributes in attribute grammars.
+✅ **Q38:** You are required to write pseudo code for Goto Procedure used in canonical collection of LR(1) items.
+✅ goto(s, y)
+✅ // Write required code here
+✅ **Q39:** Consider the following synthesized attribute tree generated by a typical attribute grammar. You are required to write appropriate attribute values with respect to numbers given in the diagram.
+✅ Note: No need to draw the diagram again. Rather just write attribute value with respect to numbers given in diagram like:
+✅ I. ________
+✅ II. ________
+✅ III. ________
+✅ IV. ________
+✅ V. ________
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "CS606 review by Hatim Majeed Dotani, Date:31 july 2026 10:00am https://youtu.be/os92gikfzW4?si=1RTk8ejyfTa2owhl For Subjective: menay Educational Tips ka Saarey Questions yaad kiyay,un ma sa sirf mera Question 37 short ma aya Thaa and LR parser ka 3 conflicts short ma aya , Baqi sara Subjective Unseen Thaa , But Luckily Mujhay saara Atha Thaa In Sha Allah A grade confirm hai mera , Allah kee mada sa In Sha Allah. > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q *(Note: This question refers to an included tree diagram showing a hierarchy of E.val nodes evaluating an arithmetic expression with additions and multiplications)* > VU Toolkit Share Your Paper Review Here https://vutoolkit.app/sharepaper > Follow VU Toolkit for more Papers 👇 https://whatsapp.com/channel/0029VbBywbUBfxo6h2TCvq1Q"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs meray Educational tips ka Ess video sa kaafi zyada aya
+📍 Vutoolkit ka Mcqs must prepare karein Udhar Sa bhee Tight ayay,
+📍 Ya 15 mcqs ma Note down ker kay Aya Hun Jo meray Paper ma aya Thay and Luckily I knew the answers too
+📍 Question 39 ka Diagram Menay Note down Bhee kiya hai Oska Image ma share kertha Ap Bhaiyo or Behno ka sath
+📍 ### Multiple Choice Questions (MCQs)
+✅ **MCQ 16:** In YACC, where are the attributes values stored?
+✅ (a) Parse stack
+✅ (b) Symbol table
+✅ (c) Syntax tree
+✅ (d) Attribute table
+✅ **Correct Answer:** (a) Parse stack
+✅ **MCQ 17:** An assembly language program is a form of ______ code.
+✅ (a) Linear
+✅ (b) Scripting
+✅ (c) Functional
+✅ (d) Object oriented
+✅ **Correct Answer:** (a) Linear
+✅ **MCQ 22:** According to the semantic action call "backpatch ({102}, 104)", the backpatch will fill in:
+✅ (a) 102 as the target of the goto in quad 102
+✅ (b) 104 as the target of the goto in quad 104
+✅ (c) 104 as the target of the goto in quad 102
+✅ (d) 102 as the target of the goto in quad 104
+✅ **Correct Answer:** (c) 104 as the target of the goto in quad 102
+✅ **MCQ 28:** WOF is not a component of a CFG (i.e., Control Flow Graph)?
+✅ (a) Nodes
+✅ (b) Edges
+✅ (c) Functions
+✅ (d) Entry node
+✅ **Correct Answer:** (c) Functions
+✅ **MCQ 30:** The concept of ______ variables is essential for various compiler optimizations like dead code elimination and register allocation.
+✅ (a) Live
+✅ (b) Dead
+✅ (c) Global
+✅ (d) Constant.
+✅ **Correct Answer:** (a) Live
+✅ **MCQ 31:** What information does an address descriptor typically contain?
+✅ (a) The variable's initial value
+✅ (b) The variable's data type (e.g., int, float)
+✅ (c) The memory location or base address of the variable
+✅ (d) The variable's scope within the program.
+✅ **Correct Answer:** (c) The memory location or base address of the variable
+✅ **MCQ 33:** In compiler construction, why is graph coloring applied to the intermediate representation?
+✅ (a) To detect & remove dead code
+✅ (b) To determine the control flow of the program
+✅ (c) To optimize the order of nested loops.
+✅ (d) To allocate CPU registers efficiently for variables
+✅ **Correct Answer:** (d) To allocate CPU registers efficiently for variables
+✅ **MCQ 3:** In a shift-Reduce parser, the ______ action pops zero or more symbols from the stack and pushes a non-terminal on the stack.
+✅ (a) Goto
+✅ (b) Shift
+✅ (c) Reduce
+✅ (d) Continue
+✅ **Correct Answer:** (c) Reduce
+✅ **MCQ 5:** The maximum number of reduce moves that can be taken by a bottom-up parser for a grammar with no \epsilon (i.e., epsilon) and Unit-production to parse a string with n tokens is:
+✅ (a) n/2
+✅ (b) n-1
+✅ (c) 2n-1
+✅ (d) n/2-1
+✅ **Correct Answer:** (b) n-1
+✅ **MCQ 9:** LR table construction is commonly used in which type of parsing?
+✅ (a) Top-down parsing
+✅ (b) Recursive descent parsing
+✅ (c) Bottom-up parsing
+✅ (d) LL(1) parsing
+✅ **Correct Answer:** (c) Bottom-up parsing
+✅ **MCQ 10:** The preference for shifting the "else" token in shift-reduce parsing ensures that it matches with the:
+✅ (a) Most recent "if" statement encountered
+✅ (b) First "if" statement encountered
+✅ (c) Longest "if" statement encountered
+✅ (d) Last "if" statement encountered
+✅ **Correct Answer:** (a) Most recent "if" statement encountered
+✅ **MCQ 11:** WOF parsing techniques has the largest parsing table size?
+✅ (a) LL(1)
+✅ (b) SLR(1)
+✅ (c) LR(1)
+✅ (d) LALR(1)
+✅ **Correct Answer:** (c) LR(1)
+✅ **MCQ 12:** What does the yyparse() function do in a YACC specification file?
+✅ (a) Execute the parsing process
+✅ (b) Print the recognized grammar rules
+✅ (c) Invoke the lexer
+✅ (d) Declare the start symbol
+✅ **Correct Answer:** (a) Execute the parsing process
+✅ **MCQ 13:** What is an attribute dependency graph in the context of attribute grammars?
+✅ (a) A graph that represents the relationships between attributes in a parse tree.
+✅ (b) A graph that represents the dependencies between grammar symbols.
+✅ (c) A graph that represents the order of parsing operations.
+✅ (d) A graph that represents the ambiguity of a grammar.
+✅ **Correct Answer:** (a) A graph that represents the relationships between attributes in a parse tree.
+✅ **MCQ 14:** What happens if there are circular dependencies between attributes in the rule based methodology of attribute grammar evaluation?
+✅ (a) The compiler fails to generate the dependency graph.
+✅ (b) The attribute evaluation enters an infinite loop.
+✅ (c) The order of attribute evaluation is determined dynamically.
+✅ (d) The compiler reanalyzes the attribute rules to resolve the circular dependencies.
+✅ **Correct Answer:** (b) The attribute evaluation enters an infinite loop.
+📍 ### Subjective Questions
+✅ **Q40:** In the context of basic block partitioning algorithm, identify at least five (5) leaders within the following three-address code snippet;
+✅ 1) x = 10
+✅ 2) y = 20
+✅ 3) If x < y goto 6
+✅ 4) t1 = x - y
+✅ 5) goto 8
+✅ 6) t2 = y - x
+✅ 7) t3 = t2 * t2
+✅ 8) t4 = x + t3
+✅ 9) z = t4 * y
+✅ 10) goto 3
+✅ Note: No need to write whole code again. Rather just write the correct line number as shown below;
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ Line # ________
+✅ **Q34:** Perform left factoring on the following CFG (i.e., Context Free Grammar);
+✅ **Q36:** List down at least three ways which are used to evaluate the attributes in attribute grammars.
+✅ **Q38:** You are required to write pseudo code for Goto Procedure used in canonical collection of LR(1) items.
+✅ goto(s, y)
+✅ // Write required code here
+✅ **Q39:** Consider the following synthesized attribute tree generated by a typical attribute grammar. You are required to write appropriate attribute values with respect to numbers given in the diagram.
+✅ Note: No need to draw the diagram again. Rather just write attribute value with respect to numbers given in diagram like:
+✅ I. ________
+✅ II. ________
+✅ III. ________
+✅ IV. ________
+✅ V. ________
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Meerab Malik
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Q1 4 steps of LALR 1 DFA Q2  Write Three Ways to Evaluate Attribute Grammar Q3 LR Parse Tree / Grammar Complete the SDT for: S → if E then M1 S1 N else M2 S2 using M.quad E.truelist E.falselist S.nextlist N.nextlist makelist() merge() backpatch() Total Vertices (V) Total Edges (E) Basic Blocks Live Variables In that graph there is also start and exit point present in a rectangular box and exit  is joined by B4 and start is joined by B 1 and B2 is joined by B4 by two arrows one in opposite directions You have to tell the live varribles at exit point and the final statement was X=t1+t2 You also have to tell the leader points of B4"
+
+*KEY POINTS / TOPICS:*
+📍 Exams wasn't easy, you have to prepare max especially the concepts definitions ans differences
+📍 Some of question I remember are
+📍 Long Question 1: Write the LALR(1) Algorithm
+📍 Short Q . Syntax Directed Translation (SDT) – If-Then-Else
+📍 Question (3 Marks)
+📍 Long question Control Flow Graph (CFG) is given. Find:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* ibrahim
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "Overall Experience: Paper kafi conceptual tha aur handouts ke un topics se aya tha jinhein aksar ignore kiya jata hai. Sirf past files ya video dekhne se guzara nahi hona tha, handouts ki deep reading lazmi thi. MCQs: MCQs zyada tar handouts ke modules se hi banaye gaye thay. Kuch purani files (Waqar/Junaid) se help mili lekin conceptual sawalat zyada thay. Repeat until distinct. Same core wali states choose karein. States ko merge karein (Union of lookaheads). Successors aur edges ko point/update karein. Pro-Tip for Future Students: Sirf "Shift/Reduce" ke practical sawal kafi nahi hain. Canonical collection(CC) ka pseudocode, CFG ki mathematical definitions, aur Liveness analysis ko deep mein parhein, examiner yahan se questions kafi uthata hai. Yh wo paper tha jo mujhy nhi ata tha, is liay mujhy yad rha hy, ap is ko ready kr lena. Peaceeeeee 🀪"
+
+*KEY POINTS / TOPICS:*
+📍 Short Questions :
+✅ CFG Components: CFG ke triplet (<V,E,Entry>) se mutaliq sawal thay ke edge, vertex aur entry point kya hote hain.
+✅ DAG Cycles: Pucha gaya tha ke DAG mein cycles hote hain ya nahi. (Correct Answer: DAG "Acyclic" hota hai, is mein cycles nahi ho sakte).
+✅ Basic Blocks Counting: Ek code segment diya gaya tha jis mein se Basic Blocks ki tadad batani thi.
+✅ Leader Identification: Block B4 ki aakhri line goto 3 thi, toh batana tha ke leader kaunsa hai. (Aap ka jawab sahi tha, line 3 leader hogi kyunke wo goto ka target hai).
+✅ Live Variables: Live variables ki definition aur un ka use optimization mein pucha gaya tha.
+✅ Optimization Tool: Dead code ko optimize karne aur register allocation ke liye kaunsa analysis use hota hai (Liveness Analysis/Live Variables).
+📍 Long Questions (5 Marks):
+✅ CFG Analysis: Ek Control Flow Graph diya gaya tha jis mein se total Vertices (V), Edges (E), Basic Blocks, Live variables count kar ke likhne thay.
+✅ Canonical Collection Pseudocode: LALR(1) items ki canonical collection banane ka poora algorithm/pseudocode likhna tha.
+✅ LALR(1) DFA Algorithm: DFA banane ke wo 4 steps likhne thay:
+✅ Leaders List: leaders identify karne thay.
+✅ Basic Blocks identify krny thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* ibrahim
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "Overall Experience: Paper kafi conceptual tha aur handouts ke un topics se aya tha jinhein aksar ignore kiya jata hai. Sirf past files ya video dekhne se guzara nahi hona tha, handouts ki deep reading lazmi thi. MCQs: MCQs zyada tar handouts ke modules se hi banaye gaye thay. Kuch purani files (Waqar/Junaid) se help mili lekin conceptual sawalat zyada thay. Repeat until distinct. Same core wali states choose karein. States ko merge karein (Union of lookaheads). Successors aur edges ko point/update karein. Pro-Tip for Future Students: Sirf "Shift/Reduce" ke practical sawal kafi nahi hain. Canonical collection(CC) ka pseudocode, CFG ki mathematical definitions, aur Liveness analysis ko deep mein parhein, examiner yahan se questions kafi uthata hai. Yh wo paper tha jo mujhy nhi ata tha, is liay mujhy yad rha hy, ap is ko ready kr lena. Peaceeeeee 🀪"
+
+*KEY POINTS / TOPICS:*
+📍 Short Questions :
+✅ CFG Components: CFG ke triplet (<V,E,Entry>) se mutaliq sawal thay ke edge, vertex aur entry point kya hote hain.
+✅ DAG Cycles: Pucha gaya tha ke DAG mein cycles hote hain ya nahi. (Correct Answer: DAG "Acyclic" hota hai, is mein cycles nahi ho sakte).
+✅ Basic Blocks Counting: Ek code segment diya gaya tha jis mein se Basic Blocks ki tadad batani thi.
+✅ Leader Identification: Block B4 ki aakhri line goto 3 thi, toh batana tha ke leader kaunsa hai. (Aap ka jawab sahi tha, line 3 leader hogi kyunke wo goto ka target hai).
+✅ Live Variables: Live variables ki definition aur un ka use optimization mein pucha gaya tha.
+✅ Optimization Tool: Dead code ko optimize karne aur register allocation ke liye kaunsa analysis use hota hai (Liveness Analysis/Live Variables).
+📍 Long Questions (5 Marks):
+✅ CFG Analysis: Ek Control Flow Graph diya gaya tha jis mein se total Vertices (V), Edges (E), Basic Blocks, Live variables count kar ke likhne thay.
+✅ Canonical Collection Pseudocode: LALR(1) items ki canonical collection banane ka poora algorithm/pseudocode likhna tha.
+✅ LALR(1) DFA Algorithm: DFA banane ke wo 4 steps likhne thay:
+✅ Leaders List: leaders identify karne thay.
+✅ Basic Blocks identify krny thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* 🙂
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "To add more, to my previous review SDT, DAG are important. Tyari thori aur achi hoti to behtr ho skta tha exam"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs related to bottom up parsing, types or methods e. g stack queue tree, types of parson Shift-Reduce Reduce-Reduce
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* 🙂
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "To add more, to my previous review SDT, DAG are important. Tyari thori aur achi hoti to behtr ho skta tha exam"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs related to bottom up parsing, types or methods e. g stack queue tree, types of parson Shift-Reduce Reduce-Reduce
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* 🙂
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "MCQs were from the handouts, and half from the important Concepts. Not much from files. (many related to three address code, LR parsing, CFG, Augmented grammar, etc Hamzauni lecture was great for understanding Left factoring of CFG (production was given) BASIC Block Code Generation Strategies of Code Generation Write expressions in three address code form, table was given 4 steps of LALR 1 DFA PSueDO code of closure"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+📍 A question related to aab aaaab etc
+📍 Long
+📍 Exams wasn't easy, you have to prepare max especially the concepts definitions ans differences
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* 🙂
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "MCQs were from the handouts, and half from the important Concepts. Not much from files. (many related to three address code, LR parsing, CFG, Augmented grammar, etc Hamzauni lecture was great for understanding Left factoring of CFG (production was given) BASIC Block Code Generation Strategies of Code Generation Write expressions in three address code form, table was given 4 steps of LALR 1 DFA PSueDO code of closure"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+📍 A question related to aab aaaab etc
+📍 Long
+📍 Exams wasn't easy, you have to prepare max especially the concepts definitions ans differences
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Zainab
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "Difficulty level was medium. Q1. Shift-Reduce Parsing A string similar to the following was given: Input: "(A+B)" Using the Shift-Reduce Parsing algorithm, determine: Total number of Shift operations Total number of Reduce operations Total number of Accept states Q2. Practical Applications of Compilers Write three real-life practical applications where compilers are used. Q3. Syntax Directed Translation (SDT) An SDT for the if-then-else statement was given. The production was similar to: S → if E then M1 S1 N else M2 S2 M.quad E.truelist E.falselist S.nextlist N.nextlist makelist() merge() backpatch() Q4. LR Parse Tree / Grammar An LR parse tree (or parsing tree) was given. The task was to write the original grammar/productions from the given parse tree. Q1. Write the Canonical LR(1) pseudocode. Q2. Instruction Cost Calculation A table of instruction costs was provided, for example: Register → Register = 1 Register → Memory = 2 Memory → Register = 3 Memory → Memory = 4 ADD/SUB = 2 LOAD (LD) / STORE (ST) = 1 MUL/DIV = 5 Several assembly instruction sequences were given, such as: ADD M1, R1 SUB R2, M3 ST R1, M1 Different rows contained different numbers of instructions (2, 3, 4, or more), and the task was to calculate the total execution cost for each sequence. Q3. LR Parsing Table Analysis An LR Parsing Table was provided. Rows contained states (0, 1, 2, 3, ...) Columns contained terminals/non-terminals such as +, (, ), $, S, A, etc. The table included entries like: S1, S2, S3 (Shift) R1, R2, R3 (Reduce) Accept Blank/Error entries The task was to determine: Total number of Shift entries Total number of Reduce entries Total number of Accept entries Total number of Error entries"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 Most MCQs were conceptual.
+📍 Many MCQs were repeated or very similar to the Moaz and Waqar Sidhu files.
+📍 Short Questions (3 Marks Each)
+📍 The question required completing the SDT using:
+📍 Long Questions (5 Marks Each)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Zainab
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "Difficulty level was medium. Q1. Shift-Reduce Parsing A string similar to the following was given: Input: "(A+B)" Using the Shift-Reduce Parsing algorithm, determine: Total number of Shift operations Total number of Reduce operations Total number of Accept states Q2. Practical Applications of Compilers Write three real-life practical applications where compilers are used. Q3. Syntax Directed Translation (SDT) An SDT for the if-then-else statement was given. The production was similar to: S → if E then M1 S1 N else M2 S2 M.quad E.truelist E.falselist S.nextlist N.nextlist makelist() merge() backpatch() Q4. LR Parse Tree / Grammar An LR parse tree (or parsing tree) was given. The task was to write the original grammar/productions from the given parse tree. Q1. Write the Canonical LR(1) pseudocode. Q2. Instruction Cost Calculation A table of instruction costs was provided, for example: Register → Register = 1 Register → Memory = 2 Memory → Register = 3 Memory → Memory = 4 ADD/SUB = 2 LOAD (LD) / STORE (ST) = 1 MUL/DIV = 5 Several assembly instruction sequences were given, such as: ADD M1, R1 SUB R2, M3 ST R1, M1 Different rows contained different numbers of instructions (2, 3, 4, or more), and the task was to calculate the total execution cost for each sequence. Q3. LR Parsing Table Analysis An LR Parsing Table was provided. Rows contained states (0, 1, 2, 3, ...) Columns contained terminals/non-terminals such as +, (, ), $, S, A, etc. The table included entries like: S1, S2, S3 (Shift) R1, R2, R3 (Reduce) Accept Blank/Error entries The task was to determine: Total number of Shift entries Total number of Reduce entries Total number of Accept entries Total number of Error entries"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 Most MCQs were conceptual.
+📍 Many MCQs were repeated or very similar to the Moaz and Waqar Sidhu files.
+📍 Short Questions (3 Marks Each)
+📍 The question required completing the SDT using:
+📍 Long Questions (5 Marks Each)

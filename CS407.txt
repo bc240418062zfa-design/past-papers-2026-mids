@@ -1,0 +1,78 @@
+📢 *SUBJECT: CS407*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* cs407
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "all the videos on youtube containing both mcqs and subjective, for example "vu gateway" and other etc. Watch them, almost all of them are similar and you will get 90 percent marks. 100 percent of my paper was from there."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* cs407
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "all the videos on youtube containing both mcqs and subjective, for example "vu gateway" and other etc. Watch them, almost all of them are similar and you will get 90 percent marks. 100 percent of my paper was from there."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Areeba
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "IPv3 ko implement karna ka lia area me two ways btana tha, or 1pv6 ka related aik Qs tha or aik DHCP ka scenario-related Qs tha or ACL Command btani thi or  Command for Cisco IOS device to get IP dynamically from DHCP  or NAT ki types me sa aik MCQs thaor DHCP ka related tha aik"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS407_* *others* _mostly configuration questions_ *S.qs* *L.qs*"
+
+*KEY POINTS / TOPICS:*
+📍 *Mcqs*
+📍 _17 to 18 mcqs were from preparational videos_
+✅ https://youtu.be/DWtaSs4uLac?si=cT6qfNzc1l9jfxmQ
+✅ https://youtu.be/zFEuOqZd6eI?si=zrecAQzuL8K9hq8t
+✅ 2 mcqs from STP
+✅ 2 mcqs related to dhcp commands
+✅ Etherchannel related
+✅ MAC addresses represented as ---- hex digits
+✅ 2 mcqs related to Extended ACLs
+📍 *Subjective*
+✅ Two networks were given, configure ACL on router for host (1st network) accepting (2nd network), and reject all other networks.
+✅ Write names of two main parts of operational states of OSPF
+✅ Two MAC addresses were given (1, separated through *-* and 1 through *:*, identify valid MAC address with justification.
+✅ You want to know statistics of all translations of Nat, which command is used? Write all commands with sequence
+✅ Write steps to configure dynamic Nat
+✅ Five attributes Extended ACLs use to filter Ipv4 packets
+✅ You have to configure a new switch with Fast Ethernet speed 100 mb/s, and mode Full Duplex. Write all commands for this configuration.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS407_* *others* _mostly configuration questions_ *S.qs* *L.qs*"
+
+*KEY POINTS / TOPICS:*
+📍 *Mcqs*
+📍 _17 to 18 mcqs were from preparational videos_
+✅ https://youtu.be/DWtaSs4uLac?si=cT6qfNzc1l9jfxmQ
+✅ https://youtu.be/zFEuOqZd6eI?si=zrecAQzuL8K9hq8t
+✅ 2 mcqs from STP
+✅ 2 mcqs related to dhcp commands
+✅ Etherchannel related
+✅ MAC addresses represented as ---- hex digits
+✅ 2 mcqs related to Extended ACLs
+📍 *Subjective*
+✅ Two networks were given, configure ACL on router for host (1st network) accepting (2nd network), and reject all other networks.
+✅ Write names of two main parts of operational states of OSPF
+✅ Two MAC addresses were given (1, separated through *-* and 1 through *:*, identify valid MAC address with justification.
+✅ You want to know statistics of all translations of Nat, which command is used? Write all commands with sequence
+✅ Write steps to configure dynamic Nat
+✅ Five attributes Extended ACLs use to filter Ipv4 packets
+✅ You have to configure a new switch with Fast Ethernet speed 100 mb/s, and mode Full Duplex. Write all commands for this configuration.

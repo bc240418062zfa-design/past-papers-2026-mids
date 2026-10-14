@@ -1,0 +1,72 @@
+📢 *SUBJECT: CS508*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* amina
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "past papers sy thy, Junaid ki file sy, Handouts sy bhi thy, very easy and simple aik bar handouts read kya hu tu easily hu jay ga. https://youtu.be/zODiEs2uS5g?si=FMv9926T0eT0enCW https://youtu.be/ZFhkJ8i7X3Q?si=NS2pPTNFDF87hD9B Is a sparrow an animal? Is a table an animal? What is a dog? parent (maria, ali) ; Who is the parent of maria? Who is parent of bilal? Who are Children of Ali? Also write the resultant output : >(set q L'(G H C) (G H C) >(car L) <script> const num_list = [50, 60,70,80,90]; let text = "" ; for(let x in num_list) { text += (num_list[x] + 5) + "<br>" ; } </script> Diagram ky top ma object likha tha nechy kuch is trha ki thi... 👇🏻 Object . 1 : : 2 3 :  : 4  5 Best of luck 🌸"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS
+📍 For MCQS
+📍 For Subjective
+📍 is ma sy bhi 1 short aya tha same
+📍 Short Questions:
+✅ Convert the queries into PROLOG.
+✅ Enlist 3 ways in *PHP String can be created.
+✅ Pascal uses which pointer for dynamic Storage management?
+✅ parent (maria, ali) ;
+📍 Answer the following questions in PROLOG :
+📍 `Long Questions:`
+✅ Identify the list selector function used in the following LISP code.
+✅ What will be the output of the following code.
+✅ Exception hierarchy in JavaScript. You are Required to write name of components with respect to number given in diagram.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* amina
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "past papers sy thy, Junaid ki file sy, Handouts sy bhi thy, very easy and simple aik bar handouts read kya hu tu easily hu jay ga. https://youtu.be/zODiEs2uS5g?si=FMv9926T0eT0enCW https://youtu.be/ZFhkJ8i7X3Q?si=NS2pPTNFDF87hD9B Is a sparrow an animal? Is a table an animal? What is a dog? parent (maria, ali) ; Who is the parent of maria? Who is parent of bilal? Who are Children of Ali? Also write the resultant output : >(set q L'(G H C) (G H C) >(car L) <script> const num_list = [50, 60,70,80,90]; let text = "" ; for(let x in num_list) { text += (num_list[x] + 5) + "<br>" ; } </script> Diagram ky top ma object likha tha nechy kuch is trha ki thi... 👇🏻 Object . 1 : : 2 3 :  : 4  5 Best of luck 🌸"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS
+📍 For MCQS
+📍 For Subjective
+📍 is ma sy bhi 1 short aya tha same
+📍 Short Questions:
+✅ Convert the queries into PROLOG.
+✅ Enlist 3 ways in *PHP String can be created.
+✅ Pascal uses which pointer for dynamic Storage management?
+✅ parent (maria, ali) ;
+📍 Answer the following questions in PROLOG :
+📍 `Long Questions:`
+✅ Identify the list selector function used in the following LISP code.
+✅ What will be the output of the following code.
+✅ Exception hierarchy in JavaScript. You are Required to write name of components with respect to number given in diagram.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Nisa
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "cs508 Ek puzzle Wala tha k yah wali puzzle kab. 1-Try catch finally code ki output. 2-Prolog ka ek code tha eş ki output,  Father parent Wala. 3-Control statements in java names just. 4-Control statements in PHP names just. 5-kis language ma unions variables NHI hoty just language ka name. 6.java ma difference kase return kiya jta ha. Overall paper easy tha. 7-Five Binding Times"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly mcqs files ma Sy thy.
+📍 subjective 5 questions b files ma sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Nisa
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "cs508 Ek puzzle Wala tha k yah wali puzzle kab. 1-Try catch finally code ki output. 2-Prolog ka ek code tha eş ki output,  Father parent Wala. 3-Control statements in java names just. 4-Control statements in PHP names just. 5-kis language ma unions variables NHI hoty just language ka name. 6.java ma difference kase return kiya jta ha. Overall paper easy tha. 7-Five Binding Times"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly mcqs files ma Sy thy.
+📍 subjective 5 questions b files ma sy thy

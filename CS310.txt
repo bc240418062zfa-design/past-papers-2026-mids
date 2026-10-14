@@ -1,0 +1,76 @@
+📢 *SUBJECT: CS310*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS310"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from ppt slides & conceptual
+📍 Short
+✅ update query
+✅ required arguments for MySQL connection
+✅ session display value code
+📍 Long
+✅ HTML form code from week 14
+✅ Delete query PHP code
+✅ session: if user admin than display hello
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS310"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from ppt slides & conceptual
+📍 Short
+✅ update query
+✅ required arguments for MySQL connection
+✅ session display value code
+📍 Long
+✅ HTML form code from week 14
+✅ Delete query PHP code
+✅ session: if user admin than display hello
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS310"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from ppt slides & conceptual. Some are from Arsalan's file
+📍 Short
+✅ update query
+✅ required arguments for MySQL connection
+✅ retrieving session value code
+📍 Long
+✅ HTML form code from week 14
+✅ Delete query PHP code
+✅ session: if the user is an admin, then display hello
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS310"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from ppt slides & conceptual. Some are from Arsalan's file
+📍 Short
+✅ update query
+✅ required arguments for MySQL connection
+✅ retrieving session value code
+📍 Long
+✅ HTML form code from week 14
+✅ Delete query PHP code
+✅ session: if the user is an admin, then display hello

@@ -1,0 +1,282 @@
+📢 *SUBJECT: CS636*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Areeba Awan
+📅 *Date:* 01-08-2026 | ⏰ 12:0 PM
+
+💬 "Cs636 Final Exam Kuch robots sy thy Kuch disk sy Kuch sets sy or 15 16 weeks sy bhi kafi thy.. 1.Intersection nikalna tha j or k sets mn sy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mixed thy lekin sahi thy
+📍 Short Questions
+✅ Which operator joins two sequences
+✅ P and negation of p ka truth table bnana tha
+✅ Completeness sy tha
+📍 Long Questions
+✅ State transition wali process diagram bnani thi
+✅ Well formedness essential kyun hai
+✅ Vdm components mn sy Operations ky 4 sections ky names
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Areeba Awan
+📅 *Date:* 01-08-2026 | ⏰ 12:0 PM
+
+💬 "Cs636 Final Exam Kuch robots sy thy Kuch disk sy Kuch sets sy or 15 16 weeks sy bhi kafi thy.. 1.Intersection nikalna tha j or k sets mn sy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mixed thy lekin sahi thy
+📍 Short Questions
+✅ Which operator joins two sequences
+✅ P and negation of p ka truth table bnana tha
+✅ Completeness sy tha
+📍 Long Questions
+✅ State transition wali process diagram bnani thi
+✅ Well formedness essential kyun hai
+✅ Vdm components mn sy Operations ky 4 sections ky names
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Hoor ul Ain chaudhry
+📅 *Date:* 03-08-2026 | ⏰ 09:00 AM
+
+💬 "cs636   final term"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs bht asan thy , slides sa thy sary
+📍 short :
+✅ write two ways to write function in VDM-SL. only name .
+✅ what is the purpose of inRange function
+✅ which property ensures , system does not contain any contraction/conflict?
+✅ how can we identify block of a disk?
+📍 Long :
+✅ why  wellformedness is essestial?
+✅ to get last element , write function..
+✅ write 5 intrinsic types of VDM-SL
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Hoor ul Ain chaudhry
+📅 *Date:* 03-08-2026 | ⏰ 09:00 AM
+
+💬 "cs636   final term"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs bht asan thy , slides sa thy sary
+📍 short :
+✅ write two ways to write function in VDM-SL. only name .
+✅ what is the purpose of inRange function
+✅ which property ensures , system does not contain any contraction/conflict?
+✅ how can we identify block of a disk?
+📍 Long :
+✅ why  wellformedness is essestial?
+✅ to get last element , write function..
+✅ write 5 intrinsic types of VDM-SL
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Rimsha
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "💌I recommend YouTube video for the preparation (virtual university Alerts) ki 27:38 time duration wali video 1:Set of operations batany thy 2:universal quantifier ki defination 3:why we use mk function 4:why proofs all important for formal method 1:robustness ky aspects 2:sequences match wala tha Len,hd,tl,elems,inds 3:operations ky sections batany thy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs are very easy 3 sy 4 robustness waly topic sy thy add remove waly topic sy aur baki bhi boht easy thy
+📍 aur questions bhi easy thy
+📍 long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Salman
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs slides mei se the, Robot Monitoring Sys aur last 3 topics ki slides imp hai
+📍 *Short*
+✅ union of sets
+✅ universal quantifier
+✅ role of proofs
+✅ elems operator
+📍 *Long*
+✅ difference operator
+✅ components of VDM-SL specifications
+✅ robustness aspects
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Rimsha
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "💌I recommend YouTube video for the preparation (virtual university Alerts) ki 27:38 time duration wali video 1:Set of operations batany thy 2:universal quantifier ki defination 3:why we use mk function 4:why proofs all important for formal method 1:robustness ky aspects 2:sequences match wala tha Len,hd,tl,elems,inds 3:operations ky sections batany thy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs are very easy 3 sy 4 robustness waly topic sy thy add remove waly topic sy aur baki bhi boht easy thy
+📍 aur questions bhi easy thy
+📍 long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Salman
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs slides mei se the, Robot Monitoring Sys aur last 3 topics ki slides imp hai
+📍 *Short*
+✅ union of sets
+✅ universal quantifier
+✅ role of proofs
+✅ elems operator
+📍 *Long*
+✅ difference operator
+✅ components of VDM-SL specifications
+✅ robustness aspects
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* BC
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "2 .ek consistency k related tha scenario base rha k contradions statements foraml method mn Kesy remove hoti hn? 3.purpose of In range function? 1,predecate logic with examples? 2.which function removes last elements from sequence? 3.why well formdness is essential in formal methods? Mcqs are mostly from last topic Robustness jesy k add robot or remove robot finish work statemts de thi just batan a tha"
+
+*KEY POINTS / TOPICS:*
+📍 1 .2funaction given identify which one is fun definition which one one is function signature?
+📍 Long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* BC
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "2 .ek consistency k related tha scenario base rha k contradions statements foraml method mn Kesy remove hoti hn? 3.purpose of In range function? 1,predecate logic with examples? 2.which function removes last elements from sequence? 3.why well formdness is essential in formal methods? Mcqs are mostly from last topic Robustness jesy k add robot or remove robot finish work statemts de thi just batan a tha"
+
+*KEY POINTS / TOPICS:*
+📍 1 .2funaction given identify which one is fun definition which one one is function signature?
+📍 Long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Nisa
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "CS636 paper bhot zada easy tha. Tip: sary last exam ma jo current  papers yt pr yah kahi b share hoy hain, inko combine krain aur wo rady aur Maha rana ki file kr lain. 100% percent paper wohi sy aye ga."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs ek doe file kro aur handouts ko achy sy concept clear kro ho jay gay.
+📍 Even Quizzes kr lo gay toe mcqs done.
+✅ inRange function.
+✅ Two Ways of Specify Function in VDM-SL:
+✅ 3. Role of Well-Formedness:
+✅ Which Operator Joins Two Sequences?
+✅ aur yahi long ma tah example likhni thi.
+✅ Completeness of Formal Method:
+✅ operation k 4 part k name just
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Nisa
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "CS636 paper bhot zada easy tha. Tip: sary last exam ma jo current  papers yt pr yah kahi b share hoy hain, inko combine krain aur wo rady aur Maha rana ki file kr lain. 100% percent paper wohi sy aye ga."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs ek doe file kro aur handouts ko achy sy concept clear kro ho jay gay.
+📍 Even Quizzes kr lo gay toe mcqs done.
+✅ inRange function.
+✅ Two Ways of Specify Function in VDM-SL:
+✅ 3. Role of Well-Formedness:
+✅ Which Operator Joins Two Sequences?
+✅ aur yahi long ma tah example likhni thi.
+✅ Completeness of Formal Method:
+✅ operation k 4 part k name just
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* UMER
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "5 Quiz from SDM-SL 4 Quiz from Robot Monoitring System Operator that are used to join two sequence LQ: function that returns last element of sequence write down function LQ:Five instricts in SDMSL"
+
+*KEY POINTS / TOPICS:*
+📍 Short Question inRange function
+📍 Short Question why proofs important in formal methods
+📍 SQ: statement were given and asked about function definition and signature
+📍 LQ: 1 Long from RMS table correct statement match with functions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* UMER
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "5 Quiz from SDM-SL 4 Quiz from Robot Monoitring System Operator that are used to join two sequence LQ: function that returns last element of sequence write down function LQ:Five instricts in SDMSL"
+
+*KEY POINTS / TOPICS:*
+📍 Short Question inRange function
+📍 Short Question why proofs important in formal methods
+📍 SQ: statement were given and asked about function definition and signature
+📍 LQ: 1 Long from RMS table correct statement match with functions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Eman
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "*cs636* paper zyda tar robotness waly topic sy aya tha add and remove robotness wala long mn b tha mcq b aik short b aya tha is and 2 sequence ko join krny k liye kya use krty hn mcq almost slide sy thy file kr le bas aik diagram thi transmission wali koi process management wali and aik table tha robo wala and bas yad."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Eman
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "*cs636* paper zyda tar robotness waly topic sy aya tha add and remove robotness wala long mn b tha mcq b aik short b aya tha is and 2 sequence ko join krny k liye kya use krty hn mcq almost slide sy thy file kr le bas aik diagram thi transmission wali koi process management wali and aik table tha robo wala and bas yad."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* Faiz Ali
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 paper was easy mcqs to yaad nai
+📍 short qs
+✅ name the operations that takes two sets as input and return a set
+✅ Why proofs are important in formal methods
+✅ What is universal quantifier
+✅ What is elems give an example
+📍 long qs
+✅ Name any five intrinsic types in VDM-SL
+✅ Why well formedness is essential
+✅ Set were given and their cardinality was asked
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* Faiz Ali
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 paper was easy mcqs to yaad nai
+📍 short qs
+✅ name the operations that takes two sets as input and return a set
+✅ Why proofs are important in formal methods
+✅ What is universal quantifier
+✅ What is elems give an example
+📍 long qs
+✅ Name any five intrinsic types in VDM-SL
+✅ Why well formedness is essential
+✅ Set were given and their cardinality was asked

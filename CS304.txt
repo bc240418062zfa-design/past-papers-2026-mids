@@ -1,0 +1,349 @@
+📢 *SUBJECT: CS304*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Zain
+📅 *Date:* 05-08-2026 | ⏰ 10:00 AM
+
+💬 "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ لَا اِلہَ اِلَا اللہُ مُحَمّدُ رَسُولُ اللہ template sy onward waly lecture ko must must prepare krna ... handouts sy bi zaror krna...otherwise muskil ho ge ap ko ek mn output tha ... ek mn stack container deya hova tha ...or or wo kis kis container mn use ho skta ye btana tha... ek mn pocha hova tha k restrictions kesy apply krty hn fucntion member pr... ek mn line error find krna tha.. or sahi code likhna tha Compostion wala program tha..simple sa...output btana tha ek mn program write krna tha (use template function to take two parameter and shows their values ...one would be the pointer of the array and other will be the size of the array) ek mn multiple inheritence ka code tha...k us mn constructor kesy work kry ga last wali class ka... Sources... VU TALK ki 3:50+ hour ki ek video h wo zaror watch krna or us k baad..."
+
+*KEY POINTS / TOPICS:*
+📍 MCQ's
+📍 20+ MCQ's template mn sy,error handling,STL mn sy aye thy
+📍 SHORT QUESTION
+📍 LONG QUESTION
+📍 apny MCQ's ready kr lena ...last template sy onward to zaror...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Hassan
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Kal tk kuch b nhi parha tha subh uth krr surf 3 videos dekhi Mobiz Knowledge korner ki mcqs mostly ussi me sy they and subjective b ez tha just outputs batany they or ik long question me virtual function sy related kuch points likhy they or btana tha k true hain k nhi Ik long me program written tha or usme btana tha k kon konsy funtions/template hain (odinary,General template,Complete and partial specialization)"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Areeba Arshad.
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Assalamualaikum.. mcqs sary vu toolkit sy aye huay thy kch conceptual thy agr handouts read kiay huay Hein aur smjh ha concepts ki to mcqs easily ho jayn gyy aur subjective ma mery short aur long dono ma srf output waly questions thyy saryy us ky liay vu talk ki preparation videos dekhy us sy sary concepts clear ho jay gy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Hassan
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Kal tk kuch b nhi parha tha subh uth krr surf 3 videos dekhi Mobiz Knowledge korner ki mcqs mostly ussi me sy they and subjective b ez tha just outputs batany they or ik long question me virtual function sy related kuch points likhy they or btana tha k true hain k nhi Ik long me program written tha or usme btana tha k kon konsy funtions/template hain (odinary,General template,Complete and partial specialization)"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Areeba Arshad.
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Assalamualaikum.. mcqs sary vu toolkit sy aye huay thy kch conceptual thy agr handouts read kiay huay Hein aur smjh ha concepts ki to mcqs easily ho jayn gyy aur subjective ma mery short aur long dono ma srf output waly questions thyy saryy us ky liay vu talk ki preparation videos dekhy us sy sary concepts clear ho jay gy"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Nobody
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Container names for stack Coding,output Column matching True false Coding"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from handouts
+📍 Short question
+📍 Long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Nobody
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Container names for stack Coding,output Column matching True false Coding"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from handouts
+📍 Short question
+📍 Long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Maham
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "VU Final Term Exam Review – CS304 (Object Oriented Programming) Exam Date: 03 August 2026 Given Code (Assume the code is correct): #include<iostream> #include<conio.h> #include<string> #include<stdlib.h> using namespace std; class A { public: A() { cout << "A's Constructor:" << endl; } ~A() { cout << "A's Destructor:" << endl; } }; class B : public A { public: B() { cout << "B's Constructor:" << endl; } ~B() { cout << "B's Destructor:" << endl; } }; int main() { B obj; getch(); return 0; } Output: A's Constructor: B's Constructor: B's Destructor: A's Destrcuctor Keywords: Code complete karna tha using Stream Extraction Operator (">>"). --- Vehicle kis type ki class hai? Answer: Kya Abstract Class ka direct object ban sakta hai? Answer: --- Vector kis index se start hota hai? Answer: --- Operator Overloading (- Operator) Overall Paper Review"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective Questions
+📍 Question 1 (Long) – Constructor & Destructor Output
+📍 Question 2 (Long) – Templates
+📍 Template se related arrange/order question tha.
+✅ General Template (Ordinary Template)
+✅ Partial Template Specialization
+✅ Complete (Full) Template Specialization
+📍 Question 3 (Long) – Stream Extraction Operator
+📍 Related topics:
+✅ "istream"
+✅ "operator >>"
+✅ Operator Overloading
+📍 Short Questions
+📍 Question 1
+✅ Vehicle is an Abstract Class.
+✅ No.
+✅ Abstract Class ka direct object create nahi hota.
+✅ Sirf pointer/reference ban sakta hai.
+📍 Question 2 McQ tha
+✅ 0 (Zero)
+📍 Question 3
+📍 Short question minus ("-") operator overloading se related tha.
+📍 Question 4
+📍 Paper mein kaafi Output-based short questions bhi thay.
+📍 Objective (MCQs)
+✅ Kuch MCQs LMS Practice se milte-julte lage.
+✅ Mujhe sirf 1–2 MCQs pehchan mein aaye.
+✅ Time kam hone ki wajah se LMS aur handouts properly prepare nahi kar saka/saki, isliye MCQs ka exact content yaad nahi kha SE aye .
+✅ Long Questions
+✅ Constructor & Destructor Output
+✅ Templates
+✅ Stream Extraction Operator (">>")
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Maham
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "VU Final Term Exam Review – CS304 (Object Oriented Programming) Exam Date: 03 August 2026 Given Code (Assume the code is correct): #include<iostream> #include<conio.h> #include<string> #include<stdlib.h> using namespace std; class A { public: A() { cout << "A's Constructor:" << endl; } ~A() { cout << "A's Destructor:" << endl; } }; class B : public A { public: B() { cout << "B's Constructor:" << endl; } ~B() { cout << "B's Destructor:" << endl; } }; int main() { B obj; getch(); return 0; } Output: A's Constructor: B's Constructor: B's Destructor: A's Destrcuctor Keywords: Code complete karna tha using Stream Extraction Operator (">>"). --- Vehicle kis type ki class hai? Answer: Kya Abstract Class ka direct object ban sakta hai? Answer: --- Vector kis index se start hota hai? Answer: --- Operator Overloading (- Operator) Overall Paper Review"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective Questions
+📍 Question 1 (Long) – Constructor & Destructor Output
+📍 Question 2 (Long) – Templates
+📍 Template se related arrange/order question tha.
+✅ General Template (Ordinary Template)
+✅ Partial Template Specialization
+✅ Complete (Full) Template Specialization
+📍 Question 3 (Long) – Stream Extraction Operator
+📍 Related topics:
+✅ "istream"
+✅ "operator >>"
+✅ Operator Overloading
+📍 Short Questions
+📍 Question 1
+✅ Vehicle is an Abstract Class.
+✅ No.
+✅ Abstract Class ka direct object create nahi hota.
+✅ Sirf pointer/reference ban sakta hai.
+📍 Question 2 McQ tha
+✅ 0 (Zero)
+📍 Question 3
+📍 Short question minus ("-") operator overloading se related tha.
+📍 Question 4
+📍 Paper mein kaafi Output-based short questions bhi thay.
+📍 Objective (MCQs)
+✅ Kuch MCQs LMS Practice se milte-julte lage.
+✅ Mujhe sirf 1–2 MCQs pehchan mein aaye.
+✅ Time kam hone ki wajah se LMS aur handouts properly prepare nahi kar saka/saki, isliye MCQs ka exact content yaad nahi kha SE aye .
+✅ Long Questions
+✅ Constructor & Destructor Output
+✅ Templates
+✅ Stream Extraction Operator (">>")
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Alhamdullilah ppr done 🥰 Review late dy rhi hn us k liay sorry time ni mila Cs304 ka ppr man iqra azhr or world of education ki videos sy aya tha obj or subj b easy tha ab yd ni kya tha Subj m short m output btani thi long m b output btani thi easy tha overall ho jy ga mam iqra azhr ke video sy long aya tha 1 y 2 channels ke videos dekh lain preparation ho jy ga inshallah easily Jazak Allah ❤️"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 31-07-2026 | ⏰ 12:00 PM
+
+💬 "Alhamdullilah ppr done 🥰 Review late dy rhi hn us k liay sorry time ni mila Cs304 ka ppr man iqra azhr or world of education ki videos sy aya tha obj or subj b easy tha ab yd ni kya tha Subj m short m output btani thi long m b output btani thi easy tha overall ho jy ga mam iqra azhr ke video sy long aya tha 1 y 2 channels ke videos dekh lain preparation ho jy ga inshallah easily Jazak Allah ❤️"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Amna
+📅 *Date:* 31-08-2026 | ⏰ 02:30 PM
+
+💬 "stl ky koi three iterators ky naam likhny thy . code dya hua tha output bata na tha (postfix , prefix) code dya hua tha output likhna tha code write krna tha( template class ka tha)"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs were from qalib momin files
+📍 short question :
+📍 long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Amna
+📅 *Date:* 31-08-2026 | ⏰ 02:30 PM
+
+💬 "stl ky koi three iterators ky naam likhny thy . code dya hua tha output bata na tha (postfix , prefix) code dya hua tha output likhna tha code write krna tha( template class ka tha)"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs were from qalib momin files
+📍 short question :
+📍 long :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Junaid Ch
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "Paper confusing tha paradox tool mese objective ni aya or na he youtube k concepts mese bht ajeeb sa paper tha programs b tough thy just statements thi or thi b aesi k samjh ninara tha isme konsa concept apply hoga. Or 2 questions templates mese thy. isliye tyari full kro apni jin jin ka abi ye subject rehta deny wala. BEST OF LUCK"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Junaid Ch
+📅 *Date:* 30-07-2026 | ⏰ 06:30 PM
+
+💬 "Paper confusing tha paradox tool mese objective ni aya or na he youtube k concepts mese bht ajeeb sa paper tha programs b tough thy just statements thi or thi b aesi k samjh ninara tha isme konsa concept apply hoga. Or 2 questions templates mese thy. isliye tyari full kro apni jin jin ka abi ye subject rehta deny wala. BEST OF LUCK"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Wish
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Paper out of syllabus tha YouTube channel ki Kasi video sa ni ay or na hi paradox realible tool ha is ma sa koi question ni Aya Paper is about try block ,catch  sa tha Zyada paper last 41-45 lectures sa tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* Wish
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Paper out of syllabus tha YouTube channel ki Kasi video sa ni ay or na hi paradox realible tool ha is ma sa koi question ni Aya Paper is about try block ,catch  sa tha Zyada paper last 41-45 lectures sa tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* A
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "> 💕⃝🕊️ 𝗟𝗚𝗪𝗧 💕⃝🕊️ Paper Bohat conceptual tha Na Kisi preparation video se koi mcqs aya na hi Vu toolkit se koi mcqs aya na hi past files 😩😩😩😩😩 Main Vu toolkit mcqs aik aik yad kr ky gya tha aur mobiz ki video ache se ki thi lecture bhi Liye but jaisa hi first mcqs conceptual dekha Sara Kuch Bhool gya 😤😤😤😤😤😤😤😤 Main wahan hansne lag gya 😁😁😁 ab main sab ko kia batao Mai to apni qismat py Hans raha tha 🥺🥺🥺 Na qismat main pehla mcqs conceptual ata na hi mujhe Kuch bhoolta khair koi na shukar Alhamdulillah ppr acha ho gya 🫠 bus formula *C* Laga kr aa gya hu  means every option *C* 😂😂😂😂😂😂"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* A
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "> 💕⃝🕊️ 𝗟𝗚𝗪𝗧 💕⃝🕊️ Paper Bohat conceptual tha Na Kisi preparation video se koi mcqs aya na hi Vu toolkit se koi mcqs aya na hi past files 😩😩😩😩😩 Main Vu toolkit mcqs aik aik yad kr ky gya tha aur mobiz ki video ache se ki thi lecture bhi Liye but jaisa hi first mcqs conceptual dekha Sara Kuch Bhool gya 😤😤😤😤😤😤😤😤 Main wahan hansne lag gya 😁😁😁 ab main sab ko kia batao Mai to apni qismat py Hans raha tha 🥺🥺🥺 Na qismat main pehla mcqs conceptual ata na hi mujhe Kuch bhoolta khair koi na shukar Alhamdulillah ppr acha ho gya 🫠 bus formula *C* Laga kr aa gya hu  means every option *C* 😂😂😂😂😂😂"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Silent Girl
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Paper easy bhi tha or nhi bhi conceptual tha handouts achy say read kiya hoe to easily paper ho jata. M.C.Qs VU Toolkit kay or https://youtu.be/nI4mZuy1z60?si=2yEiL_TOm4Kb9HC8 or aik ya vedio dahk lay m.c.qs yaha say or Extension say he ayy or kuch handouts say. Aj VU walo ko mujh pay taras a gaya to koi program write krny ko nh dia. saray questions output or errors walay thay or output walay to bhot zayada easy thay program may he output thi Best of luck"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Silent Girl
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Paper easy bhi tha or nhi bhi conceptual tha handouts achy say read kiya hoe to easily paper ho jata. M.C.Qs VU Toolkit kay or https://youtu.be/nI4mZuy1z60?si=2yEiL_TOm4Kb9HC8 or aik ya vedio dahk lay m.c.qs yaha say or Extension say he ayy or kuch handouts say. Aj VU walo ko mujh pay taras a gaya to koi program write krny ko nh dia. saray questions output or errors walay thay or output walay to bhot zayada easy thay program may he output thi Best of luck"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Bint e asif
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "1,2,3. Code dya gya tha output likhni thi"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 Mcqs vu toolkit se thy
+📍 Subjective
+📍 Short
+✅ Error find krna tha or sahi code likhna tha
+📍 Long
+✅ Program likhna tha
+✅ Half code given tha agy uski derived class banani thi
+✅ Program likhna tha or by chance whi program agya tha jo pehla short tha jis mein output likhni thi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* Bint e asif
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "1,2,3. Code dya gya tha output likhni thi"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 Mcqs vu toolkit se thy
+📍 Subjective
+📍 Short
+✅ Error find krna tha or sahi code likhna tha
+📍 Long
+✅ Program likhna tha
+✅ Half code given tha agy uski derived class banani thi
+✅ Program likhna tha or by chance whi program agya tha jo pehla short tha jis mein output likhni thi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* Arooba
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Objectives sara theory base tha or subjective  may bs coding thi papet asan tha itna mushkil nhi tha ✅ baki best of luck 🥰"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* Arooba
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Objectives sara theory base tha or subjective  may bs coding thi papet asan tha itna mushkil nhi tha ✅ baki best of luck 🥰"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "**CS304P Paper Review** The paper was mostly conceptual and required understanding of OOP concepts rather than simple memorization. Overall, the paper tested practical understanding of OOP concepts such as friend functions/classes, static members, inheritance, and class relationships. It was not a paper that could be attempted only by memorizing previous questions; conceptual preparation was needed."
+
+*KEY POINTS / TOPICS:*
+📍 Only around 3–4 MCQs seemed repeated, while most required proper understanding of concepts.
+📍 The subjective part included questions from different OOP concepts:
+✅ Write a friend class declaration and create two objects of a class, one using an integer value and one using a float value.
+✅ Write a program using a static count variable.
+✅ Write code for classes using inheritance concepts. A class `Shape` , and subclasses such as `Circle` and `Triangle` were required with different inheritance types (public and protected).
+✅ Draw a class relationship diagram showing a base class, one derived class, and two further subclasses.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "**CS304P Paper Review** The paper was mostly conceptual and required understanding of OOP concepts rather than simple memorization. Overall, the paper tested practical understanding of OOP concepts such as friend functions/classes, static members, inheritance, and class relationships. It was not a paper that could be attempted only by memorizing previous questions; conceptual preparation was needed."
+
+*KEY POINTS / TOPICS:*
+📍 Only around 3–4 MCQs seemed repeated, while most required proper understanding of concepts.
+📍 The subjective part included questions from different OOP concepts:
+✅ Write a friend class declaration and create two objects of a class, one using an integer value and one using a float value.
+✅ Write a program using a static count variable.
+✅ Write code for classes using inheritance concepts. A class `Shape` , and subclasses such as `Circle` and `Triangle` were required with different inheritance types (public and protected).
+✅ Draw a class relationship diagram showing a base class, one derived class, and two further subclasses.

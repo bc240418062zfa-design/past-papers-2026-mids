@@ -1,0 +1,548 @@
+📢 *SUBJECT: CS604*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Beetu
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "🔶 𝗖𝗦𝟲𝟬𝟰 Values were given. Write the formula for Effective Access Time (EAT) and solve the given problem. 🔶 𝗖𝗦𝟲𝟬𝟰𝗣"
+
+*KEY POINTS / TOPICS:*
+✅ If a process is in its critical section, any other process that tries to enter its critical section must loop continuously in the entry section until the critical section becomes available. What is this condition called?
+✅ A deadlock has occurred and has been detected using the deadlock detection algorithm. Which methods are used to recover from the deadlock after it has been detected?
+✅ Two paging techniques to reduce the size of the page table.
+✅ Data were given. Find:
+✅ (i) No. of bits needed for p.
+✅ (ii) No. of bits needed for f.
+✅ (iii) No. of bits needed for d.
+✅ Types of Mount.
+✅ Yaad ni h.
+✅ Effective Access Time (EAT)
+✅ Write the code snippet to calculate the Average Wait Time and average turnaround time of each process in First Come First Serve FCFS.— Burst time[4]= {10,4,6,8}
+✅ A C program related to physical address translation was given. Only two missing lines had to be completed. The required lines were the input statements for the segment number and offset, both to be entered in hexadecimal (hex).
+✅ Use "TOTAL_BLOCKS" as the constant name for the total number of blocks and "disk" as the array name. Write the C statements for the following:
+✅ (i) Define the total number of blocks as 100.
+✅ (ii) Declare and initialize an array so that all blocks contain 0.
+✅ A thread-related C program was given. The following statements had to be completed:
+✅ (i) Declare thread variables "t1" and "t2".
+✅ (ii) Declare integer variables "rc1" and "rc2".
+✅ (iii) Create and run Thread 1 using its corresponding thread function.
+✅ (iv) Create and run Thread 2 using its corresponding thread function.
+📍 📌 MCQs were from the VU Toolkit, Mobiz Knowledge Korner, and HamzaVersity videos.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Ayesha
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Alhumdulilah  paper acha ho ga manay reviews deakhay thay 1-first fit allocation ? 20kB,10KB, 9KB 2-semapore wait and signal variable 3-segmantation ka logical address 4-fcfs ma konsi anomaly hoti h. 1-logical and physical address calculation same from handouts 2-consumer code 3-Effective access time Best of luck to all"
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's from handouts
+📍 Short question
+📍 Long question
+📍 review walay question must karein meray sary short review sy thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Beetu
+📅 *Date:* 03-08-2026 | ⏰ 04:30 PM
+
+💬 "🔶 𝗖𝗦𝟲𝟬𝟰 Values were given. Write the formula for Effective Access Time (EAT) and solve the given problem. 🔶 𝗖𝗦𝟲𝟬𝟰𝗣"
+
+*KEY POINTS / TOPICS:*
+✅ If a process is in its critical section, any other process that tries to enter its critical section must loop continuously in the entry section until the critical section becomes available. What is this condition called?
+✅ A deadlock has occurred and has been detected using the deadlock detection algorithm. Which methods are used to recover from the deadlock after it has been detected?
+✅ Two paging techniques to reduce the size of the page table.
+✅ Data were given. Find:
+✅ (i) No. of bits needed for p.
+✅ (ii) No. of bits needed for f.
+✅ (iii) No. of bits needed for d.
+✅ Types of Mount.
+✅ Yaad ni h.
+✅ Effective Access Time (EAT)
+✅ Write the code snippet to calculate the Average Wait Time and average turnaround time of each process in First Come First Serve FCFS.— Burst time[4]= {10,4,6,8}
+✅ A C program related to physical address translation was given. Only two missing lines had to be completed. The required lines were the input statements for the segment number and offset, both to be entered in hexadecimal (hex).
+✅ Use "TOTAL_BLOCKS" as the constant name for the total number of blocks and "disk" as the array name. Write the C statements for the following:
+✅ (i) Define the total number of blocks as 100.
+✅ (ii) Declare and initialize an array so that all blocks contain 0.
+✅ A thread-related C program was given. The following statements had to be completed:
+✅ (i) Declare thread variables "t1" and "t2".
+✅ (ii) Declare integer variables "rc1" and "rc2".
+✅ (iii) Create and run Thread 1 using its corresponding thread function.
+✅ (iv) Create and run Thread 2 using its corresponding thread function.
+📍 📌 MCQs were from the VU Toolkit, Mobiz Knowledge Korner, and HamzaVersity videos.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Ayesha
+📅 *Date:* 03-08-2026 | ⏰ 02:30 PM
+
+💬 "Alhumdulilah  paper acha ho ga manay reviews deakhay thay 1-first fit allocation ? 20kB,10KB, 9KB 2-semapore wait and signal variable 3-segmantation ka logical address 4-fcfs ma konsi anomaly hoti h. 1-logical and physical address calculation same from handouts 2-consumer code 3-Effective access time Best of luck to all"
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's from handouts
+📍 Short question
+📍 Long question
+📍 review walay question must karein meray sary short review sy thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Retro
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "The paper was pretty straightforward. 4."
+
+*KEY POINTS / TOPICS:*
+📍 The mcqs were all from past papers
+📍 Short:
+✅ One advantage of high level synchronization over semaphore
+✅ Types of mount
+✅ Code of Swapping Algo
+📍 Long:
+✅ 5 disk scheduling Algo
+✅ 4 conditions of deadlock
+✅ File structures of banker algo
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Retro
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "The paper was pretty straightforward. 4."
+
+*KEY POINTS / TOPICS:*
+📍 The mcqs were all from past papers
+📍 Short:
+✅ One advantage of high level synchronization over semaphore
+✅ Types of mount
+✅ Code of Swapping Algo
+📍 Long:
+✅ 5 disk scheduling Algo
+✅ 4 conditions of deadlock
+✅ File structures of banker algo
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* ₩
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "Cs604 current paper 1/8/2026 Buhat easy tha question b or mcqs b pora paper hmza university or world of education sy tha agr ap hamza university k 100 mcqs or world of education ki pori video dakty ho to apka paper 90% hojay ga"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Pakistan
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Cs604 1.Effectiveness time Wala"
+
+*KEY POINTS / TOPICS:*
+📍 McQ vu Waqar files
+📍 Short question
+✅ CPU ultization
+✅ Deadlock handling
+✅ Classic problem of synchronization
+✅ Logical address format segments
+📍 Long
+✅ Semaphore miss two value
+✅ Fragmentation
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* ₩
+📅 *Date:* 01-08-2026 | ⏰ 02:30 PM
+
+💬 "Cs604 current paper 1/8/2026 Buhat easy tha question b or mcqs b pora paper hmza university or world of education sy tha agr ap hamza university k 100 mcqs or world of education ki pori video dakty ho to apka paper 90% hojay ga"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Pakistan
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Cs604 1.Effectiveness time Wala"
+
+*KEY POINTS / TOPICS:*
+📍 McQ vu Waqar files
+📍 Short question
+✅ CPU ultization
+✅ Deadlock handling
+✅ Classic problem of synchronization
+✅ Logical address format segments
+📍 Long
+✅ Semaphore miss two value
+✅ Fragmentation
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "First fit memory allocation,Find the first fit for: a) 12KB b) 10KB c) 9KB Memory blocks 10KB,4KB,20KB,18KB,7KB,9KB,12KB,15KB Given data is Tmm(aisa hi Kuch tha ab yaad ni) = 120nsec TTLB = 20nsec HR = 80% a) Check the condition less then or equal to 0 b) decrement S when it is in wait c) Increments S when it is in  signal Code iska ye given tha: Wait S { ; } Signal S { }"
+
+*KEY POINTS / TOPICS:*
+📍 1st question tha k
+📍 2nd question: wrote 3 access method for protecting file in UNIX?
+📍 3rd question: deadlock, starvation, violation of memory exclusion ki statement di thi btana tha k in m Sy kiski konsi h
+📍 4th question: HR is hit ratio and MR is miss ratio then write formula of EAL and calculate Teffective
+📍 5 question: RAG given tha WFG bnana tab aur btana tha k deadlock occur Hoga k ni
+📍 6 question: statements table ki form m given thi btana tha fork()Konsa aur vfork() Konsa
+📍 7 question: S semaphore tha aur wait aur signal ka code likhna tha :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 01-08-2026 | ⏰ 04:30 PM
+
+💬 "First fit memory allocation,Find the first fit for: a) 12KB b) 10KB c) 9KB Memory blocks 10KB,4KB,20KB,18KB,7KB,9KB,12KB,15KB Given data is Tmm(aisa hi Kuch tha ab yaad ni) = 120nsec TTLB = 20nsec HR = 80% a) Check the condition less then or equal to 0 b) decrement S when it is in wait c) Increments S when it is in  signal Code iska ye given tha: Wait S { ; } Signal S { }"
+
+*KEY POINTS / TOPICS:*
+📍 1st question tha k
+📍 2nd question: wrote 3 access method for protecting file in UNIX?
+📍 3rd question: deadlock, starvation, violation of memory exclusion ki statement di thi btana tha k in m Sy kiski konsi h
+📍 4th question: HR is hit ratio and MR is miss ratio then write formula of EAL and calculate Teffective
+📍 5 question: RAG given tha WFG bnana tab aur btana tha k deadlock occur Hoga k ni
+📍 6 question: statements table ki form m given thi btana tha fork()Konsa aur vfork() Konsa
+📍 7 question: S semaphore tha aur wait aur signal ka code likhna tha :
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* 𓆩 Enigma 𓆪
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 ""World of education" prep video and "Masters" ki final term file zror kren order: 10KB, 4 KB, 20 KB, 18 KB, 7 KB, 9 KB, 12 KB, and 15KB. Which holes is taken for successive segment requests of: (a) 12 KB (b) 10 KB (c) 9 KB For first fit. environment, which of the following is/are good or bad? 3 Sequential search File link https://vumasters.blogspot.com/2023/06/cs604-current-papers-solution-2022.html"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+✅ Consider a swapping system in which memory consists of the following hole sizes in memory
+✅ T(effective) find krna tha, formula bhi likhna tha
+✅ Boolean array & integar array ka code likhna tha
+✅ Consider the following programming techniques and data structures. In demand paged
+✅ Stack
+✅ Hash table
+📍 Long
+✅ wait(S), signal(S) ka pseudo code likhna tha
+✅ Types of fragmentation in memory management
+✅ Low CPU utilization, high disk utilization... yeh likha huwa tha "problem name & solution algorithm" likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* 𓆩 Enigma 𓆪
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 ""World of education" prep video and "Masters" ki final term file zror kren order: 10KB, 4 KB, 20 KB, 18 KB, 7 KB, 9 KB, 12 KB, and 15KB. Which holes is taken for successive segment requests of: (a) 12 KB (b) 10 KB (c) 9 KB For first fit. environment, which of the following is/are good or bad? 3 Sequential search File link https://vumasters.blogspot.com/2023/06/cs604-current-papers-solution-2022.html"
+
+*KEY POINTS / TOPICS:*
+📍 Short
+✅ Consider a swapping system in which memory consists of the following hole sizes in memory
+✅ T(effective) find krna tha, formula bhi likhna tha
+✅ Boolean array & integar array ka code likhna tha
+✅ Consider the following programming techniques and data structures. In demand paged
+✅ Stack
+✅ Hash table
+📍 Long
+✅ wait(S), signal(S) ka pseudo code likhna tha
+✅ Types of fragmentation in memory management
+✅ Low CPU utilization, high disk utilization... yeh likha huwa tha "problem name & solution algorithm" likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Hadi
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "list 3 access modes used for file protection Name two hardware based solutions for critical section How paging avoid fragmentation issues Producer ka code likhna tha using empty,mutex,full identify which statement is for fork() and which one for vfork() from table"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from mobiz knowledge korner and hamzaversity mcqs video
+📍 Short
+📍 Long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Hadi
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "list 3 access modes used for file protection Name two hardware based solutions for critical section How paging avoid fragmentation issues Producer ka code likhna tha using empty,mutex,full identify which statement is for fork() and which one for vfork() from table"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from mobiz knowledge korner and hamzaversity mcqs video
+📍 Short
+📍 Long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* Hadi
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "list 3 access modes used for file protection Name two hardware based solutions for critical section How paging avoid fragmentation issues Producer ka code likhna tha using empty,mutex,full identify which statement is for fork() and which one for vfork() from table"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from mobiz knowledge korner and hamzaversity mcqs video
+📍 Short
+📍 Long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* tanzi
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "CS604 30 july 2026 10 am waqar files and junaid files  really very important 8)ln _ s used for soft links 20 ) MFT stands for 21 ) deadlock 22)pTBR stands for 25 ) busy waiting SQ 2 ) sequencing ,stack are good and hash bad which semaphore wait after first wait operation  two process po and p1 were give hierarchical indexed inverted"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 answer key of mcqs ,you can get statment of these from files exact same
+✅ store name of files or directories --- directory file
+✅ scan  algorithm statment
+✅ deadlock avoid condition with special changes ____deadlock free
+✅ demand paging
+✅ page fault
+✅ hardlink
+✅ increses page fault with increse of frame in page replacement algorithm
+✅ size of  process ,compare like statment look in handouts ____ contiguous allocation
+✅ indexed --- no external fragmentation
+✅ pager
+✅ demand paging
+✅ banker algorithm software solution of synchronization problem
+✅ wait for graph
+✅ address binding
+✅ MVT ___ dynamic binding
+✅ page directory
+✅ working set characteristics ___ size
+✅ synchronization problem
+✅ Deadlock avoidance does not mean --- not happen  ___ starvation
+✅ spinlock
+✅ bound waiting
+✅ block specil file
+✅ thrashing is not page replacement algorithm
+✅ page fault triggered
+✅ hash table bad
+✅ virtual memory is largest memory  give two points
+✅ semaphore violation of mutual exclusion
+✅ High level synchonization important give two points
+📍 long
+✅ test and set lock cod ko complete krna tha wait and lock = false
+✅ five algorithm for code access and disk improvment
+✅ write two methods of page implementation
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* tanzi
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "CS604 30 july 2026 10 am waqar files and junaid files  really very important 8)ln _ s used for soft links 20 ) MFT stands for 21 ) deadlock 22)pTBR stands for 25 ) busy waiting SQ 2 ) sequencing ,stack are good and hash bad which semaphore wait after first wait operation  two process po and p1 were give hierarchical indexed inverted"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 answer key of mcqs ,you can get statment of these from files exact same
+✅ store name of files or directories --- directory file
+✅ scan  algorithm statment
+✅ deadlock avoid condition with special changes ____deadlock free
+✅ demand paging
+✅ page fault
+✅ hardlink
+✅ increses page fault with increse of frame in page replacement algorithm
+✅ size of  process ,compare like statment look in handouts ____ contiguous allocation
+✅ indexed --- no external fragmentation
+✅ pager
+✅ demand paging
+✅ banker algorithm software solution of synchronization problem
+✅ wait for graph
+✅ address binding
+✅ MVT ___ dynamic binding
+✅ page directory
+✅ working set characteristics ___ size
+✅ synchronization problem
+✅ Deadlock avoidance does not mean --- not happen  ___ starvation
+✅ spinlock
+✅ bound waiting
+✅ block specil file
+✅ thrashing is not page replacement algorithm
+✅ page fault triggered
+✅ hash table bad
+✅ virtual memory is largest memory  give two points
+✅ semaphore violation of mutual exclusion
+✅ High level synchonization important give two points
+📍 long
+✅ test and set lock cod ko complete krna tha wait and lock = false
+✅ five algorithm for code access and disk improvment
+✅ write two methods of page implementation
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* BC25021
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "msqs were from mostly linux, bankers algorithm, LRU,  questions 1: linux commands show current directory, clear screen, enter in desktop, create cs604p, move to cs604p, q2: code related to burst time and waiting time, q:3 write bankers algorithm arrays , q4 write code related to array to initilize frames t0 -1 ......."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* BC25021
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "msqs were from mostly linux, bankers algorithm, LRU,  questions 1: linux commands show current directory, clear screen, enter in desktop, create cs604p, move to cs604p, q2: code related to burst time and waiting time, q:3 write bankers algorithm arrays , q4 write code related to array to initilize frames t0 -1 ......."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Sarah Mahmood
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Assalam o alaikum! Paper bohat easy tha Alhamdulillah Complete paper from world of education, Masters, smart work zone, and MAK abbasi videos. Best of luck"
+
+*KEY POINTS / TOPICS:*
+📍 VU toolkit ky 20 mcqs kiye thy start waly un se 2 aaye thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* Sara
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Cs604 60 % paper memory section or paging se tha 30% Semaphore se tha Agr koi ye 2 portion kr ly tu unka paper bht acha ho jye ga"
+
+*KEY POINTS / TOPICS:*
+📍 Ek ye question tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* Sara
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Cs604 60 % paper memory section or paging se tha 30% Semaphore se tha Agr koi ye 2 portion kr ly tu unka paper bht acha ho jye ga"
+
+*KEY POINTS / TOPICS:*
+📍 Ek ye question tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "CS604 Final Term 29 July 2026 12:00 pm By : Hatim Majeed Dotani Maximum Mcqs VU Toolkit.app kee Final Term Preparation ka 177 Quizes sa Aya , menay saray 177 quizes prepare kiya Thay and I smashed them. Jo Unseen Quizes Aya  meray CS604 ka Paper ma Jo ka VUtoolkit.app website ka Final term preparation section 177 mcqs ma nai Thay woh Ma Note down Ker Ka Agaya Hun Ap Bhaiyo or Behnon Ka Liya: (a) Soft (b) Hard (c) Pointer (d) Stack Correct Option: (b) Hard MCQ 13: In the scan algorithm, disk ________ starts at one end of the disk, and moves towards the other end, servicing requests as it reaches each cylinder, until it gets to the other end of the disk. (a) Arm (b) Cylinder (c) Head (d) Vector Correct Option: (c) Head (a) protected (b) shared (c) Legal (d) Illegal Correct Option: (d) Illegal (a) 2 (b) 3 (c) 4 (d) 5 Correct Option: (a) 2 (a) Software (b) Hardware (c) Operating system (d) Firmware Correct Option: (a) Software (a) Main memory, Cache, CPU registers, secondary storage (b) Secondary storage, main memory, CPU registers, cache (c) Secondary storage, Cache, main memory, CPU registers (d) CPU registers, Cache, main memory, secondary storage Correct Option: (d) CPU registers, Cache, main memory, secondary storage (a) Allocation matrix from Max Matrix (b) Max Matrix from Allocation matrix (c) Allocation matrix from Available matrix (d) Max Matrix from available matrix Correct Option: (a) Allocation matrix from Max Matrix (a) The page is modified (b) A context switch occurs (c) A page fault is triggered (d) The process terminates immediately. Correct Option: (c) A page fault is triggered Q34: Consider the following programming & data structures. In demand paged environments, wof is/are good or bad? Stack Hash table Sequential search Q35: Write down the names of three types of solutions required for solving the critical section problem. Q36: What is the logical address format in segmentation? Q37: Banker's Algorithm use several data structures for resource allocation & deadlock avoidance. Write the name of the appropriate data structure used for each of the following purpose. PurposeData structure Note: Choose Data structure from these options: 1) Allocation 2) Available 3) Max Q38: In Unix/Linux environment you are required to write down the name of system call for each of the following operation. A directory is searched for the appropriate entry and the current file position is set to a given value. This is often known as file seek. Search the directory for the named file, and then release the file space & erase the directory entry. A user may want to erase the contents of the file but keep its attributes. This function allows all attributes to be unchanged except for file length which is set to zero and file space is released. When a file is closed the os removes its entry in the open file table. Q39: A semaphore is implemented using an integer value and a list of waiting processes. Complete the following data structure by writing two missing declarations. typedef struct { ________ ; ________ ; } semaphore; Q40: Write down the names of four data structures we use in the Banker's algorithm? Duaon Ma Yaad Rekhna , Menay CS603 ka Review Bhee Diya hai , ya Review Ap VU Toolkit ka Current Papers ma Bhee In Sha Allah find ker sekthay hain."
+
+*KEY POINTS / TOPICS:*
+📍 MCQ 7: When a ________ link is created, a directory entry for the existing file is created.
+📍 MCQ 19: If validation bit is 0, it indicates a/an ________ state of segment.
+📍 MCQ 23: Each page is a power of ________ bytes long in paging scheme.
+📍 MCQ 25: 2-process and n-process critical section problems are ________ solution to solve the synchronization problems.
+📍 MCQ 27: WOF is the correct order for of different types of memories in memory hierarchy.
+📍 MCQ 29: In Bankers algorithm, Need matrix is calculated by subtracting ________.
+📍 MCQ 33: What happens if during address translation, the valid-invalid bit is set to 0?
+📍 Subjective Questions ma As It is Note Ker ka Agaya Hun Ap Ka Liyay, You will Love Them :
+📍 Subjective Questions
+✅ Stores the number of currently available instances of each resource type.
+✅ Stores the maximum number of resources that each process may request.
+✅ Stores the number of resources of each type currently allocated to every process.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "CS604 Final Term 29 July 2026 12:00 pm By : Hatim Majeed Dotani Maximum Mcqs VU Toolkit.app kee Final Term Preparation ka 177 Quizes sa Aya , menay saray 177 quizes prepare kiya Thay and I smashed them. Jo Unseen Quizes Aya  meray CS604 ka Paper ma Jo ka VUtoolkit.app website ka Final term preparation section 177 mcqs ma nai Thay woh Ma Note down Ker Ka Agaya Hun Ap Bhaiyo or Behnon Ka Liya: (a) Soft (b) Hard (c) Pointer (d) Stack Correct Option: (b) Hard MCQ 13: In the scan algorithm, disk ________ starts at one end of the disk, and moves towards the other end, servicing requests as it reaches each cylinder, until it gets to the other end of the disk. (a) Arm (b) Cylinder (c) Head (d) Vector Correct Option: (c) Head (a) protected (b) shared (c) Legal (d) Illegal Correct Option: (d) Illegal (a) 2 (b) 3 (c) 4 (d) 5 Correct Option: (a) 2 (a) Software (b) Hardware (c) Operating system (d) Firmware Correct Option: (a) Software (a) Main memory, Cache, CPU registers, secondary storage (b) Secondary storage, main memory, CPU registers, cache (c) Secondary storage, Cache, main memory, CPU registers (d) CPU registers, Cache, main memory, secondary storage Correct Option: (d) CPU registers, Cache, main memory, secondary storage (a) Allocation matrix from Max Matrix (b) Max Matrix from Allocation matrix (c) Allocation matrix from Available matrix (d) Max Matrix from available matrix Correct Option: (a) Allocation matrix from Max Matrix (a) The page is modified (b) A context switch occurs (c) A page fault is triggered (d) The process terminates immediately. Correct Option: (c) A page fault is triggered Q34: Consider the following programming & data structures. In demand paged environments, wof is/are good or bad? Stack Hash table Sequential search Q35: Write down the names of three types of solutions required for solving the critical section problem. Q36: What is the logical address format in segmentation? Q37: Banker's Algorithm use several data structures for resource allocation & deadlock avoidance. Write the name of the appropriate data structure used for each of the following purpose. PurposeData structure Note: Choose Data structure from these options: 1) Allocation 2) Available 3) Max Q38: In Unix/Linux environment you are required to write down the name of system call for each of the following operation. A directory is searched for the appropriate entry and the current file position is set to a given value. This is often known as file seek. Search the directory for the named file, and then release the file space & erase the directory entry. A user may want to erase the contents of the file but keep its attributes. This function allows all attributes to be unchanged except for file length which is set to zero and file space is released. When a file is closed the os removes its entry in the open file table. Q39: A semaphore is implemented using an integer value and a list of waiting processes. Complete the following data structure by writing two missing declarations. typedef struct { ________ ; ________ ; } semaphore; Q40: Write down the names of four data structures we use in the Banker's algorithm? Duaon Ma Yaad Rekhna , Menay CS603 ka Review Bhee Diya hai , ya Review Ap VU Toolkit ka Current Papers ma Bhee In Sha Allah find ker sekthay hain."
+
+*KEY POINTS / TOPICS:*
+📍 MCQ 7: When a ________ link is created, a directory entry for the existing file is created.
+📍 MCQ 19: If validation bit is 0, it indicates a/an ________ state of segment.
+📍 MCQ 23: Each page is a power of ________ bytes long in paging scheme.
+📍 MCQ 25: 2-process and n-process critical section problems are ________ solution to solve the synchronization problems.
+📍 MCQ 27: WOF is the correct order for of different types of memories in memory hierarchy.
+📍 MCQ 29: In Bankers algorithm, Need matrix is calculated by subtracting ________.
+📍 MCQ 33: What happens if during address translation, the valid-invalid bit is set to 0?
+📍 Subjective Questions ma As It is Note Ker ka Agaya Hun Ap Ka Liyay, You will Love Them :
+📍 Subjective Questions
+✅ Stores the number of currently available instances of each resource type.
+✅ Stores the maximum number of resources that each process may request.
+✅ Stores the number of resources of each type currently allocated to every process.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Meerab Malik
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "1 .Write the  three name  method used to solve the critical section problem 2.First Fit Memory Allocation Find the First Fit for: (a) 12 KB (b) 10 KB (c) 9 KB Memory Blocks: 10 KB 4 KB 20 KB 18 KB 7 KB 9 KB 12 KB 15 KB Convert Resource Allocation Graph (RAG) to Wait-For Graph (WFG). Determine whether deadlock exists or not 2 there was given some arrays like 13242567462 This work on FIFO and when there is 3 frame result In 9 page fault . When 4 frame result in 20 page fault You have to tell what happened with page fault when frame move from 3 to 4 and also tell the name of process happened.  In short if you read mcqs  from vu toolkit and subjective from past and currently paper from vu toolkit.app you can do best"
+
+*KEY POINTS / TOPICS:*
+📍 The paper was to much easy almost all mcqs was from vu toolkit per Jo pardox na provide ka ha
+📍 Short question
+📍 Subjective (Long Questions)
+✅ Deadlock
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #28*
+👤 *Shared by:* Meerab Malik
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "1 .Write the  three name  method used to solve the critical section problem 2.First Fit Memory Allocation Find the First Fit for: (a) 12 KB (b) 10 KB (c) 9 KB Memory Blocks: 10 KB 4 KB 20 KB 18 KB 7 KB 9 KB 12 KB 15 KB Convert Resource Allocation Graph (RAG) to Wait-For Graph (WFG). Determine whether deadlock exists or not 2 there was given some arrays like 13242567462 This work on FIFO and when there is 3 frame result In 9 page fault . When 4 frame result in 20 page fault You have to tell what happened with page fault when frame move from 3 to 4 and also tell the name of process happened.  In short if you read mcqs  from vu toolkit and subjective from past and currently paper from vu toolkit.app you can do best"
+
+*KEY POINTS / TOPICS:*
+📍 The paper was to much easy almost all mcqs was from vu toolkit per Jo pardox na provide ka ha
+📍 Short question
+📍 Subjective (Long Questions)
+✅ Deadlock
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #29*
+👤 *Shared by:* Raza Munir
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Assalam o Alikum Warehmatullah Paper Overview. Paper was much easier than expected. Moazz Files Waqar Files Junaid Files Write the name of the algorithm used to solve the Critical Section Problem. Answer: Bakery Algorithm Among Hash Table, Sequential Search, and Stack, which is the best technique? Find the First Fit for: (a) 12 KB (b) 10 KB (c) 9 KB Memory Blocks: 10 KB 4 KB 20 KB 18 KB 7 KB 9 KB 12 KB 15 KB Convert Resource Allocation Graph (RAG) to Wait-For Graph (WFG). Determine whether deadlock exists or not. Fill in the missing code of a Semaphore program involving waiting processes. Write the names of any five Disk Scheduling Algorithms."
+
+*KEY POINTS / TOPICS:*
+📍 Most of the MCQs were repeated from:
+📍 VUTOOLKIT (A lot of MCQs came from here)
+📍 Subjective (Short Questions)
+✅ Critical Section Problem
+✅ Data Structures
+✅ First Fit Memory Allocation
+📍 Subjective (Long Questions)
+📍 Most of the long questions were from the Masters File.
+✅ Deadlock
+✅ Semaphore
+✅ Disk Scheduling
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #30*
+👤 *Shared by:* Raza Munir
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Assalam o Alikum Warehmatullah Paper Overview. Paper was much easier than expected. Moazz Files Waqar Files Junaid Files Write the name of the algorithm used to solve the Critical Section Problem. Answer: Bakery Algorithm Among Hash Table, Sequential Search, and Stack, which is the best technique? Find the First Fit for: (a) 12 KB (b) 10 KB (c) 9 KB Memory Blocks: 10 KB 4 KB 20 KB 18 KB 7 KB 9 KB 12 KB 15 KB Convert Resource Allocation Graph (RAG) to Wait-For Graph (WFG). Determine whether deadlock exists or not. Fill in the missing code of a Semaphore program involving waiting processes. Write the names of any five Disk Scheduling Algorithms."
+
+*KEY POINTS / TOPICS:*
+📍 Most of the MCQs were repeated from:
+📍 VUTOOLKIT (A lot of MCQs came from here)
+📍 Subjective (Short Questions)
+✅ Critical Section Problem
+✅ Data Structures
+✅ First Fit Memory Allocation
+📍 Subjective (Long Questions)
+📍 Most of the long questions were from the Masters File.
+✅ Deadlock
+✅ Semaphore
+✅ Disk Scheduling

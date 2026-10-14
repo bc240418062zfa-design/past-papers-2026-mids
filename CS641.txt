@@ -1,0 +1,44 @@
+📢 *SUBJECT: CS641*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Esha
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "1️⃣ Identify the type of anomaly. 2️⃣ Identify sparse and  dense Indexes statement. 3️⃣ Write 3 reasons for data transformation. 4️⃣ Identify the header row of data and how column delimited. 1️⃣ Write 4 Data quality validation techniques 2️⃣ Identify supervised and un-supervised learning techniques of: 3️⃣ Write SQL queries student table"
+
+*KEY POINTS / TOPICS:*
+📍 ➡️ MCQs.....all from master 2 fiels
+📍 ➡️Short Questions
+✅ Lexical error
+✅ Missing records
+📍 ➡️Long Questions
+✅ Decision tree
+✅ Bayesian
+✅ Neural network
+✅ One way cluster
+✅ Two way cluster
+✅ Count all total num of stds
+✅ Count total of stds which degree_status is 1, i.e incomplete
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Esha
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "1️⃣ Identify the type of anomaly. 2️⃣ Identify sparse and  dense Indexes statement. 3️⃣ Write 3 reasons for data transformation. 4️⃣ Identify the header row of data and how column delimited. 1️⃣ Write 4 Data quality validation techniques 2️⃣ Identify supervised and un-supervised learning techniques of: 3️⃣ Write SQL queries student table"
+
+*KEY POINTS / TOPICS:*
+📍 ➡️ MCQs.....all from master 2 fiels
+📍 ➡️Short Questions
+✅ Lexical error
+✅ Missing records
+📍 ➡️Long Questions
+✅ Decision tree
+✅ Bayesian
+✅ Neural network
+✅ One way cluster
+✅ Two way cluster
+✅ Count all total num of stds
+✅ Count total of stds which degree_status is 1, i.e incomplete

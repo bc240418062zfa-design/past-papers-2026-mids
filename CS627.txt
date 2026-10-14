@@ -1,0 +1,194 @@
+📢 *SUBJECT: CS627*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Areeba
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "5 CIS controls, Ransomware attack, Two types of data hiding, TLS , Compile and run time Defence, App isolation on mobile OS"
+
+*KEY POINTS / TOPICS:*
+📍 Ye Qs tha ot MCQs handouts sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Areeba
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "5 CIS controls, Ransomware attack, Two types of data hiding, TLS , Compile and run time Defence, App isolation on mobile OS"
+
+*KEY POINTS / TOPICS:*
+📍 Ye Qs tha ot MCQs handouts sa tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Fasiha
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "https://youtu.be/vbWwDMwj104?si=uJBdu69JSPFN4lV5 Islotion of app to mobile operating system asa ta kuch Types of virus Three types of Digital forensic Nmap ki command 192.168.3.1 192.168.3.2 192.168.3.3 IEEE 802.11i k 5 phases K name 2 yad nhi ab"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs kuch e video sa ty baqi cybercrime sa ty or forensic sa they
+📍 Short question
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Fasiha
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "https://youtu.be/vbWwDMwj104?si=uJBdu69JSPFN4lV5 Islotion of app to mobile operating system asa ta kuch Types of virus Three types of Digital forensic Nmap ki command 192.168.3.1 192.168.3.2 192.168.3.3 IEEE 802.11i k 5 phases K name 2 yad nhi ab"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs kuch e video sa ty baqi cybercrime sa ty or forensic sa they
+📍 Short question
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Areeba
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy kuch thy files say zyda cyber crimes may say thy
+📍 Short questions
+✅ Types of viruses
+✅ Buffer overflow attack and common names
+✅ Mention the name of the security standard specifically designed to ensure that all components that accept, process, store, and transmit credit card information maintain a secure environment
+✅ White black grey risk
+📍 Long questions
+✅ Disa stig 5 names
+✅ ⁠os Hardening or 3 basic steps
+✅ ⁠2 hiding techniques challenges in forensic security + real implemented examples
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Areeba
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy kuch thy files say zyda cyber crimes may say thy
+📍 Short questions
+✅ Types of viruses
+✅ Buffer overflow attack and common names
+✅ Mention the name of the security standard specifically designed to ensure that all components that accept, process, store, and transmit credit card information maintain a secure environment
+✅ White black grey risk
+📍 Long questions
+✅ Disa stig 5 names
+✅ ⁠os Hardening or 3 basic steps
+✅ ⁠2 hiding techniques challenges in forensic security + real implemented examples
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Areeba
+📅 *Date:* 01-08-2026 | ⏰ 8 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy kuch thy files say zyda cyber crimes may say thy
+📍 Short questions
+✅ Types of viruses
+✅ Buffer overflow attack and common names
+✅ Mention the name of the security standard specifically designed to ensure that all components that accept, process, store, and transmit credit card information maintain a secure environment
+✅ White black grey risk
+📍 Long questions
+✅ Disa stig 5 names
+✅ ⁠os Hardening or 3 basic steps
+✅ ⁠2 hiding techniques challenges in forensic security + real implemented examples
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* MAIRA KHALIL
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "*MCQS* were mostly from malware , cyber crimes, https, IPE (full form) , Standards, Ports, flags , forensic science, security maintainance, OS .. 📚Three feature of CIS were given had to tell whether it is good, excellent or satisfactory. 📍User friendly 📍Control coverage 📍Control Detail 📚What is Trojan horse 📚Three phishing technique 📚Difference between Complile time and runtime defense attack .with one example. 📚What is MIC . How does it prevent system 📚Five control contents of DISA stigs ."
+
+*KEY POINTS / TOPICS:*
+📍 *Short Question*
+📍 *Long Question*
+📍 📚What is main objective of IEEE 8.0.1x . How uncontrolled and controled port achieve that objective
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* MAIRA KHALIL
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "*MCQS* were mostly from malware , cyber crimes, https, IPE (full form) , Standards, Ports, flags , forensic science, security maintainance, OS .. 📚Three feature of CIS were given had to tell whether it is good, excellent or satisfactory. 📍User friendly 📍Control coverage 📍Control Detail 📚What is Trojan horse 📚Three phishing technique 📚Difference between Complile time and runtime defense attack .with one example. 📚What is MIC . How does it prevent system 📚Five control contents of DISA stigs ."
+
+*KEY POINTS / TOPICS:*
+📍 *Short Question*
+📍 *Long Question*
+📍 📚What is main objective of IEEE 8.0.1x . How uncontrolled and controled port achieve that objective
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Aiza faryad
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "2 benchmark attacks Os hardening 1 Q FROM  port state"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from. Port states  like. -p means some from topic malware and cybercrime types
+📍 Short question 1 ransomware attack
+📍 What's is main objective of IEEE.802.1X
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Aiza faryad
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "2 benchmark attacks Os hardening 1 Q FROM  port state"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from. Port states  like. -p means some from topic malware and cybercrime types
+📍 Short question 1 ransomware attack
+📍 What's is main objective of IEEE.802.1X
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* RS
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "overall paper easy tha Cs 627"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions:
+✅ 5 types of Phishing
+✅ 5 types of malwares
+✅ Computer  forensic and network forensic
+📍 Short questions:
+✅ 3 parts of virus
+✅ CIS  and DISA difference
+✅ Define SSH
+✅ 3 types of Digital forensics
+📍 MCQs files or handouts mm sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* RS
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "overall paper easy tha Cs 627"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions:
+✅ 5 types of Phishing
+✅ 5 types of malwares
+✅ Computer  forensic and network forensic
+📍 Short questions:
+✅ 3 parts of virus
+✅ CIS  and DISA difference
+✅ Define SSH
+✅ 3 types of Digital forensics
+📍 MCQs files or handouts mm sy thy

@@ -1,0 +1,532 @@
+📢 *SUBJECT: CS504*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Hasan
+📅 *Date:* 04-08-2026 | ⏰ 06:30 PM
+
+💬 "https://www.youtube.com/watch?v=Uiigo5gdDj0 https://www.youtube.com/watch?v=EMU9Gxykufw aen dono videos may say almost 13 to 15 mcqs ayay thay aes ko kesi surat bi miss mat karna or har mcqs ko achay say par lena q kay aes may say anay pakay hay THANKS"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Hasan
+📅 *Date:* 04-08-2026 | ⏰ 06:30 PM
+
+💬 "https://www.youtube.com/watch?v=Uiigo5gdDj0 https://www.youtube.com/watch?v=EMU9Gxykufw aen dono videos may say almost 13 to 15 mcqs ayay thay aes ko kesi surat bi miss mat karna or har mcqs ko achay say par lena q kay aes may say anay pakay hay THANKS"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Gumnam
+📅 *Date:* 04-08-2026 | ⏰ 10:00 AM
+
+💬 "Assalamualaikum everyone Mera paper Boht acha huwa MCQS KY liy many mobiz ki Vedio or sat moize ki file ready ki thi or sat RidaAmatullah ki file Dekhi thi 2 file or ik Vedio dykhi thi bass https://youtu.be/xEWFzSFy1OM?si=_5a6WVWcRkit3-m2 Yeh Vedio dykh ly sat RidaAmatullah ki files ready krly apka 80% paper inshallah ho jy ga Allahamdulilah 🥰 paper acha ho giya"
+
+*KEY POINTS / TOPICS:*
+📍 Objective part 〽️
+📍 Subjective part 〽️
+📍 Isky liy many RidaAmatullah ✍️ ki file ready ki thi sary short question yahi Sy thy or ik long tha
+📍 2 long question my senior diya tha btna tha KY Konsa thk hy stage senior KY account
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Sehah
+📅 *Date:* 08-02-2026 | ⏰ 10:00 AM
+
+💬 "1)which UML diagram is static and dynamic? Static diagram,use case diagram,sequence diagram. 2)write 3 Quantitative benefits of unit testing. 3)write efficient elements of testing. 4)aik code diya hua tha us may ! Ye sign use ho raha tha is sign ki jaga code may kuch or use karna tha is ki replacement my. 1)5 statements likhi hui thi un statements ki fault classes batani thi. 2)aik code diya tha output find karni thi a=0,b=1 a=''printA''ifelse''printB" b="printC"ifelse"printD" !a="printE"ifelse"printF" !b="printG"ifelse"printH" Is terhan ka tha kuch. Allah hum sab ko kamiyab kary( Ameen )🤲"
+
+*KEY POINTS / TOPICS:*
+📍 MCQ's conceptual hi thy
+📍 Short:
+📍 Long:
+📍 Baqi long easy thy reviews achy say kar laina.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Sehah
+📅 *Date:* 08-02-2026 | ⏰ 10:00 AM
+
+💬 "1)which UML diagram is static and dynamic? Static diagram,use case diagram,sequence diagram. 2)write 3 Quantitative benefits of unit testing. 3)write efficient elements of testing. 4)aik code diya hua tha us may ! Ye sign use ho raha tha is sign ki jaga code may kuch or use karna tha is ki replacement my. 1)5 statements likhi hui thi un statements ki fault classes batani thi. 2)aik code diya tha output find karni thi a=0,b=1 a=''printA''ifelse''printB" b="printC"ifelse"printD" !a="printE"ifelse"printF" !b="printG"ifelse"printH" Is terhan ka tha kuch. Allah hum sab ko kamiyab kary( Ameen )🤲"
+
+*KEY POINTS / TOPICS:*
+📍 MCQ's conceptual hi thy
+📍 Short:
+📍 Long:
+📍 Baqi long easy thy reviews achy say kar laina.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Aik long ma aya tha ya code or short ma first name given tha Baki 2 names likna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Aik long ma aya tha ya code or short ma first name given tha Baki 2 names likna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* ~Unknown
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "1.Write the following in ANSI int factorial() ; 2.three fault types 3.Components of Code view 4.Statements given thi btna tha which client configuration is suitable for these statements Case A: load is normal... Case B: load is high... 5.Find bad code(magic numbers) 6.Scenario given tha.... System allow new notifications without making changes in existing modules. Which type of pattern design is this: creational, behavioral, structural 7.Program: for(i = 0; i < 2; i++) { // Do something here 1 if(condition) { // Do something here 2 } else { // Do something here 3 } } // Do something here 4 Find the travrrsed path the varivabe N is 2. Also identify path"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs kuch tough the or kuch repeated
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* ~Unknown
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "1.Write the following in ANSI int factorial() ; 2.three fault types 3.Components of Code view 4.Statements given thi btna tha which client configuration is suitable for these statements Case A: load is normal... Case B: load is high... 5.Find bad code(magic numbers) 6.Scenario given tha.... System allow new notifications without making changes in existing modules. Which type of pattern design is this: creational, behavioral, structural 7.Program: for(i = 0; i < 2; i++) { // Do something here 1 if(condition) { // Do something here 2 } else { // Do something here 3 } } // Do something here 4 Find the travrrsed path the varivabe N is 2. Also identify path"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs kuch tough the or kuch repeated
+📍 Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Mcqs ka Liya https://youtu.be/Uiigo5gdDj0?si=SUmcsjXHcUV92O4w and https://youtu.be/EMU9Gxykufw?si=igQ4wmcTqZjCR67I ya 2 videos zaror krna agar time Kam ha to agar time ha to mobiz ki 2 or kst learning ka lectures lain concept clear karainn hojai ga paper mcqs ka Liya 2 videos kafi ha 10 to 15 mcqs hojai ga subject ka Liya programing ka ana chahiya error find krna tha Printf("%d,%d,num1,num2) Scanf(yad nhi Kiya tha) Sum=num1+num2 Asa C program tha"
+
+*KEY POINTS / TOPICS:*
+📍 Or software view Wala long ma tha or
+📍 Ya long tha short ma software archectiurs Wala tha or program tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Mcqs ka Liya https://youtu.be/Uiigo5gdDj0?si=SUmcsjXHcUV92O4w and https://youtu.be/EMU9Gxykufw?si=igQ4wmcTqZjCR67I ya 2 videos zaror krna agar time Kam ha to agar time ha to mobiz ki 2 or kst learning ka lectures lain concept clear karainn hojai ga paper mcqs ka Liya 2 videos kafi ha 10 to 15 mcqs hojai ga subject ka Liya programing ka ana chahiya error find krna tha Printf("%d,%d,num1,num2) Scanf(yad nhi Kiya tha) Sum=num1+num2 Asa C program tha"
+
+*KEY POINTS / TOPICS:*
+📍 Or software view Wala long ma tha or
+📍 Ya long tha short ma software archectiurs Wala tha or program tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Shahzaib
+📅 *Date:* 01-08-2026 | ⏰ 06:30 PM
+
+💬 "Mcqs ka Liya https://youtu.be/Uiigo5gdDj0?si=SUmcsjXHcUV92O4w and https://youtu.be/EMU9Gxykufw?si=igQ4wmcTqZjCR67I ya 2 videos zaror krna agar time Kam ha to agar time ha to mobiz ki 2 or kst learning ka lectures lain concept clear karainn hojai ga paper mcqs ka Liya 2 videos kafi ha 10 to 15 mcqs hojai ga subject ka Liya programing ka ana chahiya error find krna tha Printf("%d,%d,num1,num2) Scanf(yad nhi Kiya tha) Sum=num1+num2 Asa C program tha"
+
+*KEY POINTS / TOPICS:*
+📍 Or software view Wala long ma tha or
+📍 Ya long tha short ma software archectiurs Wala tha or program tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Eshaa
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "Today paper CS504 || 31/07/2026 Subjective part thora muskhil thaa short 1: C++ statement likhni thi int factorial ki... short 2: Perry and woehm ka architecture formula likhna thaa or short 3 mein code diya thaa error find karna tha Long sary scenario based thy holistic approach se related thy overall paper conceptual hi thaa handouts achy se parhein toh mcqs easily hosakhty hain.."
+
+*KEY POINTS / TOPICS:*
+📍 Objective easy + conceptual tha
+📍 Mostly mcqs lecture 40 to 45 se thy . 4 mcqs mobiz knowledge YT channel ki preparation video se ay thy...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Ayesha
+📅 *Date:* 31-07-2026 | ⏰ 02:30 PM
+
+💬 "1-process names who find and fix defects. 2-iteration diagram types. 3-Aik program tha. 4-aik staement thi 80/20 wali. same  from handouts. 1-whole -part identify  karnay thay bicycle, class, wallet aur jounal.yeh review ma sy aya mera. 2-aik pata nahi kya tha keh rehay thay kay name suggest kro acording to self documenting code. 3-cyclomatic complexity same as given in handouts ex."
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's are conceptual
+📍 short question:
+📍 long question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Eshaa
+📅 *Date:* 31-07-2026 | ⏰ 04:30 PM
+
+💬 "Today paper CS504 || 31/07/2026 Subjective part thora muskhil thaa short 1: C++ statement likhni thi int factorial ki... short 2: Perry and woehm ka architecture formula likhna thaa or short 3 mein code diya thaa error find karna tha Long sary scenario based thy holistic approach se related thy overall paper conceptual hi thaa handouts achy se parhein toh mcqs easily hosakhty hain.."
+
+*KEY POINTS / TOPICS:*
+📍 Objective easy + conceptual tha
+📍 Mostly mcqs lecture 40 to 45 se thy . 4 mcqs mobiz knowledge YT channel ki preparation video se ay thy...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Ayesha
+📅 *Date:* 31-07-2026 | ⏰ 02:30 PM
+
+💬 "1-process names who find and fix defects. 2-iteration diagram types. 3-Aik program tha. 4-aik staement thi 80/20 wali. same  from handouts. 1-whole -part identify  karnay thay bicycle, class, wallet aur jounal.yeh review ma sy aya mera. 2-aik pata nahi kya tha keh rehay thay kay name suggest kro acording to self documenting code. 3-cyclomatic complexity same as given in handouts ex."
+
+*KEY POINTS / TOPICS:*
+📍 Mcq's are conceptual
+📍 short question:
+📍 long question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* unknown
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs were easy. toolkit mai se repeat hue the mcqs 6 ya 7 or aik mcqs mai exception handling ki definition thi short mai aik subtypes of loop error that 2. mai two components of collabration diagram btane the or long mai scenrio based the btana tha konsa design used hoga or testing."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* Silent Girl
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "paper conceptual tha m.c.qs vu toolkit or https://youtu.be/xEWFzSFy1OM?si=ZTM9GfkRJEK1Rxih & https://youtu.be/Uk0zV0FPm-8?si=9wG7IiCkUmkw75pk ya 2 vedios lazmi kijiya ga Best of luck. Allah pak sab ko kamiyab kry Ameeen"
+
+*KEY POINTS / TOPICS:*
+📍 short questions:
+✅ Architectual design process consists of three activitie. List them.
+✅ Enlist any three quantitative benefits of unit testing.
+✅ ya question diagram wala tha.
+✅ bhot lambi equation lihki hoi thi or neecha "bufferSize = bufferSize << 3 " lihka hoa tha or kaha gaya tha kay isko easy kr kay lihko kay jenha bilkul coding nh ati wo isay dahk kr samj saky kay yaha kia ho rha hai.
+📍 Long Questions:
+✅ aik program dia gaya tha or uski a,b and c after execution output kia hogi step by step solve krna tha.
+✅ yad nhi
+✅ aik table dia hoa tha or batana tha kay is line may konse fault class hai.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* unknown
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs were easy. toolkit mai se repeat hue the mcqs 6 ya 7 or aik mcqs mai exception handling ki definition thi short mai aik subtypes of loop error that 2. mai two components of collabration diagram btane the or long mai scenrio based the btana tha konsa design used hoga or testing."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Silent Girl
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "paper conceptual tha m.c.qs vu toolkit or https://youtu.be/xEWFzSFy1OM?si=ZTM9GfkRJEK1Rxih & https://youtu.be/Uk0zV0FPm-8?si=9wG7IiCkUmkw75pk ya 2 vedios lazmi kijiya ga Best of luck. Allah pak sab ko kamiyab kry Ameeen"
+
+*KEY POINTS / TOPICS:*
+📍 short questions:
+✅ Architectual design process consists of three activitie. List them.
+✅ Enlist any three quantitative benefits of unit testing.
+✅ ya question diagram wala tha.
+✅ bhot lambi equation lihki hoi thi or neecha "bufferSize = bufferSize << 3 " lihka hoa tha or kaha gaya tha kay isko easy kr kay lihko kay jenha bilkul coding nh ati wo isay dahk kr samj saky kay yaha kia ho rha hai.
+📍 Long Questions:
+✅ aik program dia gaya tha or uski a,b and c after execution output kia hogi step by step solve krna tha.
+✅ yad nhi
+✅ aik table dia hoa tha or batana tha kay is line may konse fault class hai.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Noor
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Ans: class diagram  (static) Usecase diagram (static) Sequence diagram (Dynamic) Ans: Basic Guarantee Strong guarantee No-throw guarantee Ans: Singleton Pattern 2: Code given: Identify feasible path. 3: Consider Whole-Part structure: Identify Part Whole.          Part Bicycle           ? Journal           ? Wallet.            ? Class.             ?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy🙂 3 sy 4 conceptual sy or Sb handouts sy as it is statements this
+📍 Short Question: easy 🥲
+✅ Which UML Diagram is static and which is dynamic?
+✅ Levels of Exception safety levels.
+✅ Identify infeasible paths from given code
+✅ Statement given: Identify design pattern.
+📍 Long Question: All Conceptual 😣
+✅ Code given in (php): Identify Bad code (magic number)
+📍 Mery liye dua krna achy marks aa Jaen mjjy long ni atty thy🤧 phir b Kuch na Kuch likh ayi......
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Noor
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "Ans: class diagram  (static) Usecase diagram (static) Sequence diagram (Dynamic) Ans: Basic Guarantee Strong guarantee No-throw guarantee Ans: Singleton Pattern 2: Code given: Identify feasible path. 3: Consider Whole-Part structure: Identify Part Whole.          Part Bicycle           ? Journal           ? Wallet.            ? Class.             ?"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy🙂 3 sy 4 conceptual sy or Sb handouts sy as it is statements this
+📍 Short Question: easy 🥲
+✅ Which UML Diagram is static and which is dynamic?
+✅ Levels of Exception safety levels.
+✅ Identify infeasible paths from given code
+✅ Statement given: Identify design pattern.
+📍 Long Question: All Conceptual 😣
+✅ Code given in (php): Identify Bad code (magic number)
+📍 Mery liye dua krna achy marks aa Jaen mjjy long ni atty thy🤧 phir b Kuch na Kuch likh ayi......
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* maryam
+📅 *Date:* 29-07-2026 | ⏰ 12: PM
+
+💬 "and code error find krna ta verification and validation short mn ta and 3 quantative of yd nhe arha ek topic ta handouts mn qaulitative and quantitive cover krna and last mn vu iqra youtube pr video ha dkh lna is sa acha ho jia gya"
+
+*KEY POINTS / TOPICS:*
+📍 cs 504 ka paper objective to conceptual base ta
+📍 but subjective paths ka question ta and kurcthen4+1 model
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* maryam
+📅 *Date:* 29-07-2026 | ⏰ 12: PM
+
+💬 "and code error find krna ta verification and validation short mn ta and 3 quantative of yd nhe arha ek topic ta handouts mn qaulitative and quantitive cover krna and last mn vu iqra youtube pr video ha dkh lna is sa acha ho jia gya"
+
+*KEY POINTS / TOPICS:*
+📍 cs 504 ka paper objective to conceptual base ta
+📍 but subjective paths ka question ta and kurcthen4+1 model
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* unknown
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "honestly quiz bht conceptual thy kuch paradox waly quiz ma sy thy lekin statement thoriii change kr kr k diye huay thy 1)infeasible path 2)architecture of software k phases k naam 2)krutchen4+1 architectural view model k naam batany thy aur bss file pr focus na kre concept bhi clear kre quiz bht conceptual thyy ok All the best  dua krna mujhy bhi achy number aaa jaeinn plzz"
+
+*KEY POINTS / TOPICS:*
+📍 short question
+✅ error find krna tha
+📍 long question
+✅ p  q   r  ki value find krnii thi
+📍 bakii mujhy yad nhi jo review ma questions bata rhy hai wo zaruur krein in ma mostly repeat ho rhay hai
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* unknown
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "aj mera cs 504 ka paper tha quiz bht mushkil thy matlab conceptual thy kuch paradox waly thy lekin statement change kr kr k diye huay thy short long mostly jo paper review thy un ma sy ayy thy short questions: 1 ) Ifeasible path wala 2) software architecture k phases k naam aik program tha error find krna tha long question   1) p q r ki value find krni thi 2)krutchen's4+1architectural view model k 5 naam likhny thy   bsss mujhy itna hi yad hai review ma jo subjective bataey hai wo lazmii kre un ma sy subjective mostly repeat hoty hai aur sirf file pr focus na rakhein balkyyyy concept bhi clear krei   All the best"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Qisa
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "Write the name of a process that deals with a maximum number of defects with minimum number of resources and also write the name of a software document to start testing face of software. a) 80% programming is produced only 20% of time B) 20% of programming is executed 80 percent of time. Debug ko Kia kia khaty hain Error defect white Box Testing Coverage type"
+
+*KEY POINTS / TOPICS:*
+📍 Long Questions
+✅ List participant of observe pattern
+📍 Short Question
+✅ Formula of perry wolf for software architecture
+✅ Benefits of unit testing
+✅ what is  80/ 20% rule in programming
+📍 Mcqs  STL ki full form
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #28*
+👤 *Shared by:* anonymous
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "Bugs Finding is done by which of the teams in Software Development lifecycle?    Testing Team A  is a code that explains itself without the need of comments and extraneous documentation ► Self documenting cod Bugs that won't "stand still" (almost random) are the  to deal with. ►most difficul Interaction Diagrams depict the  Behavior of the system ► Dynamic"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #29*
+👤 *Shared by:* ___
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "Paper was easy most of the mcqs from handouts important topics are sequential, collaboration diagrams, software architecture, architecture views, client-server model, kruchten 4+1 view, testing, debugging, naming convention, function naming etc. 3 Alternative of 'is' prefix One statement was given and we've to identify which process is this Byte order difference in Intel and Motorola. Fill table identify actors, transaction. Draw flow diagram and find complexity. Clement's model. Best of Luck 🤞"
+
+*KEY POINTS / TOPICS:*
+📍 Short Question's
+📍 Long Question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #30*
+👤 *Shared by:* ___
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "Paper was easy most of the mcqs from handouts important topics are sequential, collaboration diagrams, software architecture, architecture views, client-server model, kruchten 4+1 view, testing, debugging, naming convention, function naming etc. 3 Alternative of 'is' prefix One statement was given and we've to identify which process is this Byte order difference in Intel and Motorola. Fill table identify actors, transaction. Draw flow diagram and find complexity. Clement's model. Best of Luck 🤞"
+
+*KEY POINTS / TOPICS:*
+📍 Short Question's
+📍 Long Question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #31*
+👤 *Shared by:* Ghulam Mustafa
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Koch conceptual base thy or koch waqar Siddhu ki files ma sy aye thy And handouts ko must read kr ki jana Scenario based thy. Company ik Asa system Software bilt krna chahti hy ki wo jb bhi koi SMS, MAIL Kary ya koi update to is ki users ko immediately notification mil jay or update ho jay, is ma Kon sa structural model use hwa hy? or C ka code dia hwa tha us ma error find krna tha, Or 1 ma syntax error ko teek krna tha Mostly scenario based thy, Ik ma c++ ka program dia gya tha wile loop ka us ma sy error find kr ki correct likhna tha jazakAllha ♥️"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 Short Question
+📍 Long Question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #32*
+👤 *Shared by:* Beetu
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "for(i = 0; i < 2; i++) { // Do something here 1 if(condition) { // Do something here 2 } else { // Do something here 3 } } // Do something here 4 Find the number of independent paths. Code: { OpenFile(); WriteFile(); CloseFile();   // Suspected line } double G1(int &m) { m = m + 3; return m * 2; } double G2(int &n) { n = n - 2; return n / 2.0; } int main() { int p = 5; int q = 8; int r = G1(p) + G2(q); } Find the values of p, q, and r."
+
+*KEY POINTS / TOPICS:*
+✅ Short Questions:
+✅ A scenario was given and we had to identify which Design Pattern was used.
+✅ Write the two main components of a Collaboration Diagram.
+✅ A program was given:
+✅ Write the three Exception Safety Levels.
+✅ Long Questions:
+✅ Write four Configurations of Client-Server Architecture.
+✅ A program crashed while saving a file. Using the Holistic Approach, what will be checked first?
+✅ Given the following functions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #33*
+👤 *Shared by:* Ghulam Mustafa
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Koch conceptual base thy or koch waqar Siddhu ki files ma sy aye thy And handouts ko must read kr ki jana Scenario based thy. Company ik Asa system Software bilt krna chahti hy ki wo jb bhi koi SMS, MAIL Kary ya koi update to is ki users ko immediately notification mil jay or update ho jay, is ma Kon sa structural model use hwa hy? or C ka code dia hwa tha us ma error find krna tha, Or 1 ma syntax error ko teek krna tha Mostly scenario based thy, Ik ma c++ ka program dia gya tha wile loop ka us ma sy error find kr ki correct likhna tha jazakAllha ♥️"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs
+📍 Short Question
+📍 Long Question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #34*
+👤 *Shared by:* Beetu
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "for(i = 0; i < 2; i++) { // Do something here 1 if(condition) { // Do something here 2 } else { // Do something here 3 } } // Do something here 4 Find the number of independent paths. Code: { OpenFile(); WriteFile(); CloseFile();   // Suspected line } double G1(int &m) { m = m + 3; return m * 2; } double G2(int &n) { n = n - 2; return n / 2.0; } int main() { int p = 5; int q = 8; int r = G1(p) + G2(q); } Find the values of p, q, and r."
+
+*KEY POINTS / TOPICS:*
+✅ Short Questions:
+✅ A scenario was given and we had to identify which Design Pattern was used.
+✅ Write the two main components of a Collaboration Diagram.
+✅ A program was given:
+✅ Write the three Exception Safety Levels.
+✅ Long Questions:
+✅ Write four Configurations of Client-Server Architecture.
+✅ A program crashed while saving a file. Using the Holistic Approach, what will be checked first?
+✅ Given the following functions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #35*
+👤 *Shared by:* Glow worm
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "short question: 1. aik example di hui thi mail wali us me btana tha k y konsa pattern h behavioral,creational , ya structural. 2:global variable 3 ; bug standstill 4;In the switch statement, cases should always end with a------(break). 6;exception handling is a powerful technique that separates error-handling code from (normal code.) 7;. In this technique the test cases are written in a manner to cover different possibilities in code. (white box) 8; cyclomatic complexity is extremely useful in ---(white box)"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions: 1. four component of code view
+✅ Inspection checklists is me fault classes btani thi
+✅ mostly kis phase me bug defect  hoty h 3 phase k name btany thy.
+📍 mcqs
+✅ Identifier names enhancing the ---( readability)
+📍 5: two mcqs about  modularity
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #36*
+👤 *Shared by:* Glow worm
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "short question: 1. aik example di hui thi mail wali us me btana tha k y konsa pattern h behavioral,creational , ya structural. 2:global variable 3 ; bug standstill 4;In the switch statement, cases should always end with a------(break). 6;exception handling is a powerful technique that separates error-handling code from (normal code.) 7;. In this technique the test cases are written in a manner to cover different possibilities in code. (white box) 8; cyclomatic complexity is extremely useful in ---(white box)"
+
+*KEY POINTS / TOPICS:*
+📍 Long questions: 1. four component of code view
+✅ Inspection checklists is me fault classes btani thi
+✅ mostly kis phase me bug defect  hoty h 3 phase k name btany thy.
+📍 mcqs
+✅ Identifier names enhancing the ---( readability)
+📍 5: two mcqs about  modularity
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #37*
+👤 *Shared by:* ᥫ᭡𝑰𝒕𝒙 𝑨𝒍𝒑𝒉𝒂࿐
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "📖 Course Code: CS504 📚 Exam: Final Term (Spring 2026) 📅 Date: 28 July 2026 🕗 Time: 08:00 AM 👤 Shared by: ᥫ᭡𝑰𝒕𝒙 𝑨𝒍𝒑𝒉𝒂࿐ Most MCQs were directly from the Handouts. Around 3 MCQs were from the MOBIZ Knowledge video, while a few were concept-based (conceptual). ➤ Write the names of the four phases of Software Development. ➤ A scenario related to a sales/company system was given. Different attributes (such as Price, Product Description, Availability, Quantity, etc.) were provided, and we had to identify the most appropriate data type (int, double, String, Boolean) for each attribute. ➤ A table-based question was given on Software Testing Phases. We had to match each statement with the correct testing phase (Unit Testing, Integration Testing, System Testing, and Acceptance Testing). ➤ A question was asked about the need for Software Development. We had to explain four reasons/needs why software development is important. ➤ Where is the prefix "is" used in code? Why is it used? (Write four reasons.) ➤ Different architectural components/requirements were listed, and we had to identify which one was a Non-Functional Requirement (NFR). ➤ A small code snippet (using an if statement and a method such as "checkValidity(...)") was provided. We had to determine whether the given statement/function was valid or not and justify the answer with a reason. 📌 Must Watch: MOBIZ Knowledge korner videos. I highly recommend watching them because 1 Short Question and 3 MCQs in my paper were from these videos. They are really helpful for exam preparation. Best of luck Everyone!✌🏻 JazakAllah Khair 🌸"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+📍 Short/Long Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #38*
+👤 *Shared by:* mooni
+📅 *Date:* 28-07-2026 | ⏰ 8 AM
+
+💬 "subjective Question are mostly from validation & verification, infeasable path, component of collabration diagram ,untiy testing, inpsection check list, catagories of software arc..."
+
+*KEY POINTS / TOPICS:*
+📍 mostly mcqs was conceptual....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #39*
+👤 *Shared by:* ᥫ᭡𝑰𝒕𝒙 𝑨𝒍𝒑𝒉𝒂࿐
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "📖 Course Code: CS504 📚 Exam: Final Term (Spring 2026) 📅 Date: 28 July 2026 🕗 Time: 08:00 AM 👤 Shared by: ᥫ᭡𝑰𝒕𝒙 𝑨𝒍𝒑𝒉𝒂࿐ Most MCQs were directly from the Handouts. Around 3 MCQs were from the MOBIZ Knowledge video, while a few were concept-based (conceptual). ➤ Write the names of the four phases of Software Development. ➤ A scenario related to a sales/company system was given. Different attributes (such as Price, Product Description, Availability, Quantity, etc.) were provided, and we had to identify the most appropriate data type (int, double, String, Boolean) for each attribute. ➤ A table-based question was given on Software Testing Phases. We had to match each statement with the correct testing phase (Unit Testing, Integration Testing, System Testing, and Acceptance Testing). ➤ A question was asked about the need for Software Development. We had to explain four reasons/needs why software development is important. ➤ Where is the prefix "is" used in code? Why is it used? (Write four reasons.) ➤ Different architectural components/requirements were listed, and we had to identify which one was a Non-Functional Requirement (NFR). ➤ A small code snippet (using an if statement and a method such as "checkValidity(...)") was provided. We had to determine whether the given statement/function was valid or not and justify the answer with a reason. 📌 Must Watch: MOBIZ Knowledge korner videos. I highly recommend watching them because 1 Short Question and 3 MCQs in my paper were from these videos. They are really helpful for exam preparation. Best of luck Everyone!✌🏻 JazakAllah Khair 🌸"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+📍 Short/Long Questions:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #40*
+👤 *Shared by:* mooni
+📅 *Date:* 28-07-2026 | ⏰ 8 AM
+
+💬 "subjective Question are mostly from validation & verification, infeasable path, component of collabration diagram ,untiy testing, inpsection check list, catagories of software arc..."
+
+*KEY POINTS / TOPICS:*
+📍 mostly mcqs was conceptual....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #41*
+👤 *Shared by:* zahra
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Objective conceptual tha but ho gya or subjective main cyclomonic complexity ka 2 short tha or long main Gof ka tha things kam name batana tha or dusra long code dia va tha mistakes batani thi or last long naming converion ka tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #42*
+👤 *Shared by:* zahra
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Objective conceptual tha but ho gya or subjective main cyclomonic complexity ka 2 short tha or long main Gof ka tha things kam name batana tha or dusra long code dia va tha mistakes batani thi or last long naming converion ka tha"

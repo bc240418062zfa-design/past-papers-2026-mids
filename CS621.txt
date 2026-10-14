@@ -1,0 +1,218 @@
+📢 *SUBJECT: CS621*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Qisa
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "HDFS clusters use 2 types of nodes Namenode (master node) Datanode (worker node) 2.Virtual Machine Explain it Herergency Of Distributed Systems 3.Two Types of Granuality in the term of subtasks 4.Name Data centric Consistency Types 5.Limitation Of Virtual Machine in high performance computing 6.Working of Pthread() _Create and identify its 4 parameters 7.Ya Digram mai  names likhny thy..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Qisa
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "HDFS clusters use 2 types of nodes Namenode (master node) Datanode (worker node) 2.Virtual Machine Explain it Herergency Of Distributed Systems 3.Two Types of Granuality in the term of subtasks 4.Name Data centric Consistency Types 5.Limitation Of Virtual Machine in high performance computing 6.Working of Pthread() _Create and identify its 4 parameters 7.Ya Digram mai  names likhny thy..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Qisa
+📅 *Date:* 01-08-2026 | ⏰ 08:00 AM
+
+💬 "HDFS clusters use 2 types of nodes Namenode (master node) Datanode (worker node) 2.Virtual Machine Explain it Herergency Of Distributed Systems 3.Two Types of Granuality in the term of subtasks 4.Name Data centric Consistency Types 5.Limitation Of Virtual Machine in high performance computing 6.Working of Pthread() _Create and identify its 4 parameters 7.Ya Digram mai  names likhny thy..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Esha
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "1️⃣ Benefits of VM in parallel computing. 2️⃣ Identify the decomposition technique... statements given 3️⃣ Degree of switch 4️⃣ Explain the wall clock time in parallel execution. 1️⃣ How Pthread_create work and also identify it's 4 components. 2️⃣ Describe main components of luster file system. 3️⃣ Explain monotonic write and monotonic read with each one example."
+
+*KEY POINTS / TOPICS:*
+📍 ➡️ MCQs...network, efficiency, consistency ad other topics
+📍 ➡️Short Question
+📍 Long Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Esha
+📅 *Date:* 31-07-2026 | ⏰ 08:00 AM
+
+💬 "1️⃣ Benefits of VM in parallel computing. 2️⃣ Identify the decomposition technique... statements given 3️⃣ Degree of switch 4️⃣ Explain the wall clock time in parallel execution. 1️⃣ How Pthread_create work and also identify it's 4 components. 2️⃣ Describe main components of luster file system. 3️⃣ Explain monotonic write and monotonic read with each one example."
+
+*KEY POINTS / TOPICS:*
+📍 ➡️ MCQs...network, efficiency, consistency ad other topics
+📍 ➡️Short Question
+📍 Long Questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* ANONYMOUS
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "https://youtu.be/p06nXVagN70?si=rsV3aNhLViFiV0Nz ___ function determines the ease with which a parallel system can maintain a constant efficiency. -global memory in which decomposition dependencies are not known a priori -exploratory which one among these is not key function of mapreduce? -cpu scheduling which is not true of message passing lustre performance is increased by -tuning stripe count and stripe size https://youtu.be/8AhJpvmVRtM is k ilawa ye thy hamzaversity channel is best for concepts"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs:
+📍 most of the mcqs were from this video jo is video mein nahi hain wo yahan likh rha hun
+✅ isoefficiency
+📍 which memory in gpu is for long term
+✅ global shared variable
+📍 short & long:
+📍 short aur long max is video sy aur is video pr jo comment hain wahan sy thy
+✅ difference b/w single threaded and multithreaded process with examples
+✅ How HDFS ensures fault tolerance and high throughput of big data
+✅ what is file striping in lustre and briefly explain its advatanges and one disadvantage
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Naima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "2.data consistency model ki type the 1.ek frame work order tha wo Batana tha map reduce ka staged through 2.critical path length find krna the 3.GPU over CPU"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from preparation video
+📍 Short question
+✅ Ek scenario tha usma data decomposition ki technique identify krni the
+✅ High level libraries ka benefits or example batani the
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Naima
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "2.data consistency model ki type the 1.ek frame work order tha wo Batana tha map reduce ka staged through 2.critical path length find krna the 3.GPU over CPU"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from preparation video
+📍 Short question
+✅ Ek scenario tha usma data decomposition ki technique identify krni the
+✅ High level libraries ka benefits or example batani the
+📍 Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* 💸
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was quite conceptual vu toolkit sy 10 mcqs thy baki handouts sy thy buses aur visualisation k related is k ilawa long b asan thy central consistency model ki 2 types thi read write wali example k sath overall zyada paper last lectures sy tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* 💸
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was quite conceptual vu toolkit sy 10 mcqs thy baki handouts sy thy buses aur visualisation k related is k ilawa long b asan thy central consistency model ki 2 types thi read write wali example k sath overall zyada paper last lectures sy tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* 💸
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper was quite conceptual vu toolkit sy 10 mcqs thy baki handouts sy thy buses aur visualisation k related is k ilawa long b asan thy central consistency model ki 2 types thi read write wali example k sath overall zyada paper last lectures sy tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Sana
+📅 *Date:* 27-07-2026 | ⏰ 02:30 PM
+
+💬 "•Difference between Namenode and datanode •Modes of Asynchronous communication •Decomposition and explain with example •Switching techniques names •What is GPU and it's Design in •Client centric model names Hamzaversity CS621 preparation video is best for achieving high CGPA ."
+
+*KEY POINTS / TOPICS:*
+📍 Few mcqs are from past papers
+📍 Few mcqs are from handouts or conceptual
+📍 Subjective:
+📍 •One long is from mapReduce a figure is given write down the names of stages
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Sana
+📅 *Date:* 27-07-2026 | ⏰ 02:30 PM
+
+💬 "•Difference between Namenode and datanode •Modes of Asynchronous communication •Decomposition and explain with example •Switching techniques names •What is GPU and it's Design in •Client centric model names Hamzaversity CS621 preparation video is best for achieving high CGPA ."
+
+*KEY POINTS / TOPICS:*
+📍 Few mcqs are from past papers
+📍 Few mcqs are from handouts or conceptual
+📍 Subjective:
+📍 •One long is from mapReduce a figure is given write down the names of stages
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* VU student
+📅 *Date:* 26-07-2026 | ⏰ 10:00 AM
+
+💬 "1.static connection network just 3 nam Paper easy bhi tha aur difficult bhi mix tha Best of luck ✨ Dua Mai yaad rakhna 🤲✨"
+
+*KEY POINTS / TOPICS:*
+📍 Kafi mcq vu toolkit se tha aur Kafi mcq hamzaversity YouTube channel se tha
+📍 Question Mai
+✅ GPU ki libraries just 3 names
+✅ Causal consistency and sequence consistency Mai differences
+✅ Synchronous and asynchronous Mai bhi difference Aya tha real world k mutabik explain krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* VU student
+📅 *Date:* 26-07-2026 | ⏰ 10:00 AM
+
+💬 "1.static connection network just 3 nam Paper easy bhi tha aur difficult bhi mix tha Best of luck ✨ Dua Mai yaad rakhna 🤲✨"
+
+*KEY POINTS / TOPICS:*
+📍 Kafi mcq vu toolkit se tha aur Kafi mcq hamzaversity YouTube channel se tha
+📍 Question Mai
+✅ GPU ki libraries just 3 names
+✅ Causal consistency and sequence consistency Mai differences
+✅ Synchronous and asynchronous Mai bhi difference Aya tha real world k mutabik explain krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Hamna
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs621 Mon 27 July Baqi bhi Sahi thy"
+
+*KEY POINTS / TOPICS:*
+📍 Objective 19 mcqs from master file
+📍 Subjective mein
+✅ data replication
+✅ four components of message passing communication
+✅ namenode or data node difference
+✅ decomposition define and example KY sath explain krna tha
+✅ I/O bottleneck
+✅ synchouns and Asynchronous
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* Hamna
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs621 Mon 27 July Baqi bhi Sahi thy"
+
+*KEY POINTS / TOPICS:*
+📍 Objective 19 mcqs from master file
+📍 Subjective mein
+✅ data replication
+✅ four components of message passing communication
+✅ namenode or data node difference
+✅ decomposition define and example KY sath explain krna tha
+✅ I/O bottleneck
+✅ synchouns and Asynchronous

@@ -1,0 +1,292 @@
+📢 *SUBJECT: CS435*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* unknown
+📅 *Date:* 02-08-2026 | ⏰ 02:30 PM
+
+💬 "5-6 abbrevations thy what is meant security in computer column match krny thy. attack se system ko kaise protect kr skty Trustfullness k lie features big data and its characteristics"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 Sass,pass,iass wly topics ma se mcqs thy
+📍 overall objective easy thy
+📍 Subjective:
+📍 long question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* unknown
+📅 *Date:* 02-08-2026 | ⏰ 02:30 PM
+
+💬 "5-6 abbrevations thy what is meant security in computer column match krny thy. attack se system ko kaise protect kr skty Trustfullness k lie features big data and its characteristics"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 Sass,pass,iass wly topics ma se mcqs thy
+📍 overall objective easy thy
+📍 Subjective:
+📍 long question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Big data and its characteristics. Cryptography. Enlist runtime configuration. Inadequate data deletion. Abbreviations Percentage of Europeans thinking of data (data theft type koi chez thi) Load balance --> horizontal Pricing of elastic cloud storage, do they charge for consumed space or consumed plus unconsumed. 99% uptime. Sunk cost Availability rate metric... 99.5% Broker : consumer side view Privileged access to formal employees excludes in? Iaas, Paas, Saas, IDaas Backup required before migration. Non functional. Execution cost Which one is not an issue of mobile computing."
+
+*KEY POINTS / TOPICS:*
+📍 Long questions
+📍 Attacker types to be matched according to their definitions. Module 182
+📍 Short Questions
+📍 Same type matching table with cloudsim, cloudlet and broker with definitions.
+📍 MCQs
+✅ CIS
+✅ CSP
+✅ STEM
+✅ SSL
+✅ MTBF
+📍 Time-based, bargain-based se 2 mcqs aye thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Big data and its characteristics. Cryptography. Enlist runtime configuration. Inadequate data deletion. Abbreviations Percentage of Europeans thinking of data (data theft type koi chez thi) Load balance --> horizontal Pricing of elastic cloud storage, do they charge for consumed space or consumed plus unconsumed. 99% uptime. Sunk cost Availability rate metric... 99.5% Broker : consumer side view Privileged access to formal employees excludes in? Iaas, Paas, Saas, IDaas Backup required before migration. Non functional. Execution cost Which one is not an issue of mobile computing."
+
+*KEY POINTS / TOPICS:*
+📍 Long questions
+📍 Attacker types to be matched according to their definitions. Module 182
+📍 Short Questions
+📍 Same type matching table with cloudsim, cloudlet and broker with definitions.
+📍 MCQs
+✅ CIS
+✅ CSP
+✅ STEM
+✅ SSL
+✅ MTBF
+📍 Time-based, bargain-based se 2 mcqs aye thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 01-08-2026 | ⏰ 10:00 AM
+
+💬 "Big data and its characteristics. Cryptography. Enlist runtime configuration. Inadequate data deletion. Abbreviations Percentage of Europeans thinking of data (data theft type koi chez thi) Load balance --> horizontal Pricing of elastic cloud storage, do they charge for consumed space or consumed plus unconsumed. 99% uptime. Sunk cost Availability rate metric... 99.5% Broker : consumer side view Privileged access to formal employees excludes in? Iaas, Paas, Saas, IDaas Backup required before migration. Non functional. Execution cost Which one is not an issue of mobile computing."
+
+*KEY POINTS / TOPICS:*
+📍 Long questions
+📍 Attacker types to be matched according to their definitions. Module 182
+📍 Short Questions
+📍 Same type matching table with cloudsim, cloudlet and broker with definitions.
+📍 MCQs
+✅ CIS
+✅ CSP
+✅ STEM
+✅ SSL
+✅ MTBF
+📍 Time-based, bargain-based se 2 mcqs aye thy.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Uzair Ali
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "*CS435* _MCQs:_ iss k ilawa ik mcq tha k cloud pr data transfer krny se pehly kia cheeze recommended h,, k data ko kia kr Lia jaye (Backup ya integrate ?) Aur baqi ziada tr Mobiz knowledge korner ki video MN se thy ,,Vu rockey se bhi thy but wo me puri ni dekh ska ,,, ‎ *SQs:* ‎ *‎LQs:* ‎ ‎ 2nd column name: ‎Method name that Recognize it ‎ 3rd column name: Method name that handles it ‎ (Agy AP idea kr ln)"
+
+*KEY POINTS / TOPICS:*
+📍 Some *Mcqs* were from resources sharing methods, Two abbreviations: CSP, STEM,,,
+📍 MCQs aur subjective dono mn exam reviews se bhi Kafi Kuch tha
+✅ Write any two names of Cloud computing *design matrix*
+✅ Technique name that remove Previleage to Terminated consumers
+✅ Cluster types pr table question Aya tha,,3 types di gayi thi jinhen accordingly match krna tha
+✅ Cloud computing have interoperability lacks standards(asa hee likha tha Kuch),, write any three limitations.
+✅ ‎What's meant by *Big data*? write its Main *characteristics*
+✅ ‎Aik scenario based table aya tha jis k 2nd column MN appropriate words likhny thy, hr scenario k Hisaab se,,,,,,,,,*given words ye thy: Telnet, WEP, Insider, Signature, Hashing, Hardening,* ik aur word bhi tha yaad ni ,,aur table MN scenarios total 5 thy
+✅ ye bhi aik *table tha but uss MN Sirf 1st column MN Kuch lika tha* 2nd aur 3rd MN khud likhna tha,sai yaad ni kiya tha,but I think preconfigured threshold likh kr bhi Kuch pucha tha uss MN,,
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Uzair Ali
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "*CS435* _MCQs:_ iss k ilawa ik mcq tha k cloud pr data transfer krny se pehly kia cheeze recommended h,, k data ko kia kr Lia jaye (Backup ya integrate ?) Aur baqi ziada tr Mobiz knowledge korner ki video MN se thy ,,Vu rockey se bhi thy but wo me puri ni dekh ska ,,, ‎ *SQs:* ‎ *‎LQs:* ‎ ‎ 2nd column name: ‎Method name that Recognize it ‎ 3rd column name: Method name that handles it ‎ (Agy AP idea kr ln)"
+
+*KEY POINTS / TOPICS:*
+📍 Some *Mcqs* were from resources sharing methods, Two abbreviations: CSP, STEM,,,
+📍 MCQs aur subjective dono mn exam reviews se bhi Kafi Kuch tha
+✅ Write any two names of Cloud computing *design matrix*
+✅ Technique name that remove Previleage to Terminated consumers
+✅ Cluster types pr table question Aya tha,,3 types di gayi thi jinhen accordingly match krna tha
+✅ Cloud computing have interoperability lacks standards(asa hee likha tha Kuch),, write any three limitations.
+✅ ‎What's meant by *Big data*? write its Main *characteristics*
+✅ ‎Aik scenario based table aya tha jis k 2nd column MN appropriate words likhny thy, hr scenario k Hisaab se,,,,,,,,,*given words ye thy: Telnet, WEP, Insider, Signature, Hashing, Hardening,* ik aur word bhi tha yaad ni ,,aur table MN scenarios total 5 thy
+✅ ye bhi aik *table tha but uss MN Sirf 1st column MN Kuch lika tha* 2nd aur 3rd MN khud likhna tha,sai yaad ni kiya tha,but I think preconfigured threshold likh kr bhi Kuch pucha tha uss MN,,
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS435_* *Others*: *Preparational videos*"
+
+*KEY POINTS / TOPICS:*
+📍 *Mcqs*
+📍 _almost 20 mcqs were repeated from preparational videos_
+✅ which one is not included in the cloud quality metrics
+✅ causes of cloud failure
+✅ 2 to 3 mcqs related to IAAS, PAAS, and SAAS
+✅ in the context of redundant physical servers, ---- NIC(s) is/are kept active and primary
+✅ aging factor
+✅ offloading related
+✅ best practice is to move data center to ----
+✅ recommend to ---- data before moving to cloud
+📍 *Subjective*
+📍 _Just 1 question conceptual Tha, baqi 6 questions preparational videos se repeat hue_
+✅ Cloud promises unlimited virtual IT resources. Do you think they can be provided through a single physical server? Justify
+✅ https://youtu.be/lgqJWh820KU?si=0o2RAgqVe1Uar1fu
+✅ https://youtu.be/Bc_pgJILg2U?si=1QjgJAOLNdm6WWk2
+✅ https://youtu.be/qM7lx1SenMI?si=p99cSFeWfORFV9Wv
+📍 1st two videos se mostly cover ho Jata Hai, 3rd video mn few questions different hn,
+📍 Ek Question 3rd video se aya Tha, baqi 1st 2 se
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Undefined Being
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "*_CS435_* *Others*: *Preparational videos*"
+
+*KEY POINTS / TOPICS:*
+📍 *Mcqs*
+📍 _almost 20 mcqs were repeated from preparational videos_
+✅ which one is not included in the cloud quality metrics
+✅ causes of cloud failure
+✅ 2 to 3 mcqs related to IAAS, PAAS, and SAAS
+✅ in the context of redundant physical servers, ---- NIC(s) is/are kept active and primary
+✅ aging factor
+✅ offloading related
+✅ best practice is to move data center to ----
+✅ recommend to ---- data before moving to cloud
+📍 *Subjective*
+📍 _Just 1 question conceptual Tha, baqi 6 questions preparational videos se repeat hue_
+✅ Cloud promises unlimited virtual IT resources. Do you think they can be provided through a single physical server? Justify
+✅ https://youtu.be/lgqJWh820KU?si=0o2RAgqVe1Uar1fu
+✅ https://youtu.be/Bc_pgJILg2U?si=1QjgJAOLNdm6WWk2
+✅ https://youtu.be/qM7lx1SenMI?si=p99cSFeWfORFV9Wv
+📍 1st two videos se mostly cover ho Jata Hai, 3rd video mn few questions different hn,
+📍 Ek Question 3rd video se aya Tha, baqi 1st 2 se
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* 𓆩 Enigma 𓆪
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "mostly questions Vu rocky ki files me se hi thy...I prefer idhr odhr time waste krne se behtr hai ke Vu Rocky ki dono files yad kr len or koch topics ke concepts clear kr len (hardening, hashing, PKI, WEP, cryptography)"
+
+*KEY POINTS / TOPICS:*
+📍 Abbreviation waly Kafi mcqs thy
+📍 Subjective
+✅ What is privacy in computer security?
+✅ applications of cloud computing?
+✅ Big data and it's characteristics?
+✅ aik table tha os me 5 scenarios thy or 5 options given thy (Hardening, hashing, telnet, WEP...)on k according tabel fill krna tha?
+✅ Accomplishments in wireless communication?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* 𓆩 Enigma 𓆪
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "mostly questions Vu rocky ki files me se hi thy...I prefer idhr odhr time waste krne se behtr hai ke Vu Rocky ki dono files yad kr len or koch topics ke concepts clear kr len (hardening, hashing, PKI, WEP, cryptography)"
+
+*KEY POINTS / TOPICS:*
+📍 Abbreviation waly Kafi mcqs thy
+📍 Subjective
+✅ What is privacy in computer security?
+✅ applications of cloud computing?
+✅ Big data and it's characteristics?
+✅ aik table tha os me 5 scenarios thy or 5 options given thy (Hardening, hashing, telnet, WEP...)on k according tabel fill krna tha?
+✅ Accomplishments in wireless communication?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* 𓆩 Enigma 𓆪
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "mostly questions Vu rocky ki files me se hi thy...I prefer idhr odhr time waste krne se behtr hai ke Vu Rocky ki dono files yad kr len or koch topics ke concepts clear kr len (hardening, hashing, PKI, WEP, cryptography)"
+
+*KEY POINTS / TOPICS:*
+📍 Abbreviation waly Kafi mcqs thy
+📍 Subjective
+✅ What is privacy in computer security?
+✅ applications of cloud computing?
+✅ Big data and it's characteristics?
+✅ aik table tha os me 5 scenarios thy or 5 options given thy (Hardening, hashing, telnet, WEP...)on k according tabel fill krna tha?
+✅ Accomplishments in wireless communication?
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Retro
+📅 *Date:* 27-12-2026 | ⏰ 10:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were mostly from architectures
+📍 Short:
+✅ Priority based scheduling
+✅ Technique to terminate former employees
+✅ Colomn match from architectures
+✅ Cryptography
+📍 Long:
+✅ Colomn match random options thay (hashing, hardening, wep, insider etc)
+✅ Functions of encryption
+✅ Name 5 kinds of scheduling architectures
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Retro
+📅 *Date:* 27-12-2026 | ⏰ 10:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were mostly from architectures
+📍 Short:
+✅ Priority based scheduling
+✅ Technique to terminate former employees
+✅ Colomn match from architectures
+✅ Cryptography
+📍 Long:
+✅ Colomn match random options thay (hashing, hardening, wep, insider etc)
+✅ Functions of encryption
+✅ Name 5 kinds of scheduling architectures
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Retro
+📅 *Date:* 27-12-2026 | ⏰ 10:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were mostly from architectures
+📍 Short:
+✅ Priority based scheduling
+✅ Technique to terminate former employees
+✅ Colomn match from architectures
+✅ Cryptography
+📍 Long:
+✅ Colomn match random options thay (hashing, hardening, wep, insider etc)
+✅ Functions of encryption
+✅ Name 5 kinds of scheduling architectures

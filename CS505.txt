@@ -1,0 +1,161 @@
+📢 *SUBJECT: CS505*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* AMF
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "AJ mera CS505 and CS505P ka paper tha mcqs dono ky almost lms waly ay .... subjective 100% current papers sy tha thanku so much sb ka jinho ny share kya papers Allah ajr dy unko..."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Areeba
+📅 *Date:* 28-12-2026 | ⏰ 8 AM
+
+*KEY POINTS / TOPICS:*
+📍 Short questions
+✅ Nic teaming
+✅ ⁠use of virtual box
+✅ ⁠how containers are fast boot that VM give reason
+✅ ⁠is hypervisor type 2 suitable for testing and production environments justify
+📍 Long questions
+✅ Which tools are available in windows to manage virtual machine in hyper v
+✅ 5 components of VMware infrastructure
+✅ 5 benefits of virtual storage
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Areeba
+📅 *Date:* 28-12-2026 | ⏰ 8 AM
+
+*KEY POINTS / TOPICS:*
+📍 Short questions
+✅ Nic teaming
+✅ ⁠use of virtual box
+✅ ⁠how containers are fast boot that VM give reason
+✅ ⁠is hypervisor type 2 suitable for testing and production environments justify
+📍 Long questions
+✅ Which tools are available in windows to manage virtual machine in hyper v
+✅ 5 components of VMware infrastructure
+✅ 5 benefits of virtual storage
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "Ajj ka paper cs505 bht easy tha mcqus totally from handouts,paradoxical and vu gangster files. Paper bht easy tha maha rana file ,past and current paper karein hojaye vu gangster ganster files bhi."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+📍 .pause and running state in virtual machine different.(Short)
+📍 . virtualization ki correct 5 statement Karni thi 8 given thi.( Long)
+📍 . statement give you have to write the word virtualization and containerization.(Long)
+📍 .uses any 5 uses of virtual machine.(Long)
+📍 .VRAM, .vsn , .vxn  files of virtual machine.( Short)
+📍 . explain hypervisor 2 is suitable for environment testing and development? (Short)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "Ajj ka paper cs505 bht easy tha mcqus totally from handouts,paradoxical and vu gangster files. Paper bht easy tha maha rana file ,past and current paper karein hojaye vu gangster ganster files bhi."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+📍 .pause and running state in virtual machine different.(Short)
+📍 . virtualization ki correct 5 statement Karni thi 8 given thi.( Long)
+📍 . statement give you have to write the word virtualization and containerization.(Long)
+📍 .uses any 5 uses of virtual machine.(Long)
+📍 .VRAM, .vsn , .vxn  files of virtual machine.( Short)
+📍 . explain hypervisor 2 is suitable for environment testing and development? (Short)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Maneha Mohsin
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "Ajj ka paper cs505 bht easy tha mcqus totally from handouts,paradoxical and vu gangster files. Paper bht easy tha maha rana file ,past and current paper karein hojaye vu gangster ganster files bhi."
+
+*KEY POINTS / TOPICS:*
+📍 Question answers
+📍 .pause and running state in virtual machine different.(Short)
+📍 . virtualization ki correct 5 statement Karni thi 8 given thi.( Long)
+📍 . statement give you have to write the word virtualization and containerization.(Long)
+📍 .uses any 5 uses of virtual machine.(Long)
+📍 .VRAM, .vsn , .vxn  files of virtual machine.( Short)
+📍 . explain hypervisor 2 is suitable for environment testing and development? (Short)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Malik
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Assalamoalikum: Esxi and vmware ma difference table thai in ma ya batana thai ki ya virtualization ki statements ha or containerization. virtual machine files ma sa vmname. nvram,vmx,vmsn Time series database"
+
+*KEY POINTS / TOPICS:*
+📍 handouts ko achi sa read kari mcq cover ho gayi gai.
+📍 Short question and Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Malik
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Assalamoalikum: Esxi and vmware ma difference table thai in ma ya batana thai ki ya virtualization ki statements ha or containerization. virtual machine files ma sa vmname. nvram,vmx,vmsn Time series database"
+
+*KEY POINTS / TOPICS:*
+📍 handouts ko achi sa read kari mcq cover ho gayi gai.
+📍 Short question and Long question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Sofia Maham
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Q1:Is it possible to create virtual box without need of OS? justify Q2: 3 name of NO SQL database Q3: 3 central aspects of network and security? Q4: types of Database? Q5: EXSI differ from VM ware how? Q6 :five uses of Virtual machine?"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs was so easy from handouts .paradox walu s b tha Kuch.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Sofia maham
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs505p ( practical k paper h) Q1: How VM can be created in hyper V? Q2: Table form m tha btaya tha k kon s statement Virtual machine k h or kon s container ke ? Q3: SDDC k components walii diagram thi or us k 3nu components k Name btana thaa ? Q4: in a virtualization,where type 1 and type 2 hypervisorr are installed?"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs from totally handouts Bht he easy thaa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Sofia Maham
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Q1:Is it possible to create virtual box without need of OS? justify Q2: 3 name of NO SQL database Q3: 3 central aspects of network and security? Q4: types of Database? Q5: EXSI differ from VM ware how? Q6 :five uses of Virtual machine?"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs was so easy from handouts .paradox walu s b tha Kuch.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Sofia maham
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Cs505p ( practical k paper h) Q1: How VM can be created in hyper V? Q2: Table form m tha btaya tha k kon s statement Virtual machine k h or kon s container ke ? Q3: SDDC k components walii diagram thi or us k 3nu components k Name btana thaa ? Q4: in a virtualization,where type 1 and type 2 hypervisorr are installed?"
+
+*KEY POINTS / TOPICS:*
+📍 MCqs from totally handouts Bht he easy thaa

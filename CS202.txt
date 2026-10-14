@@ -1,0 +1,449 @@
+📢 *SUBJECT: CS202*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* asad ali ahmed khan
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "Cs202 Paper was conceptual read the handouts Xml may sy zada ay thy Ik do code ki output daini thi ik code may cat ,dog tha us may horse ko add karna tha Stay bless"
+
+*KEY POINTS / TOPICS:*
+📍 or baki ay do questions hai in ko read Kar lo
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* asad ali ahmed khan
+📅 *Date:* 02-08-2026 | ⏰ 08:00 AM
+
+💬 "Cs202 Paper was conceptual read the handouts Xml may sy zada ay thy Ik do code ki output daini thi ik code may cat ,dog tha us may horse ko add karna tha Stay bless"
+
+*KEY POINTS / TOPICS:*
+📍 or baki ay do questions hai in ko read Kar lo
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* :)
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs604 Mcqs sb teqreeben jo world of education wali video hai usi se thy agr koi ni tha phr b wo usi video se uska concept cover ho rha tha.. Jis ka b paper ho CS604 ka wo zaroor video dekh kr jaye."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* :)
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs604 Mcqs sb teqreeben jo world of education wali video hai usi se thy agr koi ni tha phr b wo usi video se uska concept cover ho rha tha.. Jis ka b paper ho CS604 ka wo zaroor video dekh kr jaye."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Zahra
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper Review: CS202 (4:00 PM Slot) Date: July 30, 2026 Write the syntax for the jQuery animate() method. Write commonly used functions (methods) and properties of the JavaScript window object. Write two embedded tags used to include external files, links, or media (such as images) into a web page, excluding the <iframe> tag. Given a tree structure/DOM hierarchy with 5 items, write the jQuery traversal query (such as using siblings(), :not(), or reverse selector/functionality) to select/call the siblings or the first 4 items excluding the last one. Given specific tasks/requirements, write the corresponding jQuery method for each: ​Adding a CSS class to an element ​Removing a CSS class from an element ​Toggling a CSS class ​Setting content/value of an element Identify and write the correct HTML5 Canvas methods/properties based on the given functional descriptions: ​Getting 2D context (getContext("2d")) ​Clearing/removing a specific area (clearRect) ​Adding/drawing a filled rectangle (fillRect) ​Drawing an outline rectangle (strokeRect) Write a custom jQuery function to calculate the sum of numbers and show the syntax/code to call/recall that function. #Me Zahra...🌚💅🏻🙂"
+
+*KEY POINTS / TOPICS:*
+📍 ​Part 1: Short Questions
+📍 ​Question 1:
+📍 ​Question 2:
+📍 ​Question 3:
+📍 ​Question 4:
+📍 ​Part 2: Long Questions
+📍 ​Question 1: jQuery Class & Content Methods
+📍 ​Question 2: HTML5 Canvas Functionality Identification
+📍 ​Question 3: jQuery Custom Function & Recall
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Zahra
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper Review: CS202 (4:00 PM Slot) Date: July 30, 2026 Write the syntax for the jQuery animate() method. Write commonly used functions (methods) and properties of the JavaScript window object. Write two embedded tags used to include external files, links, or media (such as images) into a web page, excluding the <iframe> tag. Given a tree structure/DOM hierarchy with 5 items, write the jQuery traversal query (such as using siblings(), :not(), or reverse selector/functionality) to select/call the siblings or the first 4 items excluding the last one. Given specific tasks/requirements, write the corresponding jQuery method for each: ​Adding a CSS class to an element ​Removing a CSS class from an element ​Toggling a CSS class ​Setting content/value of an element Identify and write the correct HTML5 Canvas methods/properties based on the given functional descriptions: ​Getting 2D context (getContext("2d")) ​Clearing/removing a specific area (clearRect) ​Adding/drawing a filled rectangle (fillRect) ​Drawing an outline rectangle (strokeRect) Write a custom jQuery function to calculate the sum of numbers and show the syntax/code to call/recall that function. #Me Zahra...🌚💅🏻🙂"
+
+*KEY POINTS / TOPICS:*
+📍 ​Part 1: Short Questions
+📍 ​Question 1:
+📍 ​Question 2:
+📍 ​Question 3:
+📍 ​Question 4:
+📍 ​Part 2: Long Questions
+📍 ​Question 1: jQuery Class & Content Methods
+📍 ​Question 2: HTML5 Canvas Functionality Identification
+📍 ​Question 3: jQuery Custom Function & Recall
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* :)
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Cs202 Pop tha Shift DTD stands for Xpath stands for No conflict wala tha aik XML mai se b thy CSS 3 mai  se b thy jis mai border weghera ka btana tha HTML mai se b 1,2 thy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy....
+📍 jQuery mai se zyada mcqs cover thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* :)
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Cs202 Pop tha Shift DTD stands for Xpath stands for No conflict wala tha aik XML mai se b thy CSS 3 mai  se b thy jis mai border weghera ka btana tha HTML mai se b 1,2 thy"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs easy thy....
+📍 jQuery mai se zyada mcqs cover thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 28-08-2026 | ⏰ 04:30 PM
+
+💬 "even odd check krna h Aur aik aya tha mouseleave ka function syntax Aur aik tha k video ki width aur height given thi aur likhna tha k automatically kaisy play hogi Aur aik tha k agr html ki file h aur us m apny jQuery k code Sy select krna h (Wording as it is yaad ni h so isi Sy kaam chla lijye box-shadow  ye given tha 15px 5px 8px grey Aur aik code given tha us m pop kr k 2 test ki output likhni thi"
+
+*KEY POINTS / TOPICS:*
+✅ Select All elements in the list
+✅ Select All elements in the list before at the start mtlb before Sy ho aur start tk jaey
+✅ Select All elements in the list after to end( mtlb k after Sy ly k end tk)
+✅ Select all elements in the list between 2 elements
+✅ Select  only one list to follow the specific element
+📍 Aur 1 question tha k box shadow vala jis m aik line ka code likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Eman
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "*cs202 paper done*  bahot easy paper tha mcq almost easy thy quiz 3 aur 4 kr le aur  aik file kr le web dev wali and aik vu toolkit k mcq kr le and long question xml wala tha xml ki definition thi and true aur false btana tha 5 marks ka and aik create a tag of following definitions kuch tag bnany thy aik ka mark tag tha aik <figcaption> aur sary tag achy sy kr lijiye ga html k aur  aik tha write the attribue and value of div to make moveable for user and aik  animate ka jquery synatx likhna tha mcq mix thy bas yahi yad hn. Baki bhol gya🫡"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 28-08-2026 | ⏰ 04:30 PM
+
+💬 "even odd check krna h Aur aik aya tha mouseleave ka function syntax Aur aik tha k video ki width aur height given thi aur likhna tha k automatically kaisy play hogi Aur aik tha k agr html ki file h aur us m apny jQuery k code Sy select krna h (Wording as it is yaad ni h so isi Sy kaam chla lijye box-shadow  ye given tha 15px 5px 8px grey Aur aik code given tha us m pop kr k 2 test ki output likhni thi"
+
+*KEY POINTS / TOPICS:*
+✅ Select All elements in the list
+✅ Select All elements in the list before at the start mtlb before Sy ho aur start tk jaey
+✅ Select All elements in the list after to end( mtlb k after Sy ly k end tk)
+✅ Select all elements in the list between 2 elements
+✅ Select  only one list to follow the specific element
+📍 Aur 1 question tha k box shadow vala jis m aik line ka code likhna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Eman
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "*cs202 paper done*  bahot easy paper tha mcq almost easy thy quiz 3 aur 4 kr le aur  aik file kr le web dev wali and aik vu toolkit k mcq kr le and long question xml wala tha xml ki definition thi and true aur false btana tha 5 marks ka and aik create a tag of following definitions kuch tag bnany thy aik ka mark tag tha aik <figcaption> aur sary tag achy sy kr lijiye ga html k aur  aik tha write the attribue and value of div to make moveable for user and aik  animate ka jquery synatx likhna tha mcq mix thy bas yahi yad hn. Baki bhol gya🫡"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Uzair Ali
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "*CS202* MCQs conceptual but easy thy,,,aik McQ tha k HTML5 ka multimedia feature kis cheez pr reliance kam karta hai,,aur koi ni yaad,,, *SQs:* *LQs:* overall exam easy tha tqreebn,,,Baqi preparation videos aur current exam reviews dekhen,,,, InshaaAllah 💠 sae ho jaye ga👍🏻,,,"
+
+*KEY POINTS / TOPICS:*
+✅ Code given tha POP and elementbyID Wala method use Kiya hua tha,, uper test 1 and 2 likha tha <p> tag k Sath aur dono tests ki Output btani thi
+✅ 2 3 lines ka Short sa code given tha koi 2 3 lines ka,,, btn likh kr *mouseleave* k bary tha ,,tou iss MN fill in the blanks MN missing code likhna tha ,,,wo me ne *mouseleave* e likh diya bss fill in the blank mn,,qk baqi Sara function likha tha pehly hee
+✅ CSS3 ki two characteristics k name puchy gaye thy, shadow aur ik aur cheez k hwaly se
+✅ Xpath likhna tha ,,Kuch iss hwaly se e tha ,abb sai yaad ni
+✅ Current reviews MN Jo table pehly se btaya gya h Wohi open.widow close window Wala wo Aya tha,,just koi 4 method name likhny thy table mn, ;method like *open.window()* etc.
+✅ koi 5 scenarios diye huy thy,, identify krna tha k hr aik k Liye Kon Kon sa jQuery method appropriate rhy ga(yani hr aik given scenario k Liye aik aik jQuery method btana tha)
+✅ A Table of SVG vs Canvas was Given. We are required only to tell that True/False for each statement.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Uzair Ali
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "*CS202* MCQs conceptual but easy thy,,,aik McQ tha k HTML5 ka multimedia feature kis cheez pr reliance kam karta hai,,aur koi ni yaad,,, *SQs:* *LQs:* overall exam easy tha tqreebn,,,Baqi preparation videos aur current exam reviews dekhen,,,, InshaaAllah 💠 sae ho jaye ga👍🏻,,,"
+
+*KEY POINTS / TOPICS:*
+✅ Code given tha POP and elementbyID Wala method use Kiya hua tha,, uper test 1 and 2 likha tha <p> tag k Sath aur dono tests ki Output btani thi
+✅ 2 3 lines ka Short sa code given tha koi 2 3 lines ka,,, btn likh kr *mouseleave* k bary tha ,,tou iss MN fill in the blanks MN missing code likhna tha ,,,wo me ne *mouseleave* e likh diya bss fill in the blank mn,,qk baqi Sara function likha tha pehly hee
+✅ CSS3 ki two characteristics k name puchy gaye thy, shadow aur ik aur cheez k hwaly se
+✅ Xpath likhna tha ,,Kuch iss hwaly se e tha ,abb sai yaad ni
+✅ Current reviews MN Jo table pehly se btaya gya h Wohi open.widow close window Wala wo Aya tha,,just koi 4 method name likhny thy table mn, ;method like *open.window()* etc.
+✅ koi 5 scenarios diye huy thy,, identify krna tha k hr aik k Liye Kon Kon sa jQuery method appropriate rhy ga(yani hr aik given scenario k Liye aik aik jQuery method btana tha)
+✅ A Table of SVG vs Canvas was Given. We are required only to tell that True/False for each statement.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* Hafsa
+📅 *Date:* 27-07-2026 | ⏰ 12:0 PM
+
+💬 "DTD Ki statement as it is thi bs true or false btana tha Aik code ki output likhni thi A= 9/0 B=-5/0 C= A+B Output likhni thi table Mai Or aik Mai JS code likhna tha Best of luck to all of you"
+
+*KEY POINTS / TOPICS:*
+📍 Paper mai mcqs handouts se thy past paper mai se zyada nhi aye thy na mcqs videos Mai se
+📍 Short Mai
+📍 Baki yaad ni or aik long tha so Css manipulation Mai se add remove toggle or css Wala
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* Hafsa
+📅 *Date:* 27-07-2026 | ⏰ 12:0 PM
+
+💬 "DTD Ki statement as it is thi bs true or false btana tha Aik code ki output likhni thi A= 9/0 B=-5/0 C= A+B Output likhni thi table Mai Or aik Mai JS code likhna tha Best of luck to all of you"
+
+*KEY POINTS / TOPICS:*
+📍 Paper mai mcqs handouts se thy past paper mai se zyada nhi aye thy na mcqs videos Mai se
+📍 Short Mai
+📍 Baki yaad ni or aik long tha so Css manipulation Mai se add remove toggle or css Wala
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* AbdulRehman Azhar
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Total paper was conceptual HTML attributes How to access an object with given value, Functions names used to make XMLHTTPRequest. L.Q HTML tags An XML Code with 'Product' element has three child elements as 'Name' 'ID' and 'Price' with all required XML mandatory closing Boundaries. How to show a class blue and id red in jQuery"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were from almost all topics,
+📍 Short Question
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* Ali
+📅 *Date:* 26-07-2026 | ⏰ 10:00 AM
+
+💬 "Hii . Ppr moderate tha nah ziada mushkil tha na ziada asan . 1.With error code. Snippet dea gya tha us mai sy error ko remove karna tha  classes and object mai sy tha ."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs ziada mai takreeban sary topics mai sy Thy .
+📍 Short question .
+📍 1.Program sy ghaltio ko remove kar  correct code daina tha .bahot easy topic datatypes ar simple  assignment operator .
+✅ Get() ,put(),getline() ,putline() kon se stream k functions hai inputstream ya output stream
+📍 TOPIC (STREAM)
+✅ Wo kon sa  topic hai jis mai ham ak he naam k ak sy ziada function banaty hain same he file mai . (Definition of function ovetloading )
+✅ Program linkhna tha jis mai buffer sy string ko read karna tha .(buffer topic)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* Ali
+📅 *Date:* 26-07-2026 | ⏰ 10:00 AM
+
+💬 "Hii . Ppr moderate tha nah ziada mushkil tha na ziada asan . 1.With error code. Snippet dea gya tha us mai sy error ko remove karna tha  classes and object mai sy tha ."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs ziada mai takreeban sary topics mai sy Thy .
+📍 Short question .
+📍 1.Program sy ghaltio ko remove kar  correct code daina tha .bahot easy topic datatypes ar simple  assignment operator .
+✅ Get() ,put(),getline() ,putline() kon se stream k functions hai inputstream ya output stream
+📍 TOPIC (STREAM)
+✅ Wo kon sa  topic hai jis mai ham ak he naam k ak sy ziada function banaty hain same he file mai . (Definition of function ovetloading )
+✅ Program linkhna tha jis mai buffer sy string ko read karna tha .(buffer topic)
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "* * $("button").click(function(){ $("p").hide(); }); }); *"
+
+*KEY POINTS / TOPICS:*
+✅ *MCQs*
+✅ ready(),
+✅ which command is used to highlight important text
+✅ what is output of typeof[1,2,3]
+✅ if radius is 15px 50px, 15px will used for which corners.
+✅ how to show regular expression (code was given in mcq)
+✅ pop() ka aik mcq tha
+✅ typeof NaN
+✅ which is reserved word(value)
+✅ which command is used to make animation repeated infinitely
+✅ command to start animation after passing one second of clicking
+✅ on(),
+✅ Typeof()
+✅ Selector ()
+✅ Which symbol is used to select the whole document  $(document)
+✅ div $("p"). hide() used for
+✅ attach multiple event handlers by using on()
+✅ . Slidetoggle() is used for
+✅ syntax for linear gradient
+✅ syntax for linear gradient with repeat
+✅ to move an object 50px right and 200 px down which command is used.
+✅ *short questions*
+✅ true false from
+✅ a table was given for writing a code's output
+✅ write any three global functions which can converts variables to numbers
+✅ this code was given for detailed output description, (didn't know whther it was long or short)$(document).ready(function(){
+✅ *long questions*
+✅ true false from parentuntil()
+✅ if width is 100%, calculate width of one column out of 12 and write exact answer
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Umer Ayyub
+📅 *Date:* 27-07-2001 | ⏰ 08:00 AM
+
+💬 "Mostly about the JQuery Statement btani thi true ha ya false about the difference between CANVAS and SVG write the syntax of write the xml gives the element name like "status""
+
+*KEY POINTS / TOPICS:*
+📍 MCQs conceptual thy specifically kisi file ya video sy nh thy
+📍 ap jo bhi file kary tou mcqs ka concept smjhy
+📍 break(),continue() statement used in loops and give output code ka output btana tha 1 long 1 shoot
+📍 short ma jquery ki dimensions command likhni th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "* * $("button").click(function(){ $("p").hide(); }); }); *"
+
+*KEY POINTS / TOPICS:*
+✅ *MCQs*
+✅ ready(),
+✅ which command is used to highlight important text
+✅ what is output of typeof[1,2,3]
+✅ if radius is 15px 50px, 15px will used for which corners.
+✅ how to show regular expression (code was given in mcq)
+✅ pop() ka aik mcq tha
+✅ typeof NaN
+✅ which is reserved word(value)
+✅ which command is used to make animation repeated infinitely
+✅ command to start animation after passing one second of clicking
+✅ on(),
+✅ Typeof()
+✅ Selector ()
+✅ Which symbol is used to select the whole document  $(document)
+✅ div $("p"). hide() used for
+✅ attach multiple event handlers by using on()
+✅ . Slidetoggle() is used for
+✅ syntax for linear gradient
+✅ syntax for linear gradient with repeat
+✅ to move an object 50px right and 200 px down which command is used.
+✅ *short questions*
+✅ true false from
+✅ a table was given for writing a code's output
+✅ write any three global functions which can converts variables to numbers
+✅ this code was given for detailed output description, (didn't know whther it was long or short)$(document).ready(function(){
+✅ *long questions*
+✅ true false from parentuntil()
+✅ if width is 100%, calculate width of one column out of 12 and write exact answer
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* Umer Ayyub
+📅 *Date:* 27-07-2001 | ⏰ 08:00 AM
+
+💬 "Mostly about the JQuery Statement btani thi true ha ya false about the difference between CANVAS and SVG write the syntax of write the xml gives the element name like "status""
+
+*KEY POINTS / TOPICS:*
+📍 MCQs conceptual thy specifically kisi file ya video sy nh thy
+📍 ap jo bhi file kary tou mcqs ka concept smjhy
+📍 break(),continue() statement used in loops and give output code ka output btana tha 1 long 1 shoot
+📍 short ma jquery ki dimensions command likhni th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* Abdullah Nisar
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "* * $("button").click(function(){ $("p").hide(); }); }); *"
+
+*KEY POINTS / TOPICS:*
+✅ *MCQs*
+✅ ready(),
+✅ which command is used to highlight important text
+✅ what is output of typeof[1,2,3]
+✅ if radius is 15px 50px, 15px will used for which corners.
+✅ how to show regular expression (code was given in mcq)
+✅ pop() ka aik mcq tha
+✅ typeof NaN
+✅ which is reserved word(value)
+✅ which command is used to make animation repeated infinitely
+✅ command to start animation after passing one second of clicking
+✅ on(),
+✅ Typeof()
+✅ Selector ()
+✅ Which symbol is used to select the whole document  $(document)
+✅ div $("p"). hide() used for
+✅ attach multiple event handlers by using on()
+✅ . Slidetoggle() is used for
+✅ syntax for linear gradient
+✅ syntax for linear gradient with repeat
+✅ to move an object 50px right and 200 px down which command is used.
+✅ *short questions*
+✅ true false from
+✅ a table was given for writing a code's output
+✅ write any three global functions which can converts variables to numbers
+✅ this code was given for detailed output description, (didn't know whther it was long or short)$(document).ready(function(){
+✅ *long questions*
+✅ true false from parentuntil()
+✅ if width is 100%, calculate width of one column out of 12 and write exact answer
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* Umer Ayyub
+📅 *Date:* 27-07-2001 | ⏰ 08:00 AM
+
+💬 "Mostly about the JQuery Statement btani thi true ha ya false about the difference between CANVAS and SVG write the syntax of write the xml gives the element name like "status""
+
+*KEY POINTS / TOPICS:*
+📍 MCQs conceptual thy specifically kisi file ya video sy nh thy
+📍 ap jo bhi file kary tou mcqs ka concept smjhy
+📍 break(),continue() statement used in loops and give output code ka output btana tha 1 long 1 shoot
+📍 short ma jquery ki dimensions command likhni th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Vu std
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "*Cs202* paper review 3)Code lines di then 1 line men class =red thi aur aik men id = red to class air id selctor use kr k in k elements ko selct krne k liye JQuery code lines likhni then"
+
+*KEY POINTS / TOPICS:*
+📍 *Short Q*
+✅ Write 3 global JS functions that convert variables into text.
+✅ height ko smoothly change krna h at 4s to transition ki property aur value likhni thi
+✅ Assume an array named friends with several objects.Write code line for update in array in very first element which is "Yasir".
+✅ div pr css property apply krni thi
+📍 *Long Q*
+✅ Senerio doye the 5 btana tha k in sab pr konsa single JQuery method apply hota h
+✅ Write single line of Css code for box-shadow property with 15px horizontal offset,8px vertical offset,5px blur offset and color is grey.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Vu std
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "*Cs202* paper review 3)Code lines di then 1 line men class =red thi aur aik men id = red to class air id selctor use kr k in k elements ko selct krne k liye JQuery code lines likhni then"
+
+*KEY POINTS / TOPICS:*
+📍 *Short Q*
+✅ Write 3 global JS functions that convert variables into text.
+✅ height ko smoothly change krna h at 4s to transition ki property aur value likhni thi
+✅ Assume an array named friends with several objects.Write code line for update in array in very first element which is "Yasir".
+✅ div pr css property apply krni thi
+📍 *Long Q*
+✅ Senerio doye the 5 btana tha k in sab pr konsa single JQuery method apply hota h
+✅ Write single line of Css code for box-shadow property with 15px horizontal offset,8px vertical offset,5px blur offset and color is grey.

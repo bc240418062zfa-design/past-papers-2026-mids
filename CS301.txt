@@ -1,0 +1,633 @@
+📢 *SUBJECT: CS301*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Seemab fatima
+📅 *Date:* 04-08-2026 | ⏰ 04:30 PM
+
+💬 "Prepare these videos for best preparation: AVL treee most imp Arrays Types of Rotations Binary Search tree Heap Balancing of tree factor Also must remember the names of all scientists Best of Luck"
+
+*KEY POINTS / TOPICS:*
+✅ VU talk (Both parts)
+✅ MOBIZ knowledge korner
+📍 IMP topics:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Seemab fatima
+📅 *Date:* 04-08-2026 | ⏰ 04:30 PM
+
+💬 "Prepare these videos for best preparation: AVL treee most imp Arrays Types of Rotations Binary Search tree Heap Balancing of tree factor Also must remember the names of all scientists Best of Luck"
+
+*KEY POINTS / TOPICS:*
+✅ VU talk (Both parts)
+✅ MOBIZ knowledge korner
+📍 IMP topics:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Abdul
+📅 *Date:* 01-07-2026 | ⏰ 12:00 PM
+
+💬 "conceptual thy agr ap kise ke b file ready kr rhy hain kindly concept clear krlena A.i se one by one sab mcqs ko explain krwa lena apky mcqs ka portion achy se ho jaye ga file ko ratta mat lagana sirf concept clear krlena chahay ap kise ke b file se kr rhy. bas aik mcqs muje yad ha vo b meny glt laga dea shyd mcqs hy huffman code ka founder kon ha meny john huffman laga deya shyd ye glt ha. Q1: question es type ka tha like 45 is an internal value then what will be the external value? jasy ky apko pta ha internal N-1 hota ha and ecternal N+1 hota so es ka answer 45 + 1 = 46 tha ese thra ka aik ho question tha us mai external de hoe the internal btane the. Q2: values de hote the like 33,54,65,23,67,54,87 min heap tree construct krna tha. Q3: aik tree dea hua tha left left rotation us ko simple balance krna tha. Q4: code dea hua tha enqueue dequeue type ka output find krna tha simple. Q1: values de hoe the random like 22,33,45,65,78,98,09,67,54,45,67 final max heap tree construct krna tha. Q2: hashing wla aik tha like table dea hua tha left digits already fill the right wale fill krne the kuch values question mai given the like 2,5,6,10,3 or formula be dea tha (2x + 1)mod 7 es thra final value nikal kr table fill krna tha accordingly. Q3: code dea hua tha complete krna tha mid se. CS301 KI ACHY SE PREPARTION KRLO CS301P AUTOMATICALLY HOJAYE GA PREPARE"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs:
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Abdul
+📅 *Date:* 01-07-2026 | ⏰ 12:00 PM
+
+💬 "conceptual thy agr ap kise ke b file ready kr rhy hain kindly concept clear krlena A.i se one by one sab mcqs ko explain krwa lena apky mcqs ka portion achy se ho jaye ga file ko ratta mat lagana sirf concept clear krlena chahay ap kise ke b file se kr rhy. bas aik mcqs muje yad ha vo b meny glt laga dea shyd mcqs hy huffman code ka founder kon ha meny john huffman laga deya shyd ye glt ha. Q1: question es type ka tha like 45 is an internal value then what will be the external value? jasy ky apko pta ha internal N-1 hota ha and ecternal N+1 hota so es ka answer 45 + 1 = 46 tha ese thra ka aik ho question tha us mai external de hoe the internal btane the. Q2: values de hote the like 33,54,65,23,67,54,87 min heap tree construct krna tha. Q3: aik tree dea hua tha left left rotation us ko simple balance krna tha. Q4: code dea hua tha enqueue dequeue type ka output find krna tha simple. Q1: values de hoe the random like 22,33,45,65,78,98,09,67,54,45,67 final max heap tree construct krna tha. Q2: hashing wla aik tha like table dea hua tha left digits already fill the right wale fill krne the kuch values question mai given the like 2,5,6,10,3 or formula be dea tha (2x + 1)mod 7 es thra final value nikal kr table fill krna tha accordingly. Q3: code dea hua tha complete krna tha mid se. CS301 KI ACHY SE PREPARTION KRLO CS301P AUTOMATICALLY HOJAYE GA PREPARE"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs:
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Aiman
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "mcqs easy tha minheap ma sa tha external internal tha kuch arry dia howa tha  insert sort karna tha   hash ka bara ma 3 mcqs tha mushkil tha wo kafii tree tha 2 btana tha kon si roaton laga gi or ya complete binary trr baana ga   A or B part tha ak ma nodes btani thi hight 5 ki edge kar ka arry tha us na btana tha ka after 10 delect karna sa finnals kia arry bana ga sara banaan para fir finnal answer aya tha inset sort ka tha hash ka tha bs yahi yad ha BEST OF LUCK"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs file or VU concept channla ki youtube videos dakhna sa or paradox ka mcqs karna sa almost cover ho gaii tha mcqs
+📍 short ma
+📍 or long ma
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Aiman
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "mcqs easy tha minheap ma sa tha external internal tha kuch arry dia howa tha  insert sort karna tha   hash ka bara ma 3 mcqs tha mushkil tha wo kafii tree tha 2 btana tha kon si roaton laga gi or ya complete binary trr baana ga   A or B part tha ak ma nodes btani thi hight 5 ki edge kar ka arry tha us na btana tha ka after 10 delect karna sa finnals kia arry bana ga sara banaan para fir finnal answer aya tha inset sort ka tha hash ka tha bs yahi yad ha BEST OF LUCK"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs file or VU concept channla ki youtube videos dakhna sa or paradox ka mcqs karna sa almost cover ho gaii tha mcqs
+📍 short ma
+📍 or long ma
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Ayesha
+📅 *Date:* 27-07-2026 | ⏰ 12:30 PM
+
+💬 "AK node insert kar ka balance Karna tha"
+
+*KEY POINTS / TOPICS:*
+📍 Paper bhot easy tha min heap tree build Karna tha long tha
+📍 Short ma 1 code Wala tha yaaad nhi
+📍 Baki bi paper khafi easy tha zyda tar world of education ki videos sa Aya paradox ka mcqs tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* ELARAA
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Overall paper wasn't difficult dont stress divasss                                                                                                                                                                        Q1:  A tree with n nodes has how many: a) Links b) Internal Links c) External Links d) External Nodes Q2:  In the dynamic equivalence problem, Si ∪ Sj = Sk (where S is the name of the set): a)What is this operation called? b)What is its functionality? Q3: Given values 1, 5, 4, 7 and hash function h(x) = (x+3) % 4, apply linear probing and show the array indices. Q4: In Max Heap and Min Heap, where are the largest and smallest elements stored respectively? Q5: An AVL tree was given; delete node 85 and rebalance the tree. Q6: Given the array 58, 48, 78, 64, 12, 98, 99, 100... find 98 using sequential search. How many times does the for loop run? Q7: Draw a min heap from the values: 3, 1, 6, 5, 2, 4."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* ELARAA
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Overall paper wasn't difficult dont stress divasss                                                                                                                                                                        Q1:  A tree with n nodes has how many: a) Links b) Internal Links c) External Links d) External Nodes Q2:  In the dynamic equivalence problem, Si ∪ Sj = Sk (where S is the name of the set): a)What is this operation called? b)What is its functionality? Q3: Given values 1, 5, 4, 7 and hash function h(x) = (x+3) % 4, apply linear probing and show the array indices. Q4: In Max Heap and Min Heap, where are the largest and smallest elements stored respectively? Q5: An AVL tree was given; delete node 85 and rebalance the tree. Q6: Given the array 58, 48, 78, 64, 12, 98, 99, 100... find 98 using sequential search. How many times does the for loop run? Q7: Draw a min heap from the values: 3, 1, 6, 5, 2, 4."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Sugar Daddy
+📅 *Date:* 30-12-2026 | ⏰ 10:00 AM
+
+💬 "لَا إِلٰهَ إِلَّا اللّٰهُ مُحَمَّدٌ رَّسُولُ اللّٰهِ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ Paper Mostely conceptual tha... Hashing mn sy BST tree bana tha...or sath mn path likha hova tha ...k 1 sy 10 k path mn maximum number konsa ho ga to us k leye tree bana kr path find kr k phir btana pry ga Parse tree. Expression tree tha or expression bnani thi Or MCQ's zeyada tr conceptual thy.....Handouts ko Notebooklm pr de kr 500 MCQ's generate krwa kr prepare kr lena achy sa"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Sugar Daddy
+📅 *Date:* 30-12-2026 | ⏰ 10:00 AM
+
+💬 "لَا إِلٰهَ إِلَّا اللّٰهُ مُحَمَّدٌ رَّسُولُ اللّٰهِ بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ Paper Mostely conceptual tha... Hashing mn sy BST tree bana tha...or sath mn path likha hova tha ...k 1 sy 10 k path mn maximum number konsa ho ga to us k leye tree bana kr path find kr k phir btana pry ga Parse tree. Expression tree tha or expression bnani thi Or MCQ's zeyada tr conceptual thy.....Handouts ko Notebooklm pr de kr 500 MCQ's generate krwa kr prepare kr lena achy sa"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Bilal Ahmad
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "VU Talk ki 2 preparation video must watch karo 2hour ki aik aik video hain lazmi watch karo concept bi clear hogy ga. subjective part bi"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from Vu toolkit plus conceptual bi thay kuch.
+📍 Subjective mostly from AVL tree sy tha
+📍 kst learning ki short lecture watch karo.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Bilal Ahmad
+📅 *Date:* 28-07-2026 | ⏰ 06:30 PM
+
+💬 "VU Talk ki 2 preparation video must watch karo 2hour ki aik aik video hain lazmi watch karo concept bi clear hogy ga. subjective part bi"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly from Vu toolkit plus conceptual bi thay kuch.
+📍 Subjective mostly from AVL tree sy tha
+📍 kst learning ki short lecture watch karo.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* A
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Given AVL Tree and 2 more nodes in it and balanced it Draw AVL tree of 3,4,5,6 Parse tree bnana thaa (5*4)+3 is tara ka ku6 thaa"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS :Mostly vu toolkit se thee ur ku6 handout se
+📍 Objective:
+📍 short me trees bnane thee and ku6 me node  remove kr ke unko balance krna thaa
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* A
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Given AVL Tree and 2 more nodes in it and balanced it Draw AVL tree of 3,4,5,6 Parse tree bnana thaa (5*4)+3 is tara ka ku6 thaa"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS :Mostly vu toolkit se thee ur ku6 handout se
+📍 Objective:
+📍 short me trees bnane thee and ku6 me node  remove kr ke unko balance krna thaa
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* A
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Given AVL Tree and 2 more nodes in it and balanced it Draw AVL tree of 3,4,5,6 Parse tree bnana thaa (5*4)+3 is tara ka ku6 thaa"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS :Mostly vu toolkit se thee ur ku6 handout se
+📍 Objective:
+📍 short me trees bnane thee and ku6 me node  remove kr ke unko balance krna thaa
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* Nobody
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "Draw expression tree Formula of finding mid value in BST Output Draw AVL tree of 1 ,2,3,4,5 Union by weight"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were from all handouts
+📍 Short question
+📍 Long questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* Misbah
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs : sab vu toolkit mn se thy
+📍 Short mein trees banany thy or long mn b trees e banany thy kuch mn node remove krky unko balance krna tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* Mishi
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS301 ka Paper sahi ayaa tha object mostly inhi videos Main say thi orr thory say conceptual thy aik mcq thaa "who introduce tha idea of Skip list" or subj bhi shai thi aik main tree bana thaa min heap ka value dye hoi thi unho nay, or aik kaa AVL tree ko balance karnaa thaa, aik main unhi nay binary tree ka algorithm ka code diaa thaa uska output likhna thaa or aik main code main error find karnaa thaa, aik main unho nay 2 Array boxes dyte thy jis main agar value greater than or equal to 5 thi usk box ko red color karna thaa or Joh value less than 5 thi us box ko green color karnaa thaa, or aik main values or index dye hoyee thy usko Heap max ka hisab say arrange karnye Array form main bana kar likhna thaa overall paper easy thhaa concept clear hoo tuh in topics ko achy say kar lyee selection sort, insertion sort, bubble sort(in sub ka formulas ) AVL tree, binary tree, binary search tree, complete binary search tree, Huffman coding *CS301 Final Term Preparation Videos List* https://youtu.be/st_9RPz3hYM?si=ckHvPj2vU9ZokreW https://youtu.be/7xyXChPFao4?si=4yj6EFZPxamNaa0p https://youtu.be/0kBr11eu-ew?si=Ed74_ULCJAnsMciX https://youtu.be/6dVPKu0MLU8?si=Gvhs9Xb6BqBYzaG_ https://youtu.be/M9wga5HiIZI?si=qeGWvnvFXwoDNStB https://youtu.be/RGSCMgvtUsQ?si=_zHMtGAh11KkqVZH https://youtu.be/QuLfGvlQDFQ?si=2onv8Q1Mx40bDs2M https://youtu.be/O182RsCNHF0?si=_sMspNXPebjSXjQB https://youtu.be/3gYBrqbvD9M?si=Mrw0KaxGhuXnj4Jg https://youtu.be/myJBeZCK37s?si=M5dluRePGICrbDxo https://youtu.be/bKAZLzYVF_c?si=ARqN5Z5XcxLXRzYc"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Mishi
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "CS301 ka Paper sahi ayaa tha object mostly inhi videos Main say thi orr thory say conceptual thy aik mcq thaa "who introduce tha idea of Skip list" or subj bhi shai thi aik main tree bana thaa min heap ka value dye hoi thi unho nay, or aik kaa AVL tree ko balance karnaa thaa, aik main unhi nay binary tree ka algorithm ka code diaa thaa uska output likhna thaa or aik main code main error find karnaa thaa, aik main unho nay 2 Array boxes dyte thy jis main agar value greater than or equal to 5 thi usk box ko red color karna thaa or Joh value less than 5 thi us box ko green color karnaa thaa, or aik main values or index dye hoyee thy usko Heap max ka hisab say arrange karnye Array form main bana kar likhna thaa overall paper easy thhaa concept clear hoo tuh in topics ko achy say kar lyee selection sort, insertion sort, bubble sort(in sub ka formulas ) AVL tree, binary tree, binary search tree, complete binary search tree, Huffman coding *CS301 Final Term Preparation Videos List* https://youtu.be/st_9RPz3hYM?si=ckHvPj2vU9ZokreW https://youtu.be/7xyXChPFao4?si=4yj6EFZPxamNaa0p https://youtu.be/0kBr11eu-ew?si=Ed74_ULCJAnsMciX https://youtu.be/6dVPKu0MLU8?si=Gvhs9Xb6BqBYzaG_ https://youtu.be/M9wga5HiIZI?si=qeGWvnvFXwoDNStB https://youtu.be/RGSCMgvtUsQ?si=_zHMtGAh11KkqVZH https://youtu.be/QuLfGvlQDFQ?si=2onv8Q1Mx40bDs2M https://youtu.be/O182RsCNHF0?si=_sMspNXPebjSXjQB https://youtu.be/3gYBrqbvD9M?si=Mrw0KaxGhuXnj4Jg https://youtu.be/myJBeZCK37s?si=M5dluRePGICrbDxo https://youtu.be/bKAZLzYVF_c?si=ARqN5Z5XcxLXRzYc"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* Rubi
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper mostly last waly chapters mein sy tha ...mcqs to bhut conceptual thy aur handouts ki theory mein sy ziada mcqs thy .. Aik mein code dia tha us mein copy constructor bnana tha .."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein mostly errors aur output thy ..
+📍 Aik short tha k write the names of  STL components
+📍 Baqi overall subjective bhut easy thi aur Mcqs ziada theory aur last chapters mein sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Rubi
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper mostly last waly chapters mein sy tha ...mcqs to bhut conceptual thy aur handouts ki theory mein sy ziada mcqs thy .. Aik mein code dia tha us mein copy constructor bnana tha .."
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein mostly errors aur output thy ..
+📍 Aik short tha k write the names of  STL components
+📍 Baqi overall subjective bhut easy thi aur Mcqs ziada theory aur last chapters mein sy thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* Ammarah
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Apny handouts achy sy par k jayain main ny paradox k saray mcqs kiye thy laikin wahan ay aik b nahi aya ...main ny saray trees prepare kiye thy laikin un main sy aik b mcqs nahi aya mujhay to smj hi nahi aya ....ap sab apny handouts achi tarah prepare kar lain main ny wohi nahi kiye thy to main b isi waja sy bura gya paper"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* Qa
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Binary Search Tree, AVL Tree, Rotations Union types, Huffman Encoding Infix & Postfix, Relations Heap (Min & Max), Hashing Sorting (Selection, Insertion, Bubble) Queue Programming part: Sorting ke programs diye hote hain, half code hota hai jo complete karna hota hai. prepration :  2 cs301 kee videos hain VU talk kee wo dekh lein lakin uss ma kuch topic missing ha jis k lea aap kst learing kee videos dekh skty ho aur lab 4 sa onward jitny b hain sab dekh k jyain practicle ka paper b easily ho jya ga"
+
+*KEY POINTS / TOPICS:*
+📍 CS301 / CS301P paper conceptual tha aur mostly handouts se aya. Important topics:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* Ammarah
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Apny handouts achy sy par k jayain main ny paradox k saray mcqs kiye thy laikin wahan ay aik b nahi aya ...main ny saray trees prepare kiye thy laikin un main sy aik b mcqs nahi aya mujhay to smj hi nahi aya ....ap sab apny handouts achi tarah prepare kar lain main ny wohi nahi kiye thy to main b isi waja sy bura gya paper"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Qa
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Binary Search Tree, AVL Tree, Rotations Union types, Huffman Encoding Infix & Postfix, Relations Heap (Min & Max), Hashing Sorting (Selection, Insertion, Bubble) Queue Programming part: Sorting ke programs diye hote hain, half code hota hai jo complete karna hota hai. prepration :  2 cs301 kee videos hain VU talk kee wo dekh lein lakin uss ma kuch topic missing ha jis k lea aap kst learing kee videos dekh skty ho aur lab 4 sa onward jitny b hain sab dekh k jyain practicle ka paper b easily ho jya ga"
+
+*KEY POINTS / TOPICS:*
+📍 CS301 / CS301P paper conceptual tha aur mostly handouts se aya. Important topics:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Mudassra
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Date 27,8,2026 ppr cs301 In max and min heap what is the order of large and small node Kuch asa sawal tha Aik tha KY parent left child right konsi hai mtlb formula likhna tha Aik AVL tree tha us me aik nide left me add krein to kitni rotation lgy gi aik write me add krey to kitni Max heap delete krni thi (d*e)+F draw expression tree Aik me linear probing X+3%4 ye formula tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs files sy thy 10 or Kuch conceptual thy
+📍 Short questions
+📍 Aik insertion sort short question
+📍 Long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #28*
+👤 *Shared by:* Mudassra
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Date 27,8,2026 ppr cs301 In max and min heap what is the order of large and small node Kuch asa sawal tha Aik tha KY parent left child right konsi hai mtlb formula likhna tha Aik AVL tree tha us me aik nide left me add krein to kitni rotation lgy gi aik write me add krey to kitni Max heap delete krni thi (d*e)+F draw expression tree Aik me linear probing X+3%4 ye formula tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs files sy thy 10 or Kuch conceptual thy
+📍 Short questions
+📍 Aik insertion sort short question
+📍 Long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #29*
+👤 *Shared by:* Muhammad Abdullah
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+💬 "MCQS maximum PARADOX ki mcqs website se thy, eik short me tree or uski bits given thi , bits ko tree se match kr ke word btana tha jo bnta tha, eik short or long me code given tha uska algorithm btana tha kn sa use use hua, eik short me BST ko AVL tree me convert krna tha, Eik short me AVL tree balance krna tha, Eik long me AVL max heap ka tree given tha usme eik max heap 70 insert krni thi, eik union wala tha usme array ko given union data ke according update krna tha, OverAll booht asan tha."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #30*
+👤 *Shared by:* Syed Nalain Abbas
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs were almost conceptual jo samaj hi ni arhy thy kaha sy agy 🥲. Prepare Handouts extensively AVL Tree and last 5-6 Algorithms Lectures are very important. Short and Long Questions were a bit easy mostly to build AVL tree or tell elementary algorithm names. Best of Luck 🤞"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #31*
+👤 *Shared by:* Muhammad Abdullah
+📅 *Date:* 27-07-2026 | ⏰ 06:30 PM
+
+💬 "MCQS maximum PARADOX ki mcqs website se thy, eik short me tree or uski bits given thi , bits ko tree se match kr ke word btana tha jo bnta tha, eik short or long me code given tha uska algorithm btana tha kn sa use use hua, eik short me BST ko AVL tree me convert krna tha, Eik short me AVL tree balance krna tha, Eik long me AVL max heap ka tree given tha usme eik max heap 70 insert krni thi, eik union wala tha usme array ko given union data ke according update krna tha, OverAll booht asan tha."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #32*
+👤 *Shared by:* Syed Nalain Abbas
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs were almost conceptual jo samaj hi ni arhy thy kaha sy agy 🥲. Prepare Handouts extensively AVL Tree and last 5-6 Algorithms Lectures are very important. Short and Long Questions were a bit easy mostly to build AVL tree or tell elementary algorithm names. Best of Luck 🤞"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #33*
+👤 *Shared by:* Syed Nalain Abbas
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs301P Paper Review 2.Avl Tree rotations 4.Inorder successor 5.Which is not elementary algorithm 6.Inorder traversal 7.Linear Probing in Hashing 8.running time case of Selection sort 9.how many iteration in binary search array given 10.find parent of node in array 11.which node in avl tree is unbalanced, tree given 12.union by height To ye tha sara papers razi rehna Vu students 🙃"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS were very easy mostly from handouts   1.Queues
+✅ Huffman coding introduced in
+✅ Union by weight
+✅ Linear probing disadvantage
+✅ Which data structure contains next elements information
+✅ Postfix expression
+✅ Binary sort
+✅ Balance Avl tree
+📍 Long Questions
+✅ Given a AVL tree add 2 more nodes in it and balance it.
+✅ Write Build Heap Code
+✅ Binary search algorithm code output
+✅ Implement getnext and setnext functions of Linked List
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #34*
+👤 *Shared by:* Syed Nalain Abbas
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Cs301P Paper Review 2.Avl Tree rotations 4.Inorder successor 5.Which is not elementary algorithm 6.Inorder traversal 7.Linear Probing in Hashing 8.running time case of Selection sort 9.how many iteration in binary search array given 10.find parent of node in array 11.which node in avl tree is unbalanced, tree given 12.union by height To ye tha sara papers razi rehna Vu students 🙃"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS were very easy mostly from handouts   1.Queues
+✅ Huffman coding introduced in
+✅ Union by weight
+✅ Linear probing disadvantage
+✅ Which data structure contains next elements information
+✅ Postfix expression
+✅ Binary sort
+✅ Balance Avl tree
+📍 Long Questions
+✅ Given a AVL tree add 2 more nodes in it and balance it.
+✅ Write Build Heap Code
+✅ Binary search algorithm code output
+✅ Implement getnext and setnext functions of Linked List
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #35*
+👤 *Shared by:* Iqra
+📅 *Date:* 27-07-2026 | ⏰ 02:30 PM
+
+💬 "SQ 1 divide and conquer m konsi sorting algorithm ni hota wo 3 nam likhna tha ( selection, insertion, bubble) 2 avl tree tha insert krni thi value or balance krna tha 3 min heap tree bna tha 4 data table k topic m s tha two parameters diye the identify krna tha Key and value kis operation k liye hota operation find and remove LQ 1 Union by size k tree bna tha (1,2)(1,7)(8,9)3,8)(9,1) 2 binary tree k N Internal nodes is m links kitna hon gya internal links kitna hon gya external links kya hon or external nodes? 3 Sort k pora algorithm array solve kia tha pocha tha k konsa sort ?"
+
+*KEY POINTS / TOPICS:*
+📍 Aoa Mcq world of education ki preparation video s tha ir handout s tha sorting nodes avl pixel un topic m s zyda tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #36*
+👤 *Shared by:* Naam main kia rkha ha
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Aur code tha error find krna tha Ek max heap aur min heap se tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mobiz ki subjective aur objective zror watch krain mcqs thay us main se aur concepts bi clear ho jaty
+📍 Baki paper main short expression dia tha uska tree bnana tha aur ek tree tha uska expression btana tha
+📍 Long Hoffman se tha code dia tha character btany thy
+📍 Ek short skip list se tha k hamain agr element na mile kahi bi to kia return hoga
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #37*
+👤 *Shared by:* Naam main kia rkha ha
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Aur code tha error find krna tha Ek max heap aur min heap se tha"
+
+*KEY POINTS / TOPICS:*
+📍 Mobiz ki subjective aur objective zror watch krain mcqs thay us main se aur concepts bi clear ho jaty
+📍 Baki paper main short expression dia tha uska tree bnana tha aur ek tree tha uska expression btana tha
+📍 Long Hoffman se tha code dia tha character btany thy
+📍 Ek short skip list se tha k hamain agr element na mile kahi bi to kia return hoga
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #38*
+👤 *Shared by:* ADAN Raza
+📅 *Date:* 27-12-2026 | ⏰ 12:00 PM
+
+💬 "Paper so easy Arry max heap ka bana na tha Ak external or internal sa tha Or last yad ni"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly MCQ paradox file
+📍 Short Question internal or external ka concept clear kr lain
+📍 Equilence property ka question tha
+📍 Long may
+📍 Ak. QUESTION KI TOH SAMJ NHI AYI
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #39*
+👤 *Shared by:* ADAN Raza
+📅 *Date:* 27-12-2026 | ⏰ 12:00 PM
+
+💬 "Paper so easy Arry max heap ka bana na tha Ak external or internal sa tha Or last yad ni"
+
+*KEY POINTS / TOPICS:*
+📍 Mostly MCQ paradox file
+📍 Short Question internal or external ka concept clear kr lain
+📍 Equilence property ka question tha
+📍 Long may
+📍 Ak. QUESTION KI TOH SAMJ NHI AYI
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #40*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 27-12-2026 | ⏰ 12:00 PM
+
+💬 "Asslamualaimum cs301 ppr done ❤️ Kuch conceptual thy ..or highlighted handouts lazmi read kriay ga .... skip list wla tha ik 3 Properties of equilance relation 4 external ke value de the internal nodes find krna tha Internal ki value de the external nodes find krna tha 1 yd ni a rha🥲 1. Ik program aya tha mid low high kuch tha is trha sy us ke output btani thi 2 Ik handouts sy aya tha k alpha ka kuch tha us m ik new node insert kro left subtree py  to wo unblanance ho jta hai  to btana tha k kitne rotations lgy ge balance krny m....  same right subtree py node ko imsert kro to unbalance ho jati hai balance krny m kitne rotations lg ge To is ka ans tha k singal rotation apply krain gy to balance ho jy ga ... 3. Ik huffman tree dia hua tha A B C ke code  bitstream de hui thi A. 0.  B 10.    C 110. 0101100110 is ko decode krna tha characters m 4 Parse tree bnana tha (d*e)+f Highlited handouts apko ik yt channel hai Is k comment m handouts ka link hai highligted wo bht help krain gy lzmi prhiay ga ..... JazakAllah 🥰"
+
+*KEY POINTS / TOPICS:*
+📍 Most of the mcqs from world of education final term preparation videos (3)
+📍 Short
+📍 Long
+📍 "vu concept" ke final video mcqs ke
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #41*
+👤 *Shared by:* Honey 🌸
+📅 *Date:* 27-12-2026 | ⏰ 12:00 PM
+
+💬 "Asslamualaimum cs301 ppr done ❤️ Kuch conceptual thy ..or highlighted handouts lazmi read kriay ga .... skip list wla tha ik 3 Properties of equilance relation 4 external ke value de the internal nodes find krna tha Internal ki value de the external nodes find krna tha 1 yd ni a rha🥲 1. Ik program aya tha mid low high kuch tha is trha sy us ke output btani thi 2 Ik handouts sy aya tha k alpha ka kuch tha us m ik new node insert kro left subtree py  to wo unblanance ho jta hai  to btana tha k kitne rotations lgy ge balance krny m....  same right subtree py node ko imsert kro to unbalance ho jati hai balance krny m kitne rotations lg ge To is ka ans tha k singal rotation apply krain gy to balance ho jy ga ... 3. Ik huffman tree dia hua tha A B C ke code  bitstream de hui thi A. 0.  B 10.    C 110. 0101100110 is ko decode krna tha characters m 4 Parse tree bnana tha (d*e)+f Highlited handouts apko ik yt channel hai Is k comment m handouts ka link hai highligted wo bht help krain gy lzmi prhiay ga ..... JazakAllah 🥰"
+
+*KEY POINTS / TOPICS:*
+📍 Most of the mcqs from world of education final term preparation videos (3)
+📍 Short
+📍 Long
+📍 "vu concept" ke final video mcqs ke
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #42*
+👤 *Shared by:* Fiza
+📅 *Date:* 27-07-2026 | ⏰ 01:30 PM
+
+💬 "CS301 ka paper 80% conceptual tha MCQs almost extension my sy hi thy or subjective bhi MCQs ki tarha hi conceptual thy.....Overall paper bus theek hi tha....."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #43*
+👤 *Shared by:* Fiza
+📅 *Date:* 27-07-2026 | ⏰ 01:30 PM
+
+💬 "CS301 ka paper 80% conceptual tha MCQs almost extension my sy hi thy or subjective bhi MCQs ki tarha hi conceptual thy.....Overall paper bus theek hi tha....."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #44*
+👤 *Shared by:* Kuch Bhi Nhi
+📅 *Date:* 25-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs thory difficult thy .. or short mn ek output btani the .. dosra min or max heap kia hn .. 3sra ek tree diya huwa tha btana tha k min hai ya max .. 4tha ek arry di huwi the mid find krna tha .. 5va yaad nhi 🥲 or long .. ek mn tree bnana tha ek value insert krni the phir roatate kr k final tree .... 2sra ek code tha maxheap ka us myn error find krny thy.. 3ra us myn equivelence relation btana tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #45*
+👤 *Shared by:* Kuch Bhi Nhi
+📅 *Date:* 25-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs thory difficult thy .. or short mn ek output btani the .. dosra min or max heap kia hn .. 3sra ek tree diya huwa tha btana tha k min hai ya max .. 4tha ek arry di huwi the mid find krna tha .. 5va yaad nhi 🥲 or long .. ek mn tree bnana tha ek value insert krni the phir roatate kr k final tree .... 2sra ek code tha maxheap ka us myn error find krny thy.. 3ra us myn equivelence relation btana tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #46*
+👤 *Shared by:* the intelligent girl
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Long question MN aik Huffman coding Wala tha... Aik tree diya gya tha or  A B C D E ki coding values likhni thi... easy tha ye.. Mcqs MN ye thy k . Huffman coding kis NY introduce krwai ...skip list ka idea kis ka tha... hashing waly topic MN Sy thy Kuch....Baki yad ni aa rhy ...Itny py hi guzara kren ....🙂"
+
+*KEY POINTS / TOPICS:*
+📍 Aik long question MN min heap di Gai thi or uska array bnana tha...
+📍 Aik long question hashing MN Sy tha mjy ni pta wo kesy krna tha...
+📍 Shirt question MN aik expression diya gya tha like 48 + 84 + / ...iska tres bnana tha...
+📍 Aik or short MN aik tree diya gya tha uska expression likhna tha ye b easy tha ...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #47*
+👤 *Shared by:* the intelligent girl
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Long question MN aik Huffman coding Wala tha... Aik tree diya gya tha or  A B C D E ki coding values likhni thi... easy tha ye.. Mcqs MN ye thy k . Huffman coding kis NY introduce krwai ...skip list ka idea kis ka tha... hashing waly topic MN Sy thy Kuch....Baki yad ni aa rhy ...Itny py hi guzara kren ....🙂"
+
+*KEY POINTS / TOPICS:*
+📍 Aik long question MN min heap di Gai thi or uska array bnana tha...
+📍 Aik long question hashing MN Sy tha mjy ni pta wo kesy krna tha...
+📍 Shirt question MN aik expression diya gya tha like 48 + 84 + / ...iska tres bnana tha...
+📍 Aik or short MN aik tree diya gya tha uska expression likhna tha ye b easy tha ...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #48*
+👤 *Shared by:* Eman
+📅 *Date:* 27-07-2026 | ⏰ 8 AM
+
+💬 "this review is for the paper cs301 PRACTICAL!!!!! mcqs mostly past papers sy thy easy thy subjective me aiik question tha binary search tree algorithm ka code dia hua tha output btani thi aik tha ky queue function likhna tha aur 2 names thy unk queue me add krna tha aik tree traversal order wala tha aur last queue ka code tha jisme output btani thi ky values enqueue dequeue hony ky baad kya y"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #49*
+👤 *Shared by:* Eman
+📅 *Date:* 27-07-2026 | ⏰ 8 AM
+
+💬 "this review is for the paper cs301 PRACTICAL!!!!! mcqs mostly past papers sy thy easy thy subjective me aiik question tha binary search tree algorithm ka code dia hua tha output btani thi aik tha ky queue function likhna tha aur 2 names thy unk queue me add krna tha aik tree traversal order wala tha aur last queue ka code tha jisme output btani thi ky values enqueue dequeue hony ky baad kya y"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #50*
+👤 *Shared by:* Eman
+📅 *Date:* 27-07-2026 | ⏰ 8 AM
+
+💬 "this review is for the paper cs301 PRACTICAL!!!!! mcqs mostly past papers sy thy easy thy subjective me aiik question tha binary search tree algorithm ka code dia hua tha output btani thi aik tha ky queue function likhna tha aur 2 names thy unk queue me add krna tha aik tree traversal order wala tha aur last queue ka code tha jisme output btani thi ky values enqueue dequeue hony ky baad kya y"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #51*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Or AK question ma tree Bnani thii rotation Kr ka or AK question conceptual Tha equivalance relation ka related thy  or AK question ma skip list ma AK value insert krni thii AK ma equivalence relation btany thy Baki overall normal he Tha paper"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handout Sa he thy kuch quiz files ma Sa bi thy
+📍 Short ma infix tree ka expression likhna Tha
+📍 Long ma parse tree Bnani thii ya mushkil Tha
+📍 ak question ma bubble sorting krni thii
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #52*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Or AK ma min heap ke array create krni thii after applying  heapify"
+
+*KEY POINTS / TOPICS:*
+📍 AJ Mera cs301p ka paper Tha mcqs from handout
+📍 Questions ma 2 ma code ke output thani thii or AK ma code likhna Tha for percolate
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #53*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Or AK question ma tree Bnani thii rotation Kr ka or AK question conceptual Tha equivalance relation ka related thy  or AK question ma skip list ma AK value insert krni thii AK ma equivalence relation btany thy Baki overall normal he Tha paper"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs handout Sa he thy kuch quiz files ma Sa bi thy
+📍 Short ma infix tree ka expression likhna Tha
+📍 Long ma parse tree Bnani thii ya mushkil Tha
+📍 ak question ma bubble sorting krni thii
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #54*
+👤 *Shared by:* Fatima
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Or AK ma min heap ke array create krni thii after applying  heapify"
+
+*KEY POINTS / TOPICS:*
+📍 AJ Mera cs301p ka paper Tha mcqs from handout
+📍 Questions ma 2 ma code ke output thani thii or AK ma code likhna Tha for percolate

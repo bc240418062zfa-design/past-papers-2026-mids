@@ -1,0 +1,58 @@
+📢 *SUBJECT: CS521*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Syeda Kazmi
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Zada tar VUGangter ki youtube wali video sy aye mostly 3)What is SEO.write two types of SEO 3)write down java script code to display "Hello world" on the click event of the button"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+📍 1)Query string wala question tha
+✅ Type of form validation
+✅ define class creation
+📍 Long
+✅ Write php creat class Car with variables, "make","model", "year" implement a constructor that take three parameters to initialize these variable
+✅ write java script code that add event Listener button with id(myButton) when the button is clicked display an alert with the message"button clicked" on the click event of button
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Syeda Kazmi
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "Zada tar VUGangter ki youtube wali video sy aye mostly 3)What is SEO.write two types of SEO 3)write down java script code to display "Hello world" on the click event of the button"
+
+*KEY POINTS / TOPICS:*
+📍 Short question
+📍 1)Query string wala question tha
+✅ Type of form validation
+✅ define class creation
+📍 Long
+✅ Write php creat class Car with variables, "make","model", "year" implement a constructor that take three parameters to initialize these variable
+✅ write java script code that add event Listener button with id(myButton) when the button is clicked display an alert with the message"button clicked" on the click event of button
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* M Zia Malik
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "expalin karna tha validation ko.... broser main error ko pervent karny k kitny way hain .... 2 thay VUGangter video main bhi hai woh 2 num add karny thay .... php main .."
+
+*KEY POINTS / TOPICS:*
+📍 Objective sara VUGangster video on youtube 90% from aye aur
+📍 subjective main php k related tha ...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* M Zia Malik
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "expalin karna tha validation ko.... broser main error ko pervent karny k kitny way hain .... 2 thay VUGangter video main bhi hai woh 2 num add karny thay .... php main .."
+
+*KEY POINTS / TOPICS:*
+📍 Objective sara VUGangster video on youtube 90% from aye aur
+📍 subjective main php k related tha ...

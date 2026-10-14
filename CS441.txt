@@ -1,0 +1,102 @@
+📢 *SUBJECT: CS441*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Anonymous
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "*CS441 FINALTERM PAPER REVIEW* *30 JULY 2026* *08:00 AM* Indexing wala topic, machine learning k topic mn sy thy is k ilawa frequency document k topic mn sy thy in short mn ny handouts prhy thy to sary mcq solve ho gy thy don't worry easy thy. *1-* Hive k components k name pochy thy.. *2-* Machine learning ki application pochy hui thy koi five.. *5-* Is k ilawa concurrent crawler or basic crawler ka difference pocha hua tha like in mn sy beneficial Kon sa hy."
+
+*KEY POINTS / TOPICS:*
+📍 *MCQs:*
+📍 *Subjective:*
+📍 *3-* Frequency document mn sy bhi question thy..
+📍 *4-* Is k ilawa tables diye huwy thy or SQL ki queries likhni thi *2 Question* thy asy..
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Anonymous
+📅 *Date:* 30-07-2026 | ⏰ 08:00 AM
+
+💬 "*CS441 FINALTERM PAPER REVIEW* *30 JULY 2026* *08:00 AM* Indexing wala topic, machine learning k topic mn sy thy is k ilawa frequency document k topic mn sy thy in short mn ny handouts prhy thy to sary mcq solve ho gy thy don't worry easy thy. *1-* Hive k components k name pochy thy.. *2-* Machine learning ki application pochy hui thy koi five.. *5-* Is k ilawa concurrent crawler or basic crawler ka difference pocha hua tha like in mn sy beneficial Kon sa hy."
+
+*KEY POINTS / TOPICS:*
+📍 *MCQs:*
+📍 *Subjective:*
+📍 *3-* Frequency document mn sy bhi question thy..
+📍 *4-* Is k ilawa tables diye huwy thy or SQL ki queries likhni thi *2 Question* thy asy..
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Shanzy
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Course Code: CS441 Shared by : Shanzy🤍 Bs phir thak gai thi main🤧"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs :
+📍 Prepare mcqs from Vutoolkit Extention most of them were from Vutoolkit. Some of them are:
+✅ Input in sqoob
+✅ How write subset of col in sqoob
+✅ Mapreduce runs on...
+✅ How much stages of Mapreduce
+✅ MongoDB is example of...
+✅ Euclideon cluster have similarity with .... type of data
+✅ Contegnency table similarity with ... type of data
+✅ Not example of search engine....
+✅ Graph traversal Depth first search use ....
+✅ Search engine website
+✅ Ranking queries
+✅ Which one is not type of string HQL type
+✅ 100,000..... data type HQL
+✅ Basic indexing pipline include all except....
+✅ Jackard (A,A) =...
+✅ IDF and DFT related
+📍 Short Questions:
+✅ Any three features of HIVE
+✅ Concept of intra-class and inter-class in good clustering
+✅ Table was given calculate df of "BIG" ," Data"  , "Concept"
+✅ Name Node and Data Node
+📍 Long Questions:
+✅ MySQL table was given write HQL query on create table Eployee_database having same field , where field terminate \t and line terminate by\n
+✅ Inverted Index construction tokenization , token ID , generalized , sorting , posting list , create
+✅ Authorization Access in HB administration
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Shanzy
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Course Code: CS441 Shared by : Shanzy🤍 Bs phir thak gai thi main🤧"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs :
+📍 Prepare mcqs from Vutoolkit Extention most of them were from Vutoolkit. Some of them are:
+✅ Input in sqoob
+✅ How write subset of col in sqoob
+✅ Mapreduce runs on...
+✅ How much stages of Mapreduce
+✅ MongoDB is example of...
+✅ Euclideon cluster have similarity with .... type of data
+✅ Contegnency table similarity with ... type of data
+✅ Not example of search engine....
+✅ Graph traversal Depth first search use ....
+✅ Search engine website
+✅ Ranking queries
+✅ Which one is not type of string HQL type
+✅ 100,000..... data type HQL
+✅ Basic indexing pipline include all except....
+✅ Jackard (A,A) =...
+✅ IDF and DFT related
+📍 Short Questions:
+✅ Any three features of HIVE
+✅ Concept of intra-class and inter-class in good clustering
+✅ Table was given calculate df of "BIG" ," Data"  , "Concept"
+✅ Name Node and Data Node
+📍 Long Questions:
+✅ MySQL table was given write HQL query on create table Eployee_database having same field , where field terminate \t and line terminate by\n
+✅ Inverted Index construction tokenization , token ID , generalized , sorting , posting list , create
+✅ Authorization Access in HB administration

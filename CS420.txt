@@ -1,0 +1,86 @@
+📢 *SUBJECT: CS420*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Unknown
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "1.Q: Which one is not a chrome development tool? A. Elements    B. Console  C. Source   D. Destination✅ A. 05 mm X 05 mm    B. 20 mm X 20 mm    C. 10 mm X 10 mm✅      D. 15 mm X 15 mm 3 . _________ is a horizontal coordinate of point relative to viewport, excluding scroll offset. A. ScreenX           B. ClientX✅             C. PageX               D. TiltX A. Pointer Events Package          B. Pointer Events Polyfill ✅          C. Pointer End Package         D. Pointer End Polyfill 5.___________ tool is used for mobile application development. A. Notepad         B. Unity 3D ✅             C. Notepad++          D. Sublime A. Virtual Keyboards ✅               B. Physical Keyboards               C. On-Screen Keyboards              D. Ergonomic Keyboards A. EventListner                 B. EventHandler             C. TouchHandler  ✅           D. TouchListner A. document.getElementById()  ✅             B. page.getElementById( )            C. session.getElementById( )           D. scope.getElementById( ) A. Touch-action: Pan-y;            B. Touch-action: Pan-up;        C. Touch-action: Pan-down;       D. Touch-action: Manipulation  ( is trhan ky question statements confuse krti isy lazmi smjh kr krein) A. Directly✅     B. Inversely direct     C. Not proportional     D. Users A. Tabkey ✅     B. Altkey     C. metakey      D. ctrlKey Pointer✅ Pressure ✅ Date ✅ A. Equal      B. Larger✅   C. Smaller    D. None of the given Regular expression ✅ Required attribute and Place holder attribute ✅ constraints, successCallback, errorCallback A.Requirement ✅      B.Feature Register Event✅ A. both event type and even target            B. interface             C. event type ✅           D. event target A. X-ray        B. Proximity      C. Picture        D. Fingerprint Desktop ✅ A. QR Code  B. Bar Code   C. Taste ✅   D. (Picture/Image) Ans. <button id="submit">Send Answers</button> function touchHandler(event) { //write code here coords.innerHTML = 'x: ' + event.touches[0].pageX +    ', y: ' + event.touches[0].pageY; }      ( ye bi week 9 sy tha slide 15) search Email Tel Date Time"
+
+*KEY POINTS / TOPICS:*
+📍 MCQ'S
+✅ Size of Touch Area should be at-least ______.
+✅ What does PEP (library) stands for;
+✅ Which type of keyboards offered by mobile devices are physically smaller and usually more tedious to operate?
+✅ In the _______________ function we grab the x and y coordinates of the touch, and write them to the coordinates div.
+✅ Choose the correct option for identifying the touchzone div; var touchzone =  _______________ .getElementById( )
+✅ _____________the user agent may consider touches that begin on the element only for the purposes of vertically scrolling the element's nearest ancestor with vertically scrollable content.
+✅ Q: Google, Microsoft, Amazon, Facebook, and others all show that UI performance translates  _____________ to profit.
+✅ Q: ________ is Touch Event Attribute except:
+✅ Microsoft made a standards  proposal that reconciles touch events and mouse events and pen input too, into one model called pointer events.
+✅ Touch Events API was defined in terms of Touches, the Pointer Events API is defined in terms of
+✅ PointerEvent inherits and extends MouseEvent, so it has all the usual properties that MouseEvent has as well as a few additional ones:
+✅ ______________  input types makes it very easy to enter the date on Webpage
+✅ Q: Generally, desktops and laptops have a(an) ______ input device as compared to phones and tablets.
+✅ The pattern element takes_____________ as expressed by the java script.
+✅ Two Important Features of Input
+✅ Navigator.getUserMedia parameters:
+✅ Performance is a website ____________.
+✅ You can set the view port, to be non-scalable. Either, set user scalable, to no, or set minimum scale and maximum scale, to one. (is my sy ek mcq bna hwa tha)
+✅ .addEventListener() function is used:
+✅ The type that specifies what kind of event occurred is ______________
+✅ Q: Which of the following is NOT a mobile sensor?
+✅ that this feature only works in mobile, not in
+✅ ek mcq tha Q: Which of the following cannot be detected or recognized from a picture?
+📍 Short qs:
+✅ Which hashtag is used by the web developer Performance community for social media and news?
+✅ write code in HTML used Button id and displayed text "Send Answers" and ID submit.
+✅ In the touchHandler function we grab the x and y coordinates of the touch, and write them to the coords div:
+✅ Write code Html and accept attribute bi hona chahiye input type (ye week 14 uski accept attribute wla)
+📍 Long ques:
+✅ Consider HTML Code and write Javascript  (ye week 9 sy aya tha slide 11 sy html dia howa tha javascript likhni thi touchzone wli).
+✅ In touch interaction , define click delay. (most imp)
+✅ Write code in HTML Input types
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Unknown
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "1.Q: Which one is not a chrome development tool? A. Elements    B. Console  C. Source   D. Destination✅ A. 05 mm X 05 mm    B. 20 mm X 20 mm    C. 10 mm X 10 mm✅      D. 15 mm X 15 mm 3 . _________ is a horizontal coordinate of point relative to viewport, excluding scroll offset. A. ScreenX           B. ClientX✅             C. PageX               D. TiltX A. Pointer Events Package          B. Pointer Events Polyfill ✅          C. Pointer End Package         D. Pointer End Polyfill 5.___________ tool is used for mobile application development. A. Notepad         B. Unity 3D ✅             C. Notepad++          D. Sublime A. Virtual Keyboards ✅               B. Physical Keyboards               C. On-Screen Keyboards              D. Ergonomic Keyboards A. EventListner                 B. EventHandler             C. TouchHandler  ✅           D. TouchListner A. document.getElementById()  ✅             B. page.getElementById( )            C. session.getElementById( )           D. scope.getElementById( ) A. Touch-action: Pan-y;            B. Touch-action: Pan-up;        C. Touch-action: Pan-down;       D. Touch-action: Manipulation  ( is trhan ky question statements confuse krti isy lazmi smjh kr krein) A. Directly✅     B. Inversely direct     C. Not proportional     D. Users A. Tabkey ✅     B. Altkey     C. metakey      D. ctrlKey Pointer✅ Pressure ✅ Date ✅ A. Equal      B. Larger✅   C. Smaller    D. None of the given Regular expression ✅ Required attribute and Place holder attribute ✅ constraints, successCallback, errorCallback A.Requirement ✅      B.Feature Register Event✅ A. both event type and even target            B. interface             C. event type ✅           D. event target A. X-ray        B. Proximity      C. Picture        D. Fingerprint Desktop ✅ A. QR Code  B. Bar Code   C. Taste ✅   D. (Picture/Image) Ans. <button id="submit">Send Answers</button> function touchHandler(event) { //write code here coords.innerHTML = 'x: ' + event.touches[0].pageX +    ', y: ' + event.touches[0].pageY; }      ( ye bi week 9 sy tha slide 15) search Email Tel Date Time"
+
+*KEY POINTS / TOPICS:*
+📍 MCQ'S
+✅ Size of Touch Area should be at-least ______.
+✅ What does PEP (library) stands for;
+✅ Which type of keyboards offered by mobile devices are physically smaller and usually more tedious to operate?
+✅ In the _______________ function we grab the x and y coordinates of the touch, and write them to the coordinates div.
+✅ Choose the correct option for identifying the touchzone div; var touchzone =  _______________ .getElementById( )
+✅ _____________the user agent may consider touches that begin on the element only for the purposes of vertically scrolling the element's nearest ancestor with vertically scrollable content.
+✅ Q: Google, Microsoft, Amazon, Facebook, and others all show that UI performance translates  _____________ to profit.
+✅ Q: ________ is Touch Event Attribute except:
+✅ Microsoft made a standards  proposal that reconciles touch events and mouse events and pen input too, into one model called pointer events.
+✅ Touch Events API was defined in terms of Touches, the Pointer Events API is defined in terms of
+✅ PointerEvent inherits and extends MouseEvent, so it has all the usual properties that MouseEvent has as well as a few additional ones:
+✅ ______________  input types makes it very easy to enter the date on Webpage
+✅ Q: Generally, desktops and laptops have a(an) ______ input device as compared to phones and tablets.
+✅ The pattern element takes_____________ as expressed by the java script.
+✅ Two Important Features of Input
+✅ Navigator.getUserMedia parameters:
+✅ Performance is a website ____________.
+✅ You can set the view port, to be non-scalable. Either, set user scalable, to no, or set minimum scale and maximum scale, to one. (is my sy ek mcq bna hwa tha)
+✅ .addEventListener() function is used:
+✅ The type that specifies what kind of event occurred is ______________
+✅ Q: Which of the following is NOT a mobile sensor?
+✅ that this feature only works in mobile, not in
+✅ ek mcq tha Q: Which of the following cannot be detected or recognized from a picture?
+📍 Short qs:
+✅ Which hashtag is used by the web developer Performance community for social media and news?
+✅ write code in HTML used Button id and displayed text "Send Answers" and ID submit.
+✅ In the touchHandler function we grab the x and y coordinates of the touch, and write them to the coords div:
+✅ Write code Html and accept attribute bi hona chahiye input type (ye week 14 uski accept attribute wla)
+📍 Long ques:
+✅ Consider HTML Code and write Javascript  (ye week 9 sy aya tha slide 11 sy html dia howa tha javascript likhni thi touchzone wli).
+✅ In touch interaction , define click delay. (most imp)
+✅ Write code in HTML Input types

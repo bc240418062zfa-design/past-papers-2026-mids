@@ -1,0 +1,71 @@
+📢 *SUBJECT: CS511*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* unknown
+📅 *Date:* 04-08-2026 | ⏰ 02:30 PM
+
+💬 "Write two names of backend stacks in node.js? Write three patterns used for designing web applications? Write a php code to concatenate two values? Write a code to check cookie is set or not? Write php code to get first value from some site? is trha se tha kuch Write a php code to get the painting element from some function? is trha se tha Write a larvel code to access a site if found show about us page message?"
+
+*KEY POINTS / TOPICS:*
+📍 Objective:
+📍 Files ma se just 5-6 mcqs thy.
+📍 Output btane thy larvel k related bht se mcqs thy.
+📍 overall objective difficult thy
+📍 Subjective:
+📍 Short Questions:
+📍 Long question:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* M. Zia Ur Rehman Abbas
+📅 *Date:* 30-07-2026 | ⏰ 02:30 PM
+
+💬 "1- What are 2 backend servers of node.js 1- .php code se data values initialize kr k show krna thin 2- Laravel se b same krna tha but is mn "about" ki values show krna thin 3- .php ka code tha paragrah based 2 lines thin us mn just 1st paragraph ki actual value rkhty huye "Virtual University of Pakistan" show krna tha 5- .php ka program lkhna tha 6- Last b progra tha sahi yaad nh"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were easy. 2-4 Conceptual thy
+📍 Most Repeated Topics: Laravel, .php, Node.js, Webpage (Relevant)
+📍 Short:
+📍 Baqi short and long mn Programs thy .php k aur 1 Laravel ka
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* M. Zia Ur Rehman Abbas
+📅 *Date:* 30-07-2026 | ⏰ 02:30 PM
+
+💬 "1- What are 2 backend servers of node.js 1- .php code se data values initialize kr k show krna thin 2- Laravel se b same krna tha but is mn "about" ki values show krna thin 3- .php ka code tha paragrah based 2 lines thin us mn just 1st paragraph ki actual value rkhty huye "Virtual University of Pakistan" show krna tha 5- .php ka program lkhna tha 6- Last b progra tha sahi yaad nh"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs were easy. 2-4 Conceptual thy
+📍 Most Repeated Topics: Laravel, .php, Node.js, Webpage (Relevant)
+📍 Short:
+📍 Baqi short and long mn Programs thy .php k aur 1 Laravel ka
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Ahmed
+📅 *Date:* 27-07-2026 | ⏰ 09:00 AM
+
+💬 "Q1.Write the two views of laravel? Q2.What are the four methods of http at web service? Q3. What are the two backened servers of node.js? Q1. php code with classs initialize values Q2 php code to create data memvers then initialize valies and with the help of constructor parameter ? Q3. Php code with script ? Q4 php code like initializing something like that ."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were normal
+📍 3 theoretical questions
+📍 4 coding questions
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Ahmed
+📅 *Date:* 27-07-2026 | ⏰ 09:00 AM
+
+💬 "Q1.Write the two views of laravel? Q2.What are the four methods of http at web service? Q3. What are the two backened servers of node.js? Q1. php code with classs initialize values Q2 php code to create data memvers then initialize valies and with the help of constructor parameter ? Q3. Php code with script ? Q4 php code like initializing something like that ."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs were normal
+📍 3 theoretical questions
+📍 4 coding questions

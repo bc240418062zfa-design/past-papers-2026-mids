@@ -1,0 +1,222 @@
+📢 *SUBJECT: CS603*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* Anjali
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "File current paper by learning with Scorpio ya file thii.🙂 1:Categories of Structure in Architectural design? 2: SOA 3 types 3: which of the following are the possible refactoring applied duplicated code? Six categories dhi huwii Thi btana tha just in option mein hi apka answer tha...🫢 1: five Essential characteristics could composites 2: code given the ise briefly explain krna tha or change krna tha I think yahi thaa kuch aisa 😐 Over all paper to much conceptual ppts ko ache se kare her eik ko smjh kr parhe jo apko lagta nahi aye ghaa wo tu lazmi aye ghaa sara kar k jao bhaio or behano bakii Allah kare sa changiya. Dua mein yad rakhna is Angali ko bii inshallah ap sab bi pass ho jaye hyee inshallah Ameen sum Ameen ❤️✨ Best of luck guy'ssss🤞🏼                                                                                                                                                                                                                                             Reminder: Angali form pakstaniiii radhe radhe....🫢🙏🏻🙏🏻"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS
+📍 Conceptual thy or eik file se thy 17 MCQS repate huwe thy...
+📍 *Short question:*
+📍 *Long Question*
+📍 3: polymorphism is mein se tha yad nahiii hai abi yahii word yad bss is topic ko ap dekh lain ppts se topic 🥲🫢
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* Anjali
+📅 *Date:* 01-08-2026 | ⏰ 12:00 PM
+
+💬 "File current paper by learning with Scorpio ya file thii.🙂 1:Categories of Structure in Architectural design? 2: SOA 3 types 3: which of the following are the possible refactoring applied duplicated code? Six categories dhi huwii Thi btana tha just in option mein hi apka answer tha...🫢 1: five Essential characteristics could composites 2: code given the ise briefly explain krna tha or change krna tha I think yahi thaa kuch aisa 😐 Over all paper to much conceptual ppts ko ache se kare her eik ko smjh kr parhe jo apko lagta nahi aye ghaa wo tu lazmi aye ghaa sara kar k jao bhaio or behano bakii Allah kare sa changiya. Dua mein yad rakhna is Angali ko bii inshallah ap sab bi pass ho jaye hyee inshallah Ameen sum Ameen ❤️✨ Best of luck guy'ssss🤞🏼                                                                                                                                                                                                                                             Reminder: Angali form pakstaniiii radhe radhe....🫢🙏🏻🙏🏻"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS
+📍 Conceptual thy or eik file se thy 17 MCQS repate huwe thy...
+📍 *Short question:*
+📍 *Long Question*
+📍 3: polymorphism is mein se tha yad nahiii hai abi yahii word yad bss is topic ko ap dekh lain ppts se topic 🥲🫢
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Zainab
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Bloater 3 bad smell name 3 method to improve testability Artchyecture structure 3 catagories Why developer reluctance refactoring 3 points Ling: Cloud computing benefits Scenario: write 4 design principle fit in this scenario Observer,facade,state pattern write in correct column according to definations"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from handout and few were from vutoolkit
+📍 Short:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Zainab
+📅 *Date:* 31-07-2026 | ⏰ 10:00 AM
+
+💬 "Bloater 3 bad smell name 3 method to improve testability Artchyecture structure 3 catagories Why developer reluctance refactoring 3 points Ling: Cloud computing benefits Scenario: write 4 design principle fit in this scenario Observer,facade,state pattern write in correct column according to definations"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs from handout and few were from vutoolkit
+📍 Short:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Iska answer 1 ,4 and 5 thy Iska answer Client Server aur Pipe filter thy"
+
+*KEY POINTS / TOPICS:*
+📍 Cs603 k mery paper m 1 . question tha k why refactoring is useful
+✅ 4+1 view address to which architecture 3. 2 Benefits of consistent navigation architecture ya pattern tha ab confirm ni h
+✅ 3 challenges of SOA
+✅ Allocation is used to mapping between system and non system structure system . Write four example of non system structure that depends.
+✅ Dispensable is a category of bad smell in code, identify the different types of dispensables in code from given options.
+✅ Comments
+✅ Move method
+✅ Extract method
+✅ Duplicate code
+✅ Lazy class
+✅ Abstract class
+📍 Aur aik question tha C&C k structure any 2
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Rameen
+📅 *Date:* 30-07-2026 | ⏰ 02:30 PM
+
+💬 "♦️Categories of structures in architectural design ♦️why make safe refactoring ♦️ why developers reluctant to refactor ♦️examples of non-software elements ♦️ aik statement di thi btana tha knsi web application strategy ha statement ma ye words thy (Maintain user, durability, performance overhead, time-expiry ) ♦️1 statement thi architecture structure pattern identify krna tha"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️50% past papers waly thy baqi handouts sy thy
+📍 *Subjective*
+📍 ♦️Architecture address k topic sy tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Hizbullah
+📅 *Date:* 30-07-2026 | ⏰ 04:30 PM
+
+💬 "Iska answer 1 ,4 and 5 thy Iska answer Client Server aur Pipe filter thy"
+
+*KEY POINTS / TOPICS:*
+📍 Cs603 k mery paper m 1 . question tha k why refactoring is useful
+✅ 4+1 view address to which architecture 3. 2 Benefits of consistent navigation architecture ya pattern tha ab confirm ni h
+✅ 3 challenges of SOA
+✅ Allocation is used to mapping between system and non system structure system . Write four example of non system structure that depends.
+✅ Dispensable is a category of bad smell in code, identify the different types of dispensables in code from given options.
+✅ Comments
+✅ Move method
+✅ Extract method
+✅ Duplicate code
+✅ Lazy class
+✅ Abstract class
+📍 Aur aik question tha C&C k structure any 2
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Rameen
+📅 *Date:* 30-07-2026 | ⏰ 02:30 PM
+
+💬 "♦️Categories of structures in architectural design ♦️why make safe refactoring ♦️ why developers reluctant to refactor ♦️examples of non-software elements ♦️ aik statement di thi btana tha knsi web application strategy ha statement ma ye words thy (Maintain user, durability, performance overhead, time-expiry ) ♦️1 statement thi architecture structure pattern identify krna tha"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️50% past papers waly thy baqi handouts sy thy
+📍 *Subjective*
+📍 ♦️Architecture address k topic sy tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Pakistan
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Mam iqba video 19 min 20 sa 24 1.MCV Alhumdullah both acha paper hoia special thnk mam iqra"
+
+*KEY POINTS / TOPICS:*
+📍 McQ
+📍 Short l
+📍 Question
+✅ allocation structure type
+✅ Structure of architecture pattern
+✅ Refactoring
+✅ Could architecture
+📍 Long
+✅ Architecture principles any 4
+✅ Strategy pattern explain
+📍 20 plus mcq
+📍 2 short 2 long question aia th mam iqra ki video sa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Pakistan
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Mam iqba video 19 min 20 sa 24 1.MCV Alhumdullah both acha paper hoia special thnk mam iqra"
+
+*KEY POINTS / TOPICS:*
+📍 McQ
+📍 Short l
+📍 Question
+✅ allocation structure type
+✅ Structure of architecture pattern
+✅ Refactoring
+✅ Could architecture
+📍 Long
+✅ Architecture principles any 4
+✅ Strategy pattern explain
+📍 20 plus mcq
+📍 2 short 2 long question aia th mam iqra ki video sa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Pakistan
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Mam iqba video 19 min 20 sa 24 1.MCV Alhumdullah both acha paper hoia special thnk mam iqra"
+
+*KEY POINTS / TOPICS:*
+📍 McQ
+📍 Short l
+📍 Question
+✅ allocation structure type
+✅ Structure of architecture pattern
+✅ Refactoring
+✅ Could architecture
+📍 Long
+✅ Architecture principles any 4
+✅ Strategy pattern explain
+📍 20 plus mcq
+📍 2 short 2 long question aia th mam iqra ki video sa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "CS603 final term current paper 27 july 2026 Time Slot 12pm https://youtu.be/veOX6SBR3Z4?si=vZGQ8acfVPqEronZ (a) Composition (b) Encapsulation (c) Aggregation (d) Association Correct Answer: (a) Composition MCQ 11: At the time of designing phase of web application, you can achieve good performance by avoiding unnecessary ________ over the network. (a) Round Trips (b) Throughput (c) I/O operations (d) Data fragmentation Correct Answer: (a) Round Trips MCQ 17: Stateful applications can provide ________ as compared with stateless applications in the context of Microservice Architecture. (a) Better fault tolerance (b) Better performance (c) Worse fault tolerance (d) Worse performance Correct Answer: (b) Better performance (a) Fine-grained, architectural (b) Coarse-grained, design (c) Coarse-grained, architectural (d) Fine-grained, design Correct Answer: (c) Coarse-grained, architectural Q34: Making refactoring is very important and necessary. How can we make refactoring safe? Q35: Patterns can be categorized according to the type of architectural elements they use. You are required to enlist any two component-and-connector type patterns. Q36: Why developers are reluctant to refactor? Enlist any two reasons. Q37: Testability is a measure of how well your system or components allow you to create test criteria and execute tests to determine if the criteria are met. Write three methods to improve testability of an application. Q38: What are the key factors to consider when choosing "Architectural styles" for your application? Q39: As we know that refactoring is the process of changing a software system. It does not change the external behavior of the system but improves its internal structure. Mention at least four benefits of Refactoring? Q40: Enlist any three challenges faced by Service Oriented Architecture? Duaon ma Yaad rekhna ."
+
+*KEY POINTS / TOPICS:*
+📍 Objective Mcqs 50% sa zyada as it is ya same way ma ess learn with scorpio ka 34 mnutes ka video sa aya ,
+📍 Ya 4 mcqs meray Paper ma aya Thay Jo Video ma Mojood nai Hain Scorpio ka,
+📍 MCQ 2: Both strategy and design patterns are examples of ________ with delegation.
+📍 MCQ 24: Architectural patterns tend to more ________ and focus on ________ problems.
+📍 Subjective Questions meray Paper ma ya aya Thay:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Hatim Majeed Dotani
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "CS603 final term current paper 27 july 2026 Time Slot 12pm https://youtu.be/veOX6SBR3Z4?si=vZGQ8acfVPqEronZ (a) Composition (b) Encapsulation (c) Aggregation (d) Association Correct Answer: (a) Composition MCQ 11: At the time of designing phase of web application, you can achieve good performance by avoiding unnecessary ________ over the network. (a) Round Trips (b) Throughput (c) I/O operations (d) Data fragmentation Correct Answer: (a) Round Trips MCQ 17: Stateful applications can provide ________ as compared with stateless applications in the context of Microservice Architecture. (a) Better fault tolerance (b) Better performance (c) Worse fault tolerance (d) Worse performance Correct Answer: (b) Better performance (a) Fine-grained, architectural (b) Coarse-grained, design (c) Coarse-grained, architectural (d) Fine-grained, design Correct Answer: (c) Coarse-grained, architectural Q34: Making refactoring is very important and necessary. How can we make refactoring safe? Q35: Patterns can be categorized according to the type of architectural elements they use. You are required to enlist any two component-and-connector type patterns. Q36: Why developers are reluctant to refactor? Enlist any two reasons. Q37: Testability is a measure of how well your system or components allow you to create test criteria and execute tests to determine if the criteria are met. Write three methods to improve testability of an application. Q38: What are the key factors to consider when choosing "Architectural styles" for your application? Q39: As we know that refactoring is the process of changing a software system. It does not change the external behavior of the system but improves its internal structure. Mention at least four benefits of Refactoring? Q40: Enlist any three challenges faced by Service Oriented Architecture? Duaon ma Yaad rekhna ."
+
+*KEY POINTS / TOPICS:*
+📍 Objective Mcqs 50% sa zyada as it is ya same way ma ess learn with scorpio ka 34 mnutes ka video sa aya ,
+📍 Ya 4 mcqs meray Paper ma aya Thay Jo Video ma Mojood nai Hain Scorpio ka,
+📍 MCQ 2: Both strategy and design patterns are examples of ________ with delegation.
+📍 MCQ 24: Architectural patterns tend to more ________ and focus on ________ problems.
+📍 Subjective Questions meray Paper ma ya aya Thay:

@@ -1,0 +1,931 @@
+📢 *SUBJECT: CS201*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* kashaf
+📅 *Date:* 04-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper easy bhi tha or thora conceptual ...... 2 Shorts ma 1 questionma  program likhna tha malloc wla function sy tha baki do ma output likha tha or ak ma statement di thi apny batna tha ky ye kisy call krraha h pointer,reference,ya call by value ko...."
+
+*KEY POINTS / TOPICS:*
+✅ MCQS overall easy thy agr apko basic concept clear hon..
+📍 3 .Long ma 2 question ma program likhna tha or ak ma output dyni thi ....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* kashaf
+📅 *Date:* 04-08-2026 | ⏰ 12:00 PM
+
+💬 "Paper easy bhi tha or thora conceptual ...... 2 Shorts ma 1 questionma  program likhna tha malloc wla function sy tha baki do ma output likha tha or ak ma statement di thi apny batna tha ky ye kisy call krraha h pointer,reference,ya call by value ko...."
+
+*KEY POINTS / TOPICS:*
+✅ MCQS overall easy thy agr apko basic concept clear hon..
+📍 3 .Long ma 2 question ma program likhna tha or ak ma output dyni thi ....
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* 💫
+📅 *Date:* 04-08-2026 | ⏰ 11:00 AM
+
+💬 "Easy tha 🤭.. Jo phr ka giya tha wo hi Aya aga Jo ho ga qismat pa 😀"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "condition ak ma obj2=10+obj1 ka btna tha k kya chez khi gie ha ak ma destructor,default constructor and copy constructor ka btna tha according to given statement ak programm run krna tha  or ak ma code deya gya tha us code ko lay given statement kay mutabik usay likna tha kindly apnay concept clear lkr kay jain agar concept clear ha tou he ap paper kr pao gay paper bht mushkil aya tha sirf 20%he handouts ma say tha baki conceptual tha"
+
+*KEY POINTS / TOPICS:*
+📍 Paper 80%conceptual tha mcqs kuch waqar sidhu or vu toolkit k files say ay thy or kuch conceptual based thy
+📍 short or long ma bs ak k he output find krni thi ak ma cpp statement bnani the according to given
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Eman Fatima
+📅 *Date:* 04-08-2026 | ⏰ 08:00 AM
+
+💬 "condition ak ma obj2=10+obj1 ka btna tha k kya chez khi gie ha ak ma destructor,default constructor and copy constructor ka btna tha according to given statement ak programm run krna tha  or ak ma code deya gya tha us code ko lay given statement kay mutabik usay likna tha kindly apnay concept clear lkr kay jain agar concept clear ha tou he ap paper kr pao gay paper bht mushkil aya tha sirf 20%he handouts ma say tha baki conceptual tha"
+
+*KEY POINTS / TOPICS:*
+📍 Paper 80%conceptual tha mcqs kuch waqar sidhu or vu toolkit k files say ay thy or kuch conceptual based thy
+📍 short or long ma bs ak k he output find krni thi ak ma cpp statement bnani the according to given
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Syeda
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "Paper na zyada asan tha na zyada mushkil objective bohat asan tha sara conceptual tha paradox k mcqs lazmi karna or handouts bhi Why we use seekg(0,ios::end)before calling tellg() to determine the file length Aik mein date, day or year ko decrement operator use kar k code likhna tha or aik mein steam execution operator use kar k program ljkhna tha Last mein File mein batana tha k ios::out use karne k bad file kia show kare gi Operator overloading or functions overloading lazmi karna mera kafi paper usmein ne aya tha Best of luck for your exam and mere liye dua karna"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein aik mein error find karna tha or two mein output batani thi aik question  tha
+📍 Long mein programs likhe the two
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* Syeda
+📅 *Date:* 03-08-2026 | ⏰ 08:00 AM
+
+💬 "Paper na zyada asan tha na zyada mushkil objective bohat asan tha sara conceptual tha paradox k mcqs lazmi karna or handouts bhi Why we use seekg(0,ios::end)before calling tellg() to determine the file length Aik mein date, day or year ko decrement operator use kar k code likhna tha or aik mein steam execution operator use kar k program ljkhna tha Last mein File mein batana tha k ios::out use karne k bad file kia show kare gi Operator overloading or functions overloading lazmi karna mera kafi paper usmein ne aya tha Best of luck for your exam and mere liye dua karna"
+
+*KEY POINTS / TOPICS:*
+📍 Subjective mein aik mein error find karna tha or two mein output batani thi aik question  tha
+📍 Long mein programs likhe the two
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* Student
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Paper easy tha Mcqsa 3 sy 4 paradox waliya ay hoy thy 1 my output find krni thi 1 my calloc and mallloc ka syntax than 1 program tha us ko complete krna tha calloc function sy tha wo program"
+
+*KEY POINTS / TOPICS:*
+📍 Short question my overload function ka syntax or example thi
+📍 Long my
+📍 1 my output likhni thi or 1 question tha Jo binary operators sy related tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Student
+📅 *Date:* 03-08-2026 | ⏰ 10:00 AM
+
+💬 "Paper easy tha Mcqsa 3 sy 4 paradox waliya ay hoy thy 1 my output find krni thi 1 my calloc and mallloc ka syntax than 1 program tha us ko complete krna tha calloc function sy tha wo program"
+
+*KEY POINTS / TOPICS:*
+📍 Short question my overload function ka syntax or example thi
+📍 Long my
+📍 1 my output likhni thi or 1 question tha Jo binary operators sy related tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Fiza
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "MCQ conceptual thy or handouts sy thy output waly bi thy short main bi output find kr ni thi error waly thy or 2 program lkhny waly thy ek file wala tha us main for loop use kr ky English ky all character file main show kr wany thy dosra template function wala tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Fiza
+📅 *Date:* 02-08-2026 | ⏰ 10:00 AM
+
+💬 "MCQ conceptual thy or handouts sy thy output waly bi thy short main bi output find kr ni thi error waly thy or 2 program lkhny waly thy ek file wala tha us main for loop use kr ky English ky all character file main show kr wany thy dosra template function wala tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* RN
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 We kafi lengthy difficult tha. kuch question mujhey yad reh gaye hain.
+✅ Matric quesiton ka output nikalna hai. cout << arr[i*j*k]
+✅ hex and oct 10 and 12 key sath output dena hai
+✅ Class ka quesiton tha jis mai print karna tha course id, status and percentage.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* RN
+📅 *Date:* 29-07-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 We kafi lengthy difficult tha. kuch question mujhey yad reh gaye hain.
+✅ Matric quesiton ka output nikalna hai. cout << arr[i*j*k]
+✅ hex and oct 10 and 12 key sath output dena hai
+✅ Class ka quesiton tha jis mai print karna tha course id, status and percentage.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* sydabukhari
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslam o Alikum ager kesi ko program likhna nhi ata tu ap ye likh dain tu bhi kuch numbers tu dey dain gay na likhnay say behter hai ye likh dain cpp #include <iostream> using namespace std; int main() { int a; cin >> a; cout << a; return 0; } cpp #include <iostream> using namespace std; int main() { int n; cin >> n; for (int i = 1; i <= n; i++) { cout << i << " "; } return 0; } cpp #include <iostream> using namespace std; int main() { int a = 5; float b = 5.5; double c = 5.55; char d = 'A'; cout << a << " " << b << " " << c << " " << d; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; if (a > 5) { cout << "Big"; } else { cout << "Small"; } return 0; } cpp #include <iostream> using namespace std; class Student { public: int roll; string name; }; int main() { Student s; s.roll = 1; s.name = "Ali"; cout << s.roll << " " << s.name; return 0; } cpp #include <iostream> using namespace std; int main() { int *p = new int; *p = 10; cout << *p; delete p; return 0; } cpp #include <iostream> using namespace std; template <class T> T add(T a, T b) { return a + b; } int main() { cout << add(5, 10); return 0; } cpp #include <iostream> using namespace std; class A { public: int x; A operator+(A obj) { A temp; temp.x = x + obj.x; return temp; } }; int main() { A a1, a2, a3; a1.x = 5; a2.x = 10; a3 = a1 + a2; cout << a3.x; return 0; } cpp #include <iostream> using namespace std; int add(int a, int b) { return a + b; } float add(float a, float b) { return a + b; } int main() { cout << add(5, 10) << endl; cout << add(5.5f, 2.5f); return 0; } cpp #include <iostream> using namespace std; class Outer { public: class Inner { public: int x = 5; }; }; int main() { Outer::Inner obj; cout << obj.x; return 0; } cpp #include <iostream> using namespace std; class A { int x = 10; public: friend void show(A obj); }; void show(A obj) { cout << obj.x; } int main() { A a; show(a); return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int *p = &a; cout << *p; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int &ref = a; ref = 20; cout << a; return 0; } cpp #include <fstream> #include <iostream> using namespace std; int main() { ofstream fout("data.txt"); fout << "Hello"; fout.close(); cout << "Data written to file"; return 0; } cpp #include <iostream> using namespace std; class A { public: A() { cout << "Constructor called"; } ~A() { cout << "Destructor called"; } }; int main() { A obj; return 0; } jazakillah and Best of luck everyone mere liay bhi zaror dua kriya ga Fi Aman illah"
+
+*KEY POINTS / TOPICS:*
+📍 CS201 and CS201P ka paper overall conceptual ata hai: subjective and objective dono hi
+📍 subjective main kuch ki output batani hoti hai aur kuch proper program likhna hota template ka program aya tha
+✅ cin, cout
+✅ Loops
+✅ Data types
+✅ if, else, switch
+✅ struct, class
+✅ new, delete
+✅ template
+✅ operator overloading
+✅ function overloading
+✅ nested class
+✅ friend function
+✅ pointers
+✅ references
+✅ file handling
+✅ constructor, destructor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #15*
+👤 *Shared by:* sydabukhari
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslam o Alikum everyone ! paper sara conceptual tha CS201 ka aur CS201P ka bhi MCqs mixed thay na easy na itnay tough concept clear hun tu samjh ajati hai kuch paradox bhaiya kay notes main say bhi ay thay Thank you bro baki jin students ko program bana na nhi ata wo bs basic sa sikh lain ya rata laga lain zeyda ter tu output hi find krni hoti hai aur ager program pora likhna ho tu ye saray yaad rekh lain 1. cin, cout cpp #include <iostream> using namespace std; int main() { int a; cin >> a; cout << a; return 0; } cpp #include <iostream> using namespace std; int main() { int n; cin >> n; for (int i = 1; i <= n; i++) { cout << i << " "; } return 0; } cpp #include <iostream> using namespace std; int main() { int a = 5; float b = 5.5; double c = 5.55; char d = 'A'; cout << a << " " << b << " " << c << " " << d; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; if (a > 5) { cout << "Big"; } else { cout << "Small"; } return 0; } cpp #include <iostream> using namespace std; class Student { public: int roll; string name; }; int main() { Student s; s.roll = 1; s.name = "Ali"; cout << s.roll << " " << s.name; return 0; } cpp #include <iostream> using namespace std; int main() { int *p = new int; *p = 10; cout << *p; delete p; return 0; } cpp #include <iostream> using namespace std; template <class T> T add(T a, T b) { return a + b; } int main() { cout << add(5, 10); return 0; } cpp #include <iostream> using namespace std; class A { public: int x; A operator+(A obj) { A temp; temp.x = x + obj.x; return temp; } }; int main() { A a1, a2, a3; a1.x = 5; a2.x = 10; a3 = a1 + a2; cout << a3.x; return 0; } cpp #include <iostream> using namespace std; int add(int a, int b) { return a + b; } float add(float a, float b) { return a + b; } int main() { cout << add(5, 10) << endl; cout << add(5.5f, 2.5f); return 0; } cpp #include <iostream> using namespace std; class Outer { public: class Inner { public: int x = 5; }; }; int main() { Outer::Inner obj; cout << obj.x; return 0; } cpp #include <iostream> using namespace std; class A { int x = 10; public: friend void show(A obj); }; void show(A obj) { cout << obj.x; } int main() { A a; show(a); return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int *p = &a; cout << *p; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int &ref = a; ref = 20; cout << a; return 0; } cpp #include <fstream> #include <iostream> using namespace std; int main() { ofstream fout("data.txt"); fout << "Hello"; fout.close(); cout << "Data written to file"; return 0; } cpp #include <iostream> using namespace std; class A { public: A() { cout << "Constructor called"; } ~A() { cout << "Destructor called"; } }; int main() { A obj; return 0; }"
+
+*KEY POINTS / TOPICS:*
+✅ Loops
+✅ Data types
+✅ if, else, switch
+✅ struct, class
+✅ new, delete
+✅ template
+✅ operator overloading
+✅ function overloading
+✅ nested class
+✅ friend function
+✅ pointers
+✅ references
+✅ file handling
+✅ constructor, destructor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #16*
+👤 *Shared by:* sydabukhari
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslam o Alikum ager kesi ko program likhna nhi ata tu ap ye likh dain tu bhi kuch numbers tu dey dain gay na likhnay say behter hai ye likh dain cpp #include <iostream> using namespace std; int main() { int a; cin >> a; cout << a; return 0; } cpp #include <iostream> using namespace std; int main() { int n; cin >> n; for (int i = 1; i <= n; i++) { cout << i << " "; } return 0; } cpp #include <iostream> using namespace std; int main() { int a = 5; float b = 5.5; double c = 5.55; char d = 'A'; cout << a << " " << b << " " << c << " " << d; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; if (a > 5) { cout << "Big"; } else { cout << "Small"; } return 0; } cpp #include <iostream> using namespace std; class Student { public: int roll; string name; }; int main() { Student s; s.roll = 1; s.name = "Ali"; cout << s.roll << " " << s.name; return 0; } cpp #include <iostream> using namespace std; int main() { int *p = new int; *p = 10; cout << *p; delete p; return 0; } cpp #include <iostream> using namespace std; template <class T> T add(T a, T b) { return a + b; } int main() { cout << add(5, 10); return 0; } cpp #include <iostream> using namespace std; class A { public: int x; A operator+(A obj) { A temp; temp.x = x + obj.x; return temp; } }; int main() { A a1, a2, a3; a1.x = 5; a2.x = 10; a3 = a1 + a2; cout << a3.x; return 0; } cpp #include <iostream> using namespace std; int add(int a, int b) { return a + b; } float add(float a, float b) { return a + b; } int main() { cout << add(5, 10) << endl; cout << add(5.5f, 2.5f); return 0; } cpp #include <iostream> using namespace std; class Outer { public: class Inner { public: int x = 5; }; }; int main() { Outer::Inner obj; cout << obj.x; return 0; } cpp #include <iostream> using namespace std; class A { int x = 10; public: friend void show(A obj); }; void show(A obj) { cout << obj.x; } int main() { A a; show(a); return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int *p = &a; cout << *p; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int &ref = a; ref = 20; cout << a; return 0; } cpp #include <fstream> #include <iostream> using namespace std; int main() { ofstream fout("data.txt"); fout << "Hello"; fout.close(); cout << "Data written to file"; return 0; } cpp #include <iostream> using namespace std; class A { public: A() { cout << "Constructor called"; } ~A() { cout << "Destructor called"; } }; int main() { A obj; return 0; } jazakillah and Best of luck everyone mere liay bhi zaror dua kriya ga Fi Aman illah"
+
+*KEY POINTS / TOPICS:*
+📍 CS201 and CS201P ka paper overall conceptual ata hai: subjective and objective dono hi
+📍 subjective main kuch ki output batani hoti hai aur kuch proper program likhna hota template ka program aya tha
+✅ cin, cout
+✅ Loops
+✅ Data types
+✅ if, else, switch
+✅ struct, class
+✅ new, delete
+✅ template
+✅ operator overloading
+✅ function overloading
+✅ nested class
+✅ friend function
+✅ pointers
+✅ references
+✅ file handling
+✅ constructor, destructor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #17*
+👤 *Shared by:* sydabukhari
+📅 *Date:* 30-07-2026 | ⏰ 12:00 PM
+
+💬 "Asslam o Alikum everyone ! paper sara conceptual tha CS201 ka aur CS201P ka bhi MCqs mixed thay na easy na itnay tough concept clear hun tu samjh ajati hai kuch paradox bhaiya kay notes main say bhi ay thay Thank you bro baki jin students ko program bana na nhi ata wo bs basic sa sikh lain ya rata laga lain zeyda ter tu output hi find krni hoti hai aur ager program pora likhna ho tu ye saray yaad rekh lain 1. cin, cout cpp #include <iostream> using namespace std; int main() { int a; cin >> a; cout << a; return 0; } cpp #include <iostream> using namespace std; int main() { int n; cin >> n; for (int i = 1; i <= n; i++) { cout << i << " "; } return 0; } cpp #include <iostream> using namespace std; int main() { int a = 5; float b = 5.5; double c = 5.55; char d = 'A'; cout << a << " " << b << " " << c << " " << d; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; if (a > 5) { cout << "Big"; } else { cout << "Small"; } return 0; } cpp #include <iostream> using namespace std; class Student { public: int roll; string name; }; int main() { Student s; s.roll = 1; s.name = "Ali"; cout << s.roll << " " << s.name; return 0; } cpp #include <iostream> using namespace std; int main() { int *p = new int; *p = 10; cout << *p; delete p; return 0; } cpp #include <iostream> using namespace std; template <class T> T add(T a, T b) { return a + b; } int main() { cout << add(5, 10); return 0; } cpp #include <iostream> using namespace std; class A { public: int x; A operator+(A obj) { A temp; temp.x = x + obj.x; return temp; } }; int main() { A a1, a2, a3; a1.x = 5; a2.x = 10; a3 = a1 + a2; cout << a3.x; return 0; } cpp #include <iostream> using namespace std; int add(int a, int b) { return a + b; } float add(float a, float b) { return a + b; } int main() { cout << add(5, 10) << endl; cout << add(5.5f, 2.5f); return 0; } cpp #include <iostream> using namespace std; class Outer { public: class Inner { public: int x = 5; }; }; int main() { Outer::Inner obj; cout << obj.x; return 0; } cpp #include <iostream> using namespace std; class A { int x = 10; public: friend void show(A obj); }; void show(A obj) { cout << obj.x; } int main() { A a; show(a); return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int *p = &a; cout << *p; return 0; } cpp #include <iostream> using namespace std; int main() { int a = 10; int &ref = a; ref = 20; cout << a; return 0; } cpp #include <fstream> #include <iostream> using namespace std; int main() { ofstream fout("data.txt"); fout << "Hello"; fout.close(); cout << "Data written to file"; return 0; } cpp #include <iostream> using namespace std; class A { public: A() { cout << "Constructor called"; } ~A() { cout << "Destructor called"; } }; int main() { A obj; return 0; }"
+
+*KEY POINTS / TOPICS:*
+✅ Loops
+✅ Data types
+✅ if, else, switch
+✅ struct, class
+✅ new, delete
+✅ template
+✅ operator overloading
+✅ function overloading
+✅ nested class
+✅ friend function
+✅ pointers
+✅ references
+✅ file handling
+✅ constructor, destructor
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #18*
+👤 *Shared by:* Aslan
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs easy thy preparation video or handouts se thy or subjective kafii conceputal tha kafii 2 questions mai code write krna tha 1 mai error find krna thaa bki questions mai output batani thi .. classes wala topic zaida imp mainly paper us mai se aya tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #19*
+👤 *Shared by:* Aslan
+📅 *Date:* 30-07-2026 | ⏰ 10:00 AM
+
+💬 "mcqs easy thy preparation video or handouts se thy or subjective kafii conceputal tha kafii 2 questions mai code write krna tha 1 mai error find krna thaa bki questions mai output batani thi .. classes wala topic zaida imp mainly paper us mai se aya tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #20*
+👤 *Shared by:* Jojo
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Baqi long or short questions mei output pochihoi thi wo itnay mushkil nhi thay agr question focusly prha jai to answer khuch na khuch smjh aa hi jata hai baqi overall exam was easy not much difficult."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly tool kit walay thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #21*
+👤 *Shared by:* StuckedFart
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "BHAILOG bara hi koi khatarnak paper tha mene paper ko dekhty hi bola WTF! YE HAI KIYA? anyways paper zayada tar constructer or class se aya huwa tha or short me output batana tha pta nhi kiya snjh nhi aya ir long me ab me code likhna tha aik long me matrix ko multiply karna 3 by 2 ki matrix ki thi or aik short me user se divisor or dividend lena tha phr usky sath display karwana tha remainder and qouteint Bye"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs bht conceptual thy… phar ke chaar hogayi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #22*
+👤 *Shared by:* Jojo
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Baqi long or short questions mei output pochihoi thi wo itnay mushkil nhi thay agr question focusly prha jai to answer khuch na khuch smjh aa hi jata hai baqi overall exam was easy not much difficult."
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs mostly tool kit walay thay
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #23*
+👤 *Shared by:* StuckedFart
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "BHAILOG bara hi koi khatarnak paper tha mene paper ko dekhty hi bola WTF! YE HAI KIYA? anyways paper zayada tar constructer or class se aya huwa tha or short me output batana tha pta nhi kiya snjh nhi aya ir long me ab me code likhna tha aik long me matrix ko multiply karna 3 by 2 ki matrix ki thi or aik short me user se divisor or dividend lena tha phr usky sath display karwana tha remainder and qouteint Bye"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs bht conceptual thy… phar ke chaar hogayi
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #24*
+👤 *Shared by:* Muhammad Sami
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Time: 10:00 am, Write the output of the program… template<class T> void sumdisplay(T x, T y) { cout << x + y; } int main() { sumdisplay(22, 23); sumdisplay(2.5, 2.6); } 1- write the code to display the content of file of (data.txt)… content :ahmed ali. 2-  program to open a file in reading and writing mode:"
+
+*KEY POINTS / TOPICS:*
+📍 objective:
+✅ which is destination stream.
+✅ Stream is ______ of bytes.
+✅ which operator is used to deallocate the memory?
+✅ delete operator right way to write. delete[] ptr;
+✅ STL  stand for (standard template libarary) lec#42
+✅ stdlib.h is used for
+✅ Which library/header is used for file handling in C++?
+✅ Which function used for reading files
+✅ static data member take static memory to hold its value,not in stack.
+✅ right shift>> use for 0101 ,which becomes: 1010.
+✅ destructor cannot be overloaded,no arguments,no return type
+✅ destructor is represent by:~display()
+✅ if both classes declare each other as friends, it is called a two-way friendship relationship.
+✅ malloc() and calloc() which library use?
+✅ template correct way of writing template<class T>
+✅ operator overloading definatoin.
+✅ inline keyword use.
+✅ free function () use?
+✅ preprocessor directives find:#error ,#undef
+✅ which function read file…
+✅ libarray used for file read…
+✅ ios::dec is a base 10
+✅ what is ws manipulator
+✅ this pointer use…
+✅ which function cannot be overloaded…
+📍 short qestions.
+📍 Long questions:
+📍 3- Third program was too long and have to tell its output.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #25*
+👤 *Shared by:* Muhammad Sami
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Time: 10:00 am, Write the output of the program… template<class T> void sumdisplay(T x, T y) { cout << x + y; } int main() { sumdisplay(22, 23); sumdisplay(2.5, 2.6); } 1- write the code to display the content of file of (data.txt)… content :ahmed ali. 2-  program to open a file in reading and writing mode:"
+
+*KEY POINTS / TOPICS:*
+📍 objective:
+✅ which is destination stream.
+✅ Stream is ______ of bytes.
+✅ which operator is used to deallocate the memory?
+✅ delete operator right way to write. delete[] ptr;
+✅ STL  stand for (standard template libarary) lec#42
+✅ stdlib.h is used for
+✅ Which library/header is used for file handling in C++?
+✅ Which function used for reading files
+✅ static data member take static memory to hold its value,not in stack.
+✅ right shift>> use for 0101 ,which becomes: 1010.
+✅ destructor cannot be overloaded,no arguments,no return type
+✅ destructor is represent by:~display()
+✅ if both classes declare each other as friends, it is called a two-way friendship relationship.
+✅ malloc() and calloc() which library use?
+✅ template correct way of writing template<class T>
+✅ operator overloading definatoin.
+✅ inline keyword use.
+✅ free function () use?
+✅ preprocessor directives find:#error ,#undef
+✅ which function read file…
+✅ libarray used for file read…
+✅ ios::dec is a base 10
+✅ what is ws manipulator
+✅ this pointer use…
+✅ which function cannot be overloaded…
+📍 short qestions.
+📍 Long questions:
+📍 3- Third program was too long and have to tell its output.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #26*
+👤 *Shared by:* Muhammad Sami
+📅 *Date:* 29-07-2026 | ⏰ 10:00 AM
+
+💬 "Time: 10:00 am, Write the output of the program… template<class T> void sumdisplay(T x, T y) { cout << x + y; } int main() { sumdisplay(22, 23); sumdisplay(2.5, 2.6); } 1- write the code to display the content of file of (data.txt)… content :ahmed ali. 2-  program to open a file in reading and writing mode:"
+
+*KEY POINTS / TOPICS:*
+📍 objective:
+✅ which is destination stream.
+✅ Stream is ______ of bytes.
+✅ which operator is used to deallocate the memory?
+✅ delete operator right way to write. delete[] ptr;
+✅ STL  stand for (standard template libarary) lec#42
+✅ stdlib.h is used for
+✅ Which library/header is used for file handling in C++?
+✅ Which function used for reading files
+✅ static data member take static memory to hold its value,not in stack.
+✅ right shift>> use for 0101 ,which becomes: 1010.
+✅ destructor cannot be overloaded,no arguments,no return type
+✅ destructor is represent by:~display()
+✅ if both classes declare each other as friends, it is called a two-way friendship relationship.
+✅ malloc() and calloc() which library use?
+✅ template correct way of writing template<class T>
+✅ operator overloading definatoin.
+✅ inline keyword use.
+✅ free function () use?
+✅ preprocessor directives find:#error ,#undef
+✅ which function read file…
+✅ libarray used for file read…
+✅ ios::dec is a base 10
+✅ what is ws manipulator
+✅ this pointer use…
+✅ which function cannot be overloaded…
+📍 short qestions.
+📍 Long questions:
+📍 3- Third program was too long and have to tell its output.
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #27*
+👤 *Shared by:* Jiya
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper sra conceptual tha. And aik main exclusive XOR operator ka use kr ky coding likhni thi"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS mostly khaliq Mirza k lectures se aye thy MCQS was easy..
+📍 Questions sare conceptual thy 3 questions main output nikalni thi and baqi sub main program ki coding likhni thi
+📍 1 question cin.getline features ka tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #28*
+👤 *Shared by:* Jiya
+📅 *Date:* 29-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper sra conceptual tha. And aik main exclusive XOR operator ka use kr ky coding likhni thi"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS mostly khaliq Mirza k lectures se aye thy MCQS was easy..
+📍 Questions sare conceptual thy 3 questions main output nikalni thi and baqi sub main program ki coding likhni thi
+📍 1 question cin.getline features ka tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #29*
+👤 *Shared by:* Milli
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "MCQS 2,3 world of education ki video se aye thy & kuch extension wale thy is liye MCQS to phr ho gaye but Subjective bht difficult tha short mein 3 question to coding based thy coding krni thi aur Baki aik error found krna tha aur mostly output batana thaa. So my opinion is: MCQS pr grip kijiye bcz coding next level ki ati kuch smj nhe ata jitna marzi practice krke jao aap blank situation hoti paper ke time Baki best of luck all❣️"
+
+*KEY POINTS / TOPICS:*
+📍 Imp topics Matrix, Friends , Templates (most imp) overloading bhi bht aya hua tha...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #30*
+👤 *Shared by:* Milli
+📅 *Date:* 29-07-2026 | ⏰ 06:30 PM
+
+💬 "MCQS 2,3 world of education ki video se aye thy & kuch extension wale thy is liye MCQS to phr ho gaye but Subjective bht difficult tha short mein 3 question to coding based thy coding krni thi aur Baki aik error found krna tha aur mostly output batana thaa. So my opinion is: MCQS pr grip kijiye bcz coding next level ki ati kuch smj nhe ata jitna marzi practice krke jao aap blank situation hoti paper ke time Baki best of luck all❣️"
+
+*KEY POINTS / TOPICS:*
+📍 Imp topics Matrix, Friends , Templates (most imp) overloading bhi bht aya hua tha...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #31*
+👤 *Shared by:* UNKNOWN_STRANGER
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "PAPER MOSTLY CONCEPTUAL THA MCQ P4R4D0X OUR EDUCATIONAL WORLD KI PREPARATION SE AYA THA 1 SHORT THA OUTPUT FIND KRNA THA OUR 1 KA OUTPUT BTANA THA 1 LONG MN PROGRAM LIKHNA THA & 1 MN OUTPUT BTANII THII BAKI MJY BHOOL GYA OUR HAAN AIK LONG CALSS WALY LECTURE SE AYA THA BAKI BESHT OF LUCK GUIZ 🍀🤞🏻"
+
+*KEY POINTS / TOPICS:*
+📍 OUR MOSTLY MCQ B CLASS WALY SE AYE THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #32*
+👤 *Shared by:* UNKNOWN_STRANGER
+📅 *Date:* 28-07-2026 | ⏰ 12:00 PM
+
+💬 "PAPER MOSTLY CONCEPTUAL THA MCQ P4R4D0X OUR EDUCATIONAL WORLD KI PREPARATION SE AYA THA 1 SHORT THA OUTPUT FIND KRNA THA OUR 1 KA OUTPUT BTANA THA 1 LONG MN PROGRAM LIKHNA THA & 1 MN OUTPUT BTANII THII BAKI MJY BHOOL GYA OUR HAAN AIK LONG CALSS WALY LECTURE SE AYA THA BAKI BESHT OF LUCK GUIZ 🍀🤞🏻"
+
+*KEY POINTS / TOPICS:*
+📍 OUR MOSTLY MCQ B CLASS WALY SE AYE THY
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #33*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Ofc k kam ki wja sy time na mila islye abi kal or aj k papr k review dy rh CS201 & CS201P CS201: Q&A m float x = 2.1; float vari; 1 variable th var[3] for loop th 0 sy <3 th or iski body m { vari = x++ cout vari endl; } iska output 2.1, 3.1, 4.1 hoga ku k y post increment ho rha h struct student { char name[10]; int age; int roll_no; } ismy jsy name agr or roll no define krna th wo given th or us sy phly memory m space allocate krni th CS201P: Q&A class ABC{ ABC(int a = 50){ a = ++a; cout >> a; } viod display(string Grade = "None"){ cout Grade; } } main { student s1; student s2(90); s1.display("A"); s2.display(); } iska output predict krna th"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS tw bht easy th agr basic prha h tw
+✅ Function lkhna th k ksy function bnaty h
+✅ tempelate function lkha th uska output btana th k kia ayega
+✅ structure define ka
+✅ y bhul gya
+📍 MCQS easy th zyda tr code th uska output predict krna th
+✅ template function bna hua th uska code define krna h
+✅ 1 class th Student k nam sy or usmy constructor m default value asign th or nchy display function th usmy b default value asign th
+✅ matrix k output predict krna th
+✅ error find krna th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #34*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Ofc k kam ki wja sy time na mila islye abi kal or aj k papr k review dy rh CS201 & CS201P CS201: Q&A m float x = 2.1; float vari; 1 variable th var[3] for loop th 0 sy <3 th or iski body m { vari = x++ cout vari endl; } iska output 2.1, 3.1, 4.1 hoga ku k y post increment ho rha h struct student { char name[10]; int age; int roll_no; } ismy jsy name agr or roll no define krna th wo given th or us sy phly memory m space allocate krni th CS201P: Q&A class ABC{ ABC(int a = 50){ a = ++a; cout >> a; } viod display(string Grade = "None"){ cout Grade; } } main { student s1; student s2(90); s1.display("A"); s2.display(); } iska output predict krna th"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS tw bht easy th agr basic prha h tw
+✅ Function lkhna th k ksy function bnaty h
+✅ tempelate function lkha th uska output btana th k kia ayega
+✅ structure define ka
+✅ y bhul gya
+📍 MCQS easy th zyda tr code th uska output predict krna th
+✅ template function bna hua th uska code define krna h
+✅ 1 class th Student k nam sy or usmy constructor m default value asign th or nchy display function th usmy b default value asign th
+✅ matrix k output predict krna th
+✅ error find krna th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #35*
+👤 *Shared by:* Huzaifa Shyk
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Ofc k kam ki wja sy time na mila islye abi kal or aj k papr k review dy rh CS201 & CS201P CS201: Q&A m float x = 2.1; float vari; 1 variable th var[3] for loop th 0 sy <3 th or iski body m { vari = x++ cout vari endl; } iska output 2.1, 3.1, 4.1 hoga ku k y post increment ho rha h struct student { char name[10]; int age; int roll_no; } ismy jsy name agr or roll no define krna th wo given th or us sy phly memory m space allocate krni th CS201P: Q&A class ABC{ ABC(int a = 50){ a = ++a; cout >> a; } viod display(string Grade = "None"){ cout Grade; } } main { student s1; student s2(90); s1.display("A"); s2.display(); } iska output predict krna th"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS tw bht easy th agr basic prha h tw
+✅ Function lkhna th k ksy function bnaty h
+✅ tempelate function lkha th uska output btana th k kia ayega
+✅ structure define ka
+✅ y bhul gya
+📍 MCQS easy th zyda tr code th uska output predict krna th
+✅ template function bna hua th uska code define krna h
+✅ 1 class th Student k nam sy or usmy constructor m default value asign th or nchy display function th usmy b default value asign th
+✅ matrix k output predict krna th
+✅ error find krna th
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #36*
+👤 *Shared by:* Fiza
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "yai 2 same as it is asy he aye thy short mein ek question tha ky agr hum memory   ko deallocate nhi krty to hamein konsi problem face krni prti hain.(theory type question tha) int i =5 while(--i){ cout<<i<<; baki mjhe yaad nhi arhy hain leikn paper easy tha (CLASSES WALA TOPIC ap log usy ratt lyn paper ka 50 to  70%  isi topic pr base kr rha tha or memory allocation ko bhi .... baki Vu talk ky lectures daikh lyn bht acha smjhaty hain wo lecture 19 to 35 tk to ap log lazmi kren 90% paper hojayega baki BEST OF LUCK ALLAH ap sb ky lie asaniyan kry Remind me in your prayers......"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs cocneptual thy kisi ki file sy nhi aye ek ya do bs aye thy....
+📍 subjective part  bht easy tha jin logon ny tyari ki ha unky lie to paper halwa hoga.
+📍 Which statement is true about constructor:(yai mcqs tha baki mjhe yaad nhi hain sorry)
+📍 LONG:
+✅ write a C++ program which writes all english alphabates into file named myfile.txt using for loop.
+✅ write just class named student info that store id, name,add and cgpa.
+📍 or ek ka output batana tha question yai tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #37*
+👤 *Shared by:* ayeshakanwal
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "paper ma shorts or longs ma zada tr output find krni thi is ka ilawa 1 program aya tha jis ma integer positive negitive or zero ka batana tha 3 outputs classes walay topics ma tha ak matrices wala short tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #38*
+👤 *Shared by:* Fiza
+📅 *Date:* 28-07-2026 | ⏰ 04:30 PM
+
+💬 "yai 2 same as it is asy he aye thy short mein ek question tha ky agr hum memory   ko deallocate nhi krty to hamein konsi problem face krni prti hain.(theory type question tha) int i =5 while(--i){ cout<<i<<; baki mjhe yaad nhi arhy hain leikn paper easy tha (CLASSES WALA TOPIC ap log usy ratt lyn paper ka 50 to  70%  isi topic pr base kr rha tha or memory allocation ko bhi .... baki Vu talk ky lectures daikh lyn bht acha smjhaty hain wo lecture 19 to 35 tk to ap log lazmi kren 90% paper hojayega baki BEST OF LUCK ALLAH ap sb ky lie asaniyan kry Remind me in your prayers......"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs cocneptual thy kisi ki file sy nhi aye ek ya do bs aye thy....
+📍 subjective part  bht easy tha jin logon ny tyari ki ha unky lie to paper halwa hoga.
+📍 Which statement is true about constructor:(yai mcqs tha baki mjhe yaad nhi hain sorry)
+📍 LONG:
+✅ write a C++ program which writes all english alphabates into file named myfile.txt using for loop.
+✅ write just class named student info that store id, name,add and cgpa.
+📍 or ek ka output batana tha question yai tha
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #39*
+👤 *Shared by:* ayeshakanwal
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "paper ma shorts or longs ma zada tr output find krni thi is ka ilawa 1 program aya tha jis ma integer positive negitive or zero ka batana tha 3 outputs classes walay topics ma tha ak matrices wala short tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #40*
+👤 *Shared by:* shadow
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper normal tha. kuch questions confusing the aur kuch simple. 2 shorts mai output btana tha aur aik mai tellg aur seekg ka diff btana tha. long mai binary operators ke name likhne the. aik long mai program likhna tha. paradox ke mcqs mai se sirf 1 aya tha. wo mcq bs concepts clear krne ke liye use kiye ja sakte hain."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #41*
+👤 *Shared by:* shadow
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Paper normal tha. kuch questions confusing the aur kuch simple. 2 shorts mai output btana tha aur aik mai tellg aur seekg ka diff btana tha. long mai binary operators ke name likhne the. aik long mai program likhna tha. paradox ke mcqs mai se sirf 1 aya tha. wo mcq bs concepts clear krne ke liye use kiye ja sakte hain."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #42*
+👤 *Shared by:* Muhammad SANAULLAH
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Asslam O Aleikum everyone Paper thek tha McQs vutoolkit main sy almost 15 same Dito copy  tha baki ak 2 code ka error find Karna tha ur kuch ki output likhni thi Baki paper overall acha ho gya ha alhumduilah"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #43*
+👤 *Shared by:* Muhammad SANAULLAH
+📅 *Date:* 28-07-2026 | ⏰ 10:00 AM
+
+💬 "Asslam O Aleikum everyone Paper thek tha McQs vutoolkit main sy almost 15 same Dito copy  tha baki ak 2 code ka error find Karna tha ur kuch ki output likhni thi Baki paper overall acha ho gya ha alhumduilah"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #44*
+👤 *Shared by:* ~R~
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper totally conceptual tha mcqs Kuch handout MN Sy thy baaqi sary concept base mean coding related or long short main ek do ki output likhni thee ek ka error tha or 2 program likhny thy yhh b conceptual🙄....bsss concept clear ho coding ka to paper easy na ziada mushkil tha na ziada asan bss jidr code khud likhna tha wo mushkil tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #45*
+👤 *Shared by:* ~R~
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper totally conceptual tha mcqs Kuch handout MN Sy thy baaqi sary concept base mean coding related or long short main ek do ki output likhni thee ek ka error tha or 2 program likhny thy yhh b conceptual🙄....bsss concept clear ho coding ka to paper easy na ziada mushkil tha na ziada asan bss jidr code khud likhna tha wo mushkil tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #46*
+👤 *Shared by:* ~R~
+📅 *Date:* 28-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper totally conceptual tha mcqs Kuch handout MN Sy thy baaqi sary concept base mean coding related or long short main ek do ki output likhni thee ek ka error tha or 2 program likhny thy yhh b conceptual🙄....bsss concept clear ho coding ka to paper easy na ziada mushkil tha na ziada asan bss jidr code khud likhna tha wo mushkil tha"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #47*
+👤 *Shared by:* -----
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "paper was so conceptual sab mix tha obj eassy be thi or kouch concept based thi calloc ka program ha tha setf()ka  progrm tha jis ma 15 bit right hand sa aisa tha kouch two class ka instance ka progrm tha aik output thi  swap ki swap ka program tha 2 output thi aik thi factorial  or divide karna tha ghooma kr di thi aik two value ko add or subtract ka tha ya be simple nhi tha baqi overall thk tha best of luck guys"
+
+*KEY POINTS / TOPICS:*
+📍 or subj ma short was so taugh
+📍 long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #48*
+👤 *Shared by:* ZAINAB
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "CS201: CS201P: CS201P zada easy tha as compared to CS201 CS201 may zada tar Constructor and Destructor k thy programs ...and CS201 may array and pointers k"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs past papers sy thy 70% and Baki bhi easy e thy...
+📍 Subjective may sirf error and Output btani thi...Thora sa complex tha code
+📍 Objective bht zada easy tha...bht basic
+📍 Subjective may 2 thy output k...aik error identification thi...and Aik Program write krna tha Chota sa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #49*
+👤 *Shared by:* Zahra
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs files Mai c thy zyada or kch concept base py thy kch mei output btani Thi . Short or long questions sb mei output btani Thi bs ek short tha friend member wally topic mei c orr last 43 ,44 or 45 lecture mei c long thy . Almost paper bs thk tha na zyada mushkil na asaan.  Program ki output wally must kr KY Jai . All the best"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #50*
+👤 *Shared by:* -----
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "paper was so conceptual sab mix tha obj eassy be thi or kouch concept based thi calloc ka program ha tha setf()ka  progrm tha jis ma 15 bit right hand sa aisa tha kouch two class ka instance ka progrm tha aik output thi  swap ki swap ka program tha 2 output thi aik thi factorial  or divide karna tha ghooma kr di thi aik two value ko add or subtract ka tha ya be simple nhi tha baqi overall thk tha best of luck guys"
+
+*KEY POINTS / TOPICS:*
+📍 or subj ma short was so taugh
+📍 long
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #51*
+👤 *Shared by:* ZAINAB
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "CS201: CS201P: CS201P zada easy tha as compared to CS201 CS201 may zada tar Constructor and Destructor k thy programs ...and CS201 may array and pointers k"
+
+*KEY POINTS / TOPICS:*
+📍 MCQs past papers sy thy 70% and Baki bhi easy e thy...
+📍 Subjective may sirf error and Output btani thi...Thora sa complex tha code
+📍 Objective bht zada easy tha...bht basic
+📍 Subjective may 2 thy output k...aik error identification thi...and Aik Program write krna tha Chota sa
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #52*
+👤 *Shared by:* Zahra
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqs files Mai c thy zyada or kch concept base py thy kch mei output btani Thi . Short or long questions sb mei output btani Thi bs ek short tha friend member wally topic mei c orr last 43 ,44 or 45 lecture mei c long thy . Almost paper bs thk tha na zyada mushkil na asaan.  Program ki output wally must kr KY Jai . All the best"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #53*
+👤 *Shared by:* ...
+📅 *Date:* 27-07-2026 | ⏰ 04:30 PM
+
+💬 "Sara paper conceptual tha,inline ka pucha Huwa tha,getin,or shyd write ka Kuch pucha tha sath,ptr ki to puray paper main inhu ne Jan ni chori Kuch short question b is pr thay or out put k ,paper ziada tar esa hi tha program de k uski output puchty hain.me to coding ko hi sikhti Rahi output pe dehan ni dia muje mushkil hui bs tukkay lga aye hu objective b time taking tha coding se related ni tha bs template function class me class ho to us se related question thay ik ye b tha constructor lgana Bhool jaien to Kiya hoga .objective me programing ni thi or subjective me program de k output puchi thi .time km HOTA hai soch k krny wala paper hai .template k b. 2,3 question thay ."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #54*
+👤 *Shared by:* Mohtasim
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "AJ ka exam bht zayadah mushkil ya asan nahi tha ... Agr apke thorde buhat concepts clear hun gy to ap paper easily kr pao gy. paradox k msqs at least once , go through zrur kro and preparation start krne sy pehy reviews read kr lu , is se buhat sari help ho jati hai . code ka output pucha gaya tha AND , OR , XOR and NOT operators malloc ... bs inta hi yaad raha hai or ek mein error find kr k usy correct krna waisy maine itna kia nahi jitna bta chuka ho Best of Luck , Everyone!! Thanks paradox !!"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS:
+📍 mcsqs all most sary hi lectures sy aye thy . operators and functions k related kafi thy mcqs .
+📍 constructor and destructor k do ya teen questions thy .
+📍 SUBJECTIVE :
+📍 SHORT QUESTIONS :
+📍 sary questions code waly thy . output btana tha
+📍 LONG QUESTIONS :
+📍 function definition k related tha ek . orr baqi yaad nahi ...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #55*
+👤 *Shared by:* Mohtasim
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "AJ ka exam bht zayadah mushkil ya asan nahi tha ... Agr apke thorde buhat concepts clear hun gy to ap paper easily kr pao gy. paradox k msqs at least once , go through zrur kro and preparation start krne sy pehy reviews read kr lu , is se buhat sari help ho jati hai . code ka output pucha gaya tha AND , OR , XOR and NOT operators malloc ... bs inta hi yaad raha hai or ek mein error find kr k usy correct krna waisy maine itna kia nahi jitna bta chuka ho Best of Luck , Everyone!! Thanks paradox !!"
+
+*KEY POINTS / TOPICS:*
+📍 MCQS:
+📍 mcsqs all most sary hi lectures sy aye thy . operators and functions k related kafi thy mcqs .
+📍 constructor and destructor k do ya teen questions thy .
+📍 SUBJECTIVE :
+📍 SHORT QUESTIONS :
+📍 sary questions code waly thy . output btana tha
+📍 LONG QUESTIONS :
+📍 function definition k related tha ek . orr baqi yaad nahi ...
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #56*
+👤 *Shared by:* Ayesha Fahad
+📅 *Date:* 26-07-2026 | ⏰ 12:00 PM
+
+💬 "Out put find krni Thi Aik cin and cout ki destination btani thi"
+
+*KEY POINTS / TOPICS:*
+📍 Some mcqs from paradox and some from world for education mostly from handouts
+📍 Short question
+📍 Long questions
+📍 2 question ki output btani thi or 2 k code likhny thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #57*
+👤 *Shared by:* Abdul Rehman
+📅 *Date:* 26-06-2026 | ⏰ 08:00 AM
+
+💬 "Outputs ai the overall easy tha binary classroom k lecs lo sab cover hu jai GA."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #58*
+👤 *Shared by:* Ayesha Fahad
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Out put find krni Thi Aik cin and cout ki destination btani thi"
+
+*KEY POINTS / TOPICS:*
+📍 Some mcqs from paradox and some from world for education mostly from handouts
+📍 Short question
+📍 Long questions
+📍 2 question ki output btani thi or 2 k code likhny thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #59*
+👤 *Shared by:* Ayesha Fahad
+📅 *Date:* 26-07-2026 | ⏰ 12:00 PM
+
+💬 "Out put find krni Thi Aik cin and cout ki destination btani thi"
+
+*KEY POINTS / TOPICS:*
+📍 Some mcqs from paradox and some from world for education mostly from handouts
+📍 Short question
+📍 Long questions
+📍 2 question ki output btani thi or 2 k code likhny thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #60*
+👤 *Shared by:* Abdul Rehman
+📅 *Date:* 26-06-2026 | ⏰ 08:00 AM
+
+💬 "Outputs ai the overall easy tha binary classroom k lecs lo sab cover hu jai GA."
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #61*
+👤 *Shared by:* Ayesha Fahad
+📅 *Date:* 27-07-2026 | ⏰ 12:00 PM
+
+💬 "Out put find krni Thi Aik cin and cout ki destination btani thi"
+
+*KEY POINTS / TOPICS:*
+📍 Some mcqs from paradox and some from world for education mostly from handouts
+📍 Short question
+📍 Long questions
+📍 2 question ki output btani thi or 2 k code likhny thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #62*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper tough tha kaafi mcqs kuch vutoolkit waly aaye huwe thy baqi mcqs kafi conceptual thy ghuma phira k diye huwe classes wala topic kafi zyada important hai maximum paper wahi sy aaya huwa tha short mein class thi error find kr k correct likha tha dusrya short bhi class sy tha error detect krna tha ek reference pointer sy tha error detect krna tha ek mein output btani thi long question bhi class mein sy tha khud class bnani thi student ki oor object bnana tha sath object k pta ni function display krna tha bhool gya sahi sy yaad ni ek long array oor matrix ka tha output btani thi lkn iss ka formula kafi ajeeb sa tha teesra long bhi class sy related hi th overall kafi dimagh ghumaya paper ny"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #63*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper tough tha kaafi mcqs kuch vutoolkit waly aaye huwe thy baqi mcqs kafi conceptual thy ghuma phira k diye huwe classes wala topic kafi zyada important hai maximum paper wahi sy aaya huwa tha short mein class thi error find kr k correct likha tha dusrya short bhi class sy tha error detect krna tha ek reference pointer sy tha error detect krna tha ek mein output btani thi long question bhi class mein sy tha khud class bnani thi student ki oor object bnana tha sath object k pta ni function display krna tha bhool gya sahi sy yaad ni ek long array oor matrix ka tha output btani thi lkn iss ka formula kafi ajeeb sa tha teesra long bhi class sy related hi th overall kafi dimagh ghumaya paper ny"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #64*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Paper tough tha kaafi mcqs kuch vutoolkit waly aaye huwe thy baqi mcqs kafi conceptual thy ghuma phira k diye huwe classes wala topic kafi zyada important hai maximum paper wahi sy aaya huwa tha short mein class thi error find kr k correct likha tha dusrya short bhi class sy tha error detect krna tha ek reference pointer sy tha error detect krna tha ek mein output btani thi long question bhi class mein sy tha khud class bnani thi student ki oor object bnana tha sath object k pta ni function display krna tha bhool gya sahi sy yaad ni ek long array oor matrix ka tha output btani thi lkn iss ka formula kafi ajeeb sa tha teesra long bhi class sy related hi th overall kafi dimagh ghumaya paper ny"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #65*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Practical paper thora easy tha mcqs bhi kafi toolkit waly thy kuch hi thy jo ghuma phira k diye thy conceptual 4 long questions thy jin mein sy ek theory based tha ws manipulator k bary mein tha oor kis data type mein useful wo btana tha ek long switch statement sy tha hmein unho ny kuch data provide kiya huwa tha oor hm ng programme code likhna tha ek long file handling mein sy tha kafi bara code likha huwa tha uss mein errors detect kr k correct likhna tha ek output wala tha wo yaad ni"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #66*
+👤 *Shared by:* Hamza
+📅 *Date:* 27-07-2026 | ⏰ 10:00 AM
+
+💬 "Practical paper thora easy tha mcqs bhi kafi toolkit waly thy kuch hi thy jo ghuma phira k diye thy conceptual 4 long questions thy jin mein sy ek theory based tha ws manipulator k bary mein tha oor kis data type mein useful wo btana tha ek long switch statement sy tha hmein unho ny kuch data provide kiya huwa tha oor hm ng programme code likhna tha ek long file handling mein sy tha kafi bara code likha huwa tha uss mein errors detect kr k correct likhna tha ek output wala tha wo yaad ni"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #67*
+👤 *Shared by:* Nida Tariq
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Long ma tellg, tellp, seekg or seekp ka ik table diya tha jis ma in k function likhy huwy thy answer ma bs btana tha k konsa function kis ka Hy Ik set precision ka code likhna tha 2 programs k output likhny thy ik Array ka tha or ik template ka"
+
+*KEY POINTS / TOPICS:*
+📍 CS 201 paper mostly unhi mcq ma sy tha Jo extension ma thy taqreebn 20+ mcq aai thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #68*
+👤 *Shared by:* Nida Tariq
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "Long ma tellg, tellp, seekg or seekp ka ik table diya tha jis ma in k function likhy huwy thy answer ma bs btana tha k konsa function kis ka Hy Ik set precision ka code likhna tha 2 programs k output likhny thy ik Array ka tha or ik template ka"
+
+*KEY POINTS / TOPICS:*
+📍 CS 201 paper mostly unhi mcq ma sy tha Jo extension ma thy taqreebn 20+ mcq aai thy
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #69*
+👤 *Shared by:* Lilli
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "It's all about concept based but the main topic which is repeated streams,pointer, strings and other in Long they ask one output and second one is find out error bro it's all about if you cleared all your topics with concepts you can get full marks otherwise passing marks maybe"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #70*
+👤 *Shared by:* Lilli
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "It's all about concept based but the main topic which is repeated streams,pointer, strings and other in Long they ask one output and second one is find out error bro it's all about if you cleared all your topics with concepts you can get full marks otherwise passing marks maybe"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #71*
+👤 *Shared by:* Lilli
+📅 *Date:* 27-07-2026 | ⏰ 08:00 AM
+
+💬 "It's all about concept based but the main topic which is repeated streams,pointer, strings and other in Long they ask one output and second one is find out error bro it's all about if you cleared all your topics with concepts you can get full marks otherwise passing marks maybe"

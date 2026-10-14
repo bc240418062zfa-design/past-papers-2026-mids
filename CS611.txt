@@ -1,0 +1,183 @@
+📢 *SUBJECT: CS611*
+━━━━━━━━━━━━━━━━━━━━
+
+📝 *REVIEW #1*
+👤 *Shared by:* fakeha
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+💬 "1- regression testing 2- black-box testing 3-impact analysis k steps 4-SPI formula 5-functional testing 6-scenario tha us main attribute btana tha knsa ae ga software requirement tw sary he requirement parh lyna easy hain 7-unit testing"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs handouts sy ae thy agr krna hai tw 2 files or handout prepare kr lo
+📍 short q/a topic
+📍 long q/a topic
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #2*
+👤 *Shared by:* fakeha
+📅 *Date:* 31-07-2026 | ⏰ 06:30 PM
+
+💬 "1- regression testing 2- black-box testing 3-impact analysis k steps 4-SPI formula 5-functional testing 6-scenario tha us main attribute btana tha knsa ae ga software requirement tw sary he requirement parh lyna easy hain 7-unit testing"
+
+*KEY POINTS / TOPICS:*
+📍 mcqs handouts sy ae thy agr krna hai tw 2 files or handout prepare kr lo
+📍 short q/a topic
+📍 long q/a topic
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #3*
+👤 *Shared by:* Laraib
+📅 *Date:* 31-07-2026 | ⏰ 12: PM
+
+💬 "Paper was so easy,sab Kuch handouts mei sae tha , paradox k MCQs mei sae bhi MCQs thy Baki handouts ko achy sae read krlo ak baar concepts clear krlo paper bht easy ho jyega Short mei tha k ak calculator hai us pr value hai something zero sae divide kia yh knc testing hai r ak tha regression testing ki definition di hoi thi am sanario mei r pocha tha yh knc testing hai ,r ak question tha requirements Wala black box testing yhi long mei"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #4*
+👤 *Shared by:* Laraib
+📅 *Date:* 31-07-2026 | ⏰ 12: PM
+
+💬 "Paper was so easy,sab Kuch handouts mei sae tha , paradox k MCQs mei sae bhi MCQs thy Baki handouts ko achy sae read krlo ak baar concepts clear krlo paper bht easy ho jyega Short mei tha k ak calculator hai us pr value hai something zero sae divide kia yh knc testing hai r ak tha regression testing ki definition di hoi thi am sanario mei r pocha tha yh knc testing hai ,r ak question tha requirements Wala black box testing yhi long mei"
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #5*
+👤 *Shared by:* Qammas
+📅 *Date:* 31-07-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Sary Mcqs Paradox wali file sy thy bs 3 sy 4 alag sy ay thy agr handouts sahi syread kiye hn to mcqs ho jaengy sary
+📍 short
+✅ SPI ka formula likhna tha
+✅ scenario tha (software company ny client ko demo version diya but client ny or new feature add krny kha hy , to company ya developer team new feature add krny sy pehly kia krygi)
+✅ scenario tha jis m developer or tester website k feature test kr rha tha to us testing ko kia bolengy
+📍 Long
+✅ Repeat tha jo previous reviews ay hn social media login wala
+✅ SQA kon sa tool use krti hy apny kam kreny k liye
+✅ test report m kia kia include hota hy
+✅ team ny software ka V2 client ko diya but client ny reject krdiya or kha k previous version wapis chahaiye  to konsa process use krengy k asani sy previous version ko fetch krsken
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #6*
+👤 *Shared by:* Qammas
+📅 *Date:* 31-07-2026 | ⏰ 02:30 PM
+
+*KEY POINTS / TOPICS:*
+📍 Sary Mcqs Paradox wali file sy thy bs 3 sy 4 alag sy ay thy agr handouts sahi syread kiye hn to mcqs ho jaengy sary
+📍 short
+✅ SPI ka formula likhna tha
+✅ scenario tha (software company ny client ko demo version diya but client ny or new feature add krny kha hy , to company ya developer team new feature add krny sy pehly kia krygi)
+✅ scenario tha jis m developer or tester website k feature test kr rha tha to us testing ko kia bolengy
+📍 Long
+✅ Repeat tha jo previous reviews ay hn social media login wala
+✅ SQA kon sa tool use krti hy apny kam kreny k liye
+✅ test report m kia kia include hota hy
+✅ team ny software ka V2 client ko diya but client ny reject krdiya or kha k previous version wapis chahaiye  to konsa process use krengy k asani sy previous version ko fetch krsken
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #7*
+👤 *Shared by:* xyz
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "best of luck guys for exam"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs Handouts + paradox file must read the handouts thoroughly
+📍 all the subjective question are scenario base from the topics software attributes , SPI formula, testing types
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #8*
+👤 *Shared by:* xyz
+📅 *Date:* 29-07-2026 | ⏰ 04:30 PM
+
+💬 "best of luck guys for exam"
+
+*KEY POINTS / TOPICS:*
+📍 Mcqs Handouts + paradox file must read the handouts thoroughly
+📍 all the subjective question are scenario base from the topics software attributes , SPI formula, testing types
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #9*
+👤 *Shared by:* Mrs Mubeen Raza
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqz easy thy vu toolkit extension ma sy thy or kuch handout sy 1-A client has given the following requirement: "The product shall provide alerts quickly." Identify which attribute of software requirement is being violated here. Suggest what should be done to improve this requirement. 2-Who is considered the internal customer of the software product? 3-A QA engineer performs a test to check if data access privileges are enforced and backups are defined before formal testing. What is this testing activity called, and is it functional testing? 4-A tester is checking if a hotel booking feature works from user registration to sending booking ID via email. What type of testing is this? 5-During a project meeting, a developer proposes implementing multiple social media logins when the client only asked for one. Later, the client rejects the demo. 1-Which attribute of software requirement was ignored by the developer? Explain why it caused rejection. 2-What does structural testing verify in a software product? 3-A developer writes tests for individual functions to check if they work as expected before formal testing starts. What type of testing is this, and who performs it?"
+
+*KEY POINTS / TOPICS:*
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #10*
+👤 *Shared by:* Mrs Mubeen Raza
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqz easy thy vu toolkit extension ma sy thy or kuch handout sy 1-A client has given the following requirement: "The product shall provide alerts quickly." Identify which attribute of software requirement is being violated here. Suggest what should be done to improve this requirement. 2-Who is considered the internal customer of the software product? 3-A QA engineer performs a test to check if data access privileges are enforced and backups are defined before formal testing. What is this testing activity called, and is it functional testing? 4-A tester is checking if a hotel booking feature works from user registration to sending booking ID via email. What type of testing is this? 5-During a project meeting, a developer proposes implementing multiple social media logins when the client only asked for one. Later, the client rejects the demo. 1-Which attribute of software requirement was ignored by the developer? Explain why it caused rejection. 2-What does structural testing verify in a software product? 3-A developer writes tests for individual functions to check if they work as expected before formal testing starts. What type of testing is this, and who performs it?"
+
+*KEY POINTS / TOPICS:*
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #11*
+👤 *Shared by:* Mrs Mubeen Raza
+📅 *Date:* 29-07-2026 | ⏰ 12:00 PM
+
+💬 "Mcqz easy thy vu toolkit extension ma sy thy or kuch handout sy 1-A client has given the following requirement: "The product shall provide alerts quickly." Identify which attribute of software requirement is being violated here. Suggest what should be done to improve this requirement. 2-Who is considered the internal customer of the software product? 3-A QA engineer performs a test to check if data access privileges are enforced and backups are defined before formal testing. What is this testing activity called, and is it functional testing? 4-A tester is checking if a hotel booking feature works from user registration to sending booking ID via email. What type of testing is this? 5-During a project meeting, a developer proposes implementing multiple social media logins when the client only asked for one. Later, the client rejects the demo. 1-Which attribute of software requirement was ignored by the developer? Explain why it caused rejection. 2-What does structural testing verify in a software product? 3-A developer writes tests for individual functions to check if they work as expected before formal testing starts. What type of testing is this, and who performs it?"
+
+*KEY POINTS / TOPICS:*
+📍 Short:
+📍 Long:
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #12*
+👤 *Shared by:* Rameen
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "♦️Impact of low domain knowledge ♦️Test planning and preparation sy related tha ♦️ Statements di hui thi identify krna tha knsi testing activity use horhi ha kon perform krta ♦️2 questions software attribues sy related thy ye bi conceptual thy statements di hui thi btana tha knsy software attribute sy relate krti statement"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️Mcqs sary handouts sy thy statement di hui thi conceptual koi nhi tha
+📍 *Subjective*
+📍 ♦️Almost 90% questions conceptual thy statements di thi testing activity and software attributes identify krny thy
+📍 ♦️1 question is trah tha Before incorporating any new requirements what shoud do
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #13*
+👤 *Shared by:* Rameen
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "♦️Impact of low domain knowledge ♦️Test planning and preparation sy related tha ♦️ Statements di hui thi identify krna tha knsi testing activity use horhi ha kon perform krta ♦️2 questions software attribues sy related thy ye bi conceptual thy statements di hui thi btana tha knsy software attribute sy relate krti statement"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️Mcqs sary handouts sy thy statement di hui thi conceptual koi nhi tha
+📍 *Subjective*
+📍 ♦️Almost 90% questions conceptual thy statements di thi testing activity and software attributes identify krny thy
+📍 ♦️1 question is trah tha Before incorporating any new requirements what shoud do
+
+✨ ═════════════════════════ ✨
+
+📝 *REVIEW #14*
+👤 *Shared by:* Rameen
+📅 *Date:* 28-07-2026 | ⏰ 02:30 PM
+
+💬 "♦️Impact of low domain knowledge ♦️Test planning and preparation sy related tha ♦️ Statements di hui thi identify krna tha knsi testing activity use horhi ha kon perform krta ♦️2 questions software attribues sy related thy ye bi conceptual thy statements di hui thi btana tha knsy software attribute sy relate krti statement"
+
+*KEY POINTS / TOPICS:*
+📍 *Objective*
+📍 ♦️Mcqs sary handouts sy thy statement di hui thi conceptual koi nhi tha
+📍 *Subjective*
+📍 ♦️Almost 90% questions conceptual thy statements di thi testing activity and software attributes identify krny thy
+📍 ♦️1 question is trah tha Before incorporating any new requirements what shoud do
